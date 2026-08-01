@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043707542887714990",
+    "created_at": "2026-04-13T17:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043748539227091074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043748539227091074",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043707542887714990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 可以看看我的帖子和我置顶的那个文档，希望能帮到你🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043707542887714990",
+        "created_at": "2026-04-13T17:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043748539227091074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043748539227091074",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707542887714990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 可以看看我的帖子和我置顶的那个文档，希望能帮到你🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2043707542887714990",
+        "created_at": "2026-04-13T15:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043707542887714990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043707542887714990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我简直是劳保跨……\n无论我看了多少你们那些激进的观点，就算我觉得合理，我还是会不断地怀疑……我还是会怀疑我是不是因为什么创伤，即使我并想不起来有这回事；我还是会怀疑我是不是受了社群影响，即使我hrt许久才第一次加入有关的q群；我还是会怀疑……怀疑\n有时候好像要被自己吓的detrans了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 623,
+          "like_count": 2533,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 330,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 524
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

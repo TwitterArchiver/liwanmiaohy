@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059630180042486266",
+    "created_at": "2026-05-28T17:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060055449043624003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012914101987762177",
+          "start": 0,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060055449043624003",
+    "in_reply_to_user_id": "2012914101987762177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059630180042486266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamTransmtf 可以试着加个比卡鲁胺吗🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059630170638823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVGulGasAAEezz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059630180042486266",
+        "created_at": "2026-05-28T17:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060055449043624003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012914101987762177",
+              "start": 0,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060055449043624003",
+        "in_reply_to_user_id": "2012914101987762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059630180042486266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamTransmtf 可以试着加个比卡鲁胺吗🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059630170638823424"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2059630180042486266",
+        "created_at": "2026-05-27T13:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059630180042486266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjCblplLfL",
+              "end": 139,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2059630180042486266/photo/1",
+              "media_key": "3_2059630170638823424",
+              "start": 116,
+              "url": "https://t.co/vjCblplLfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059630180042486266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 835,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "本次更新带来两项改进：\n独立体重设置：现可为每条用药记录单独设置体重，默认沿用上次数值。历史数据将自动迁移，且与不支持此功能的其他Tracker版本仍保持双向数据兼容\n主页用药速览：主页现已展示最近一次雌二醇与醋酸环丙孕酮用药记录 https://t.co/vjCblplLfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 661,
+          "like_count": 3582,
+          "listed_count": 6,
+          "media_count": 144,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @mxyzcdb 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 14,
+          "like_count": 909,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

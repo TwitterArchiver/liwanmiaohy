@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043665844019064967",
+    "created_at": "2026-04-13T15:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043711228057678262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817306089085693952",
+          "start": 0,
+          "username": "nextdoorD0G"
+        },
+        {
+          "end": 24,
+          "id": "1888562153004929024",
+          "start": 13,
+          "username": "ST_Bed0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043711228057678262",
+    "in_reply_to_user_id": "1817306089085693952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043708569414189426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nextdoorD0G @ST_Bed0721 是捏🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043665844019064967",
+        "created_at": "2026-04-13T15:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043711228057678262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817306089085693952",
+              "start": 0,
+              "username": "nextdoorD0G"
+            },
+            {
+              "end": 24,
+              "id": "1888562153004929024",
+              "start": 13,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043711228057678262",
+        "in_reply_to_user_id": "1817306089085693952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043708569414189426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nextdoorD0G @ST_Bed0721 是捏🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817306089085693952",
+        "conversation_id": "2043665844019064967",
+        "created_at": "2026-04-13T15:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043708569414189426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 24,
+              "id": "1888562153004929024",
+              "start": 13,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043708569414189426",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043678529934839993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @ST_Bed0721 正解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 620,
+          "like_count": 2517,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T21:08:38.000Z",
+        "description": "基本邏輯🪤、人本主義 🫂； 🏳️‍⚧️跨性別權益運動家、LGBT+之友🐶；FREE PALPATINE🇦🇪； 歡迎各種討論，點擊進行激情對話🫸🏻🫦🫷🏻讓我們一起學習，一同進步👣。",
+        "id": "1817306089085693952",
+        "name": "冷狗🏳️‍⚧️🐶",
+        "pinned_tweet_id": "1945005984289567043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985399566645309440/0XQWmLi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 302,
+          "like_count": 4807,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 693
+        },
+        "username": "nextdoorD0G",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友的小男娘｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜好宝宝: @Shionaowo @Evenin_eko｜匿名提问！https://t.co/fyfckL9h5q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Evenin_eko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 117,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 94,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 98,
+          "like_count": 369,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 495
+        },
+        "username": "ST_Bed0721",
+        "verified": true
+      }
+    ]
+  }
+}

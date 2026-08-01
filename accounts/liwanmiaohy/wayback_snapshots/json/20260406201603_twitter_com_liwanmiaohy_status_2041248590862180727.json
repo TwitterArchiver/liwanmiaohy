@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041248590862180727",
+    "created_at": "2026-04-06T20:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T21:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041248590862180727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liwanmiaohy/st…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/liwanmiaohy/status/2041246932157571237",
+          "start": 93,
+          "url": "https://t.co/q3yy1ist3q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041248590862180727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041246932157571237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多注意事项放不下，最好是找我要PDF完整版本！很用心的制作，希望能帮到大家，如果不太想找我要PDF，抖音上我上传了我PDF所有的完整页面，我放在了置顶，抖音号:98805174386 https://t.co/q3yy1ist3q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_2041246928697217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3REPa0AAc2tK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2041246927610900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3RAMa8AAl06E.jpg",
+        "width": 1080
+      },
+      {
+        "height": 780,
+        "media_key": "3_2041246924666499073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3Q1Oa8AEPV5Q.jpg",
+        "width": 1072
+      },
+      {
+        "height": 804,
+        "media_key": "3_2041246926390345728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3Q7pawAAhGhn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041248590862180727",
+        "created_at": "2026-04-06T20:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041248590862180727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2041246932157571237",
+              "start": 93,
+              "url": "https://t.co/q3yy1ist3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041248590862180727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041246932157571237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多注意事项放不下，最好是找我要PDF完整版本！很用心的制作，希望能帮到大家，如果不太想找我要PDF，抖音上我上传了我PDF所有的完整页面，我放在了置顶，抖音号:98805174386 https://t.co/q3yy1ist3q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041246928697217024",
+            "3_2041246927610900480",
+            "3_2041246924666499073",
+            "3_2041246926390345728"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-06T20:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041246932157571237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "HRT"
+            },
+            {
+              "end": 162,
+              "start": 158,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246928697217024",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246927610900480",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246924666499073",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246926390345728",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041246932157571237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非针剂途径下的HRT综合最优方案 :\n⚠️请一定仔细查看图片，特别注意含服的细节！需要PDF完整版请私信找我\n本方案经作者本人（20岁，HRT约1个月）验证，血检结果如图\n该结果证明：每日4mg泰补含服 + 低剂量CPA（每两天12.5mg） 可使雌二醇进入女性生理范围，睾酮完全抑制，且对肝脏无明显影响\n#HRT #MtF https://t.co/dT4SZFr7uC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2036900942193582437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 593,
+          "like_count": 1821,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 925
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

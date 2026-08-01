@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2051001596511989970",
+    "created_at": "2026-05-03T18:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051001596511989970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051001596511989970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051001340479119634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 大家别害怕。这不是一个悬而未决的伦理悖论，而是一个已经被识破的逻辑陷阱。因为任何试图用第三人称检测来证明第一人称身份的方案，在认识论上都是错的——我是谁的答案不在任何仪器里。同时，这个检测如果真的存在，在它证明你之前，就已经被权力用来在产前和儿…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2051001596511989970",
+        "created_at": "2026-05-03T18:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051001596511989970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051001596511989970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051001340479119634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 大家别害怕。这不是一个悬而未决的伦理悖论，而是一个已经被识破的逻辑陷阱。因为任何试图用第三人称检测来证明第一人称身份的方案，在认识论上都是错的——我是谁的答案不在任何仪器里。同时，这个检测如果真的存在，在它证明你之前，就已经被权力用来在产前和儿…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2051001340479119634",
+        "created_at": "2026-05-03T18:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051001340479119634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2050949305117347932",
+              "start": 130,
+              "url": "https://t.co/u7sWWwwb3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051001340479119634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050949305117347932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家别害怕。这不是一个悬而未决的伦理悖论，而是一个已经被识破的逻辑陷阱。因为任何试图用第三人称检测来证明第一人称身份的方案，在认识论上都是错的——我是谁的答案不在任何仪器里。同时，这个检测如果真的存在，在它证明你之前，就已经被权力用来在产前和儿童期消灭你了。 https://t.co/u7sWWwwb3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 656,
+          "like_count": 3254,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

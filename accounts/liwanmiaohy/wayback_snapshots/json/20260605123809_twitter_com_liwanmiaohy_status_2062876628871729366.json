@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2062657675150893268",
+    "created_at": "2026-06-05T12:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062876628871729366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108658732295028737",
+          "start": 0,
+          "username": "hatachi0525"
+        },
+        {
+          "end": 26,
+          "id": "1730923014471180288",
+          "start": 13,
+          "username": "lxltanya1811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062876628871729366",
+    "in_reply_to_user_id": "1108658732295028737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062797954562584646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatachi0525 @lxltanya1811 个体差异确实存在，比卡鲁胺也不是零风险。但‘安全性更好’不是指‘零风险’，而是指风险的严重程度和可控性的比较。比卡鲁胺的严重风险（肝毒性）罕见、可监测、可逆，且不随用药时间累积；而CPA的脑膜瘤风险即使低剂量也存在、不可逆、随用药时间增加。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2062657675150893268",
+        "created_at": "2026-06-05T12:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062876628871729366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108658732295028737",
+              "start": 0,
+              "username": "hatachi0525"
+            },
+            {
+              "end": 26,
+              "id": "1730923014471180288",
+              "start": 13,
+              "username": "lxltanya1811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062876628871729366",
+        "in_reply_to_user_id": "1108658732295028737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062797954562584646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatachi0525 @lxltanya1811 个体差异确实存在，比卡鲁胺也不是零风险。但‘安全性更好’不是指‘零风险’，而是指风险的严重程度和可控性的比较。比卡鲁胺的严重风险（肝毒性）罕见、可监测、可逆，且不随用药时间累积；而CPA的脑膜瘤风险即使低剂量也存在、不可逆、随用药时间增加。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "conversation_id": "2062657675150893268",
+        "created_at": "2026-06-05T07:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062797954562584646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "lxltanya1811"
+            },
+            {
+              "end": 26,
+              "id": "1705499676953497600",
+              "start": 14,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062797954562584646",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062793228190150912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxltanya1811 @liwanmiaohy 藥物都需要經過大量驗證才能上市的原因就是因為個體案例的差異，非常規藥物不一定每個人都能一樣劑量一樣效果，只能做參考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 656,
+          "like_count": 3734,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 2131
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2059704438118613178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 91,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 497
+        },
+        "username": "hatachi0525",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者Tanya/女性-Female/@Sydney_Uni and @UNSW alumni. Birthday 2 July 1998 and 18 November 2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "SSF Syd",
+        "name": "绫小路梦欣",
+        "pinned_tweet_id": "2042265408103960911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 258,
+          "like_count": 487,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 5626
+        },
+        "username": "lxltanya1811",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2050607607073923350",
+    "created_at": "2026-05-02T16:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050620477304111505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050620477304111505",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050618672218021943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX 绷不住了，这种傻子就活在自己的世界里🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_2050618668724207616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVC0IcXQAAaulP.jpg",
+        "width": 1600
+      },
+      {
+        "height": 442,
+        "media_key": "3_2050618667893702656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVC0FWWwAAiRSZ.jpg",
+        "width": 1600
+      },
+      {
+        "height": 836,
+        "media_key": "3_2050618668975849472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVC0JYXAAAG4aJ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050607607073923350",
+        "created_at": "2026-05-02T16:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050620477304111505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050620477304111505",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050618672218021943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX 绷不住了，这种傻子就活在自己的世界里🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050618668724207616",
+            "3_2050618667893702656",
+            "3_2050618668975849472"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2050607607073923350",
+        "created_at": "2026-05-02T16:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050618672218021943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqWUF4gTAX",
+              "end": 59,
+              "expanded_url": "https://x.com/obe_ZX/status/2050618672218021943/photo/1",
+              "media_key": "3_2050618668724207616",
+              "start": 36,
+              "url": "https://t.co/PqWUF4gTAX"
+            },
+            {
+              "display_url": "pic.x.com/PqWUF4gTAX",
+              "end": 59,
+              "expanded_url": "https://x.com/obe_ZX/status/2050618672218021943/photo/1",
+              "media_key": "3_2050618667893702656",
+              "start": 36,
+              "url": "https://t.co/PqWUF4gTAX"
+            },
+            {
+              "display_url": "pic.x.com/PqWUF4gTAX",
+              "end": 59,
+              "expanded_url": "https://x.com/obe_ZX/status/2050618672218021943/photo/1",
+              "media_key": "3_2050618668975849472",
+              "start": 36,
+              "url": "https://t.co/PqWUF4gTAX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050618672218021943",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050607607073923350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 点进去一看是互b，我大概知道我为什么会b她了 https://t.co/PqWUF4gTAX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎咨询问题｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 652,
+          "like_count": 3217,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans girl | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 525,
+          "like_count": 23657,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 2570
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

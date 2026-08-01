@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042883023847440782",
+    "created_at": "2026-04-11T09:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042890952214483461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798564576029810688",
+          "start": 0,
+          "username": "lirong11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042890952214483461",
+    "in_reply_to_user_id": "1798564576029810688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042883023847440782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lirong11451419 这个看自己喜好啦，只要不是污名内化之类的都可以的🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042883023847440782",
+        "created_at": "2026-04-11T09:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042890952214483461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798564576029810688",
+              "start": 0,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042890952214483461",
+        "in_reply_to_user_id": "1798564576029810688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042883023847440782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lirong11451419 这个看自己喜好啦，只要不是污名内化之类的都可以的🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798564576029810688",
+        "conversation_id": "2042883023847440782",
+        "created_at": "2026-04-11T08:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042883023847440782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2042834875561185599",
+              "start": 38,
+              "url": "https://t.co/a2T8lKxlId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042883023847440782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042834875561185599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伪娘男娘是伪娘男娘，跨性别女性是跨性别女性，咱喜欢称跨女为新女孩或回归女孩 https://t.co/a2T8lKxlId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 600,
+          "like_count": 2313,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T03:56:43.000Z",
+        "description": "🍥HRT:2025.4.6，含糖友跨顺男0，一个永远长不大用🍥糖果来疗愈自己，性格软软爱吃🍥糖的小孩૮₍◜ෆ◝.₎ა，\n蓄发，护肤，学化妆ing。衡阳某大砖核科学在读",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/erererrtrt",
+                "end": 23,
+                "expanded_url": "https://t.me/erererrtrt",
+                "start": 0,
+                "url": "https://t.co/IprWNDkIXc"
+              }
+            ]
+          }
+        },
+        "id": "1798564576029810688",
+        "location": "湖南",
+        "name": "哒哒喵🍥",
+        "pinned_tweet_id": "1965991505367281767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039497198761893888/xL8rvNjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1264,
+          "like_count": 3004,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/IprWNDkIXc",
+        "username": "lirong11451419",
+        "verified": false
+      }
+    ]
+  }
+}

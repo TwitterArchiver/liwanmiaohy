@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044787290174812555",
+    "created_at": "2026-04-16T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044796085022191828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044796085022191828",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044787290174812555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 注意保护好自己哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044787290174812555",
+        "created_at": "2026-04-16T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044796085022191828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044796085022191828",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044787290174812555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 注意保护好自己哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2044787290174812555",
+        "created_at": "2026-04-16T14:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044787290174812555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044787290174812555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警告 这几天三一假酒（医用酒精）喝多了 干了不限于（发裸照 发癫 发表极端言论 发布色气内容 ）这些都不是我真的意愿 相信窝..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜鬓边茉莉为谁妍，月下窗前等君怜。——莉绾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 642,
+          "like_count": 2823,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 381,
+          "like_count": 3578,
+          "listed_count": 2,
+          "media_count": 1060,
+          "tweet_count": 6008
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

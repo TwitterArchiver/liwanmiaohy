@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2050143510280777919",
+    "created_at": "2026-05-01T09:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050143510280777919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050143510280777919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050143236749197702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 大家好，我和爱人制作了一份量表：羽莉性别持续确认评估量表Y-GSAI\n愿它能减少大家gd\n48 题，8 维度，对标医院跨性别评估工具的专业格式。医院逻辑是外部权威证明你的身份，但这份量表是另一种逻辑：由内向外的自我确认。不审判你，帮你辨认自己。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2050143233242705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOSaJQaMAAB9tW.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2050143233066647552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOSaImbwAAgmch.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2050143231321759745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOSaCGa4AE057W.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050143510280777919",
+        "created_at": "2026-05-01T09:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050143510280777919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050143510280777919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050143236749197702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 大家好，我和爱人制作了一份量表：羽莉性别持续确认评估量表Y-GSAI\n愿它能减少大家gd\n48 题，8 维度，对标医院跨性别评估工具的专业格式。医院逻辑是外部权威证明你的身份，但这份量表是另一种逻辑：由内向外的自我确认。不审判你，帮你辨认自己。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050143233242705920",
+            "3_2050143233066647552",
+            "3_2050143231321759745"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050143236749197702",
+        "created_at": "2026-05-01T09:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050143236749197702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uqs3dFibiv",
+              "end": 171,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2050143236749197702/photo/1",
+              "media_key": "3_2050143233242705920",
+              "start": 148,
+              "url": "https://t.co/Uqs3dFibiv"
+            },
+            {
+              "display_url": "pic.x.com/Uqs3dFibiv",
+              "end": 171,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2050143236749197702/photo/1",
+              "media_key": "3_2050143233066647552",
+              "start": 148,
+              "url": "https://t.co/Uqs3dFibiv"
+            },
+            {
+              "display_url": "pic.x.com/Uqs3dFibiv",
+              "end": 171,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2050143236749197702/photo/1",
+              "media_key": "3_2050143231321759745",
+              "start": 148,
+              "url": "https://t.co/Uqs3dFibiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050143236749197702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我和爱人制作了一份量表：羽莉性别持续确认评估量表Y-GSAI\n愿它能减少大家gd\n48 题，8 维度，对标医院跨性别评估工具的专业格式。医院逻辑是外部权威证明你的身份，但这份量表是另一种逻辑：由内向外的自我确认。不审判你，帮你辨认自己。不用于临床，但可以是走向医院前先在心里确认的那一步 https://t.co/Uqs3dFibiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎咨询问题｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 651,
+          "like_count": 3193,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

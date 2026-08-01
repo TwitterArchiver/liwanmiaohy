@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050626985446219776"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050626988151652640",
+    "created_at": "2026-05-02T17:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050626988151652640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "1760164538677395456",
+          "start": 22,
+          "username": "stellar22333"
+        },
+        {
+          "end": 47,
+          "id": "1108737084301307904",
+          "start": 36,
+          "username": "EntropyF73"
+        },
+        {
+          "end": 68,
+          "id": "2024210421373444096",
+          "start": 54,
+          "username": "blingbling712"
+        },
+        {
+          "end": 89,
+          "id": "1882873467340832768",
+          "start": 75,
+          "username": "1896dddd71391"
+        },
+        {
+          "end": 105,
+          "id": "1882563916632666112",
+          "start": 90,
+          "username": "hhjnjkoguyunmo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 133,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/uUlERucdrk"
+        },
+        {
+          "display_url": "pic.x.com/Db8a8RtBK5",
+          "end": 157,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2050626988151652640/photo/1",
+          "media_key": "3_2050626985446219776",
+          "start": 134,
+          "url": "https://t.co/Db8a8RtBK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050626988151652640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @stellar22333 @EntropyF73\n👰 配偶: @blingbling712\n👶 孩子: @1896dddd71391 @hhjnjkoguyunmo\n\n➡️ https://t.co/uUlERucdrk https://t.co/Db8a8RtBK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050626985446219776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVKYOpaIAAbIyx.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050626985446219776"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050626988151652640",
+        "created_at": "2026-05-02T17:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050626988151652640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1760164538677395456",
+              "start": 22,
+              "username": "stellar22333"
+            },
+            {
+              "end": 47,
+              "id": "1108737084301307904",
+              "start": 36,
+              "username": "EntropyF73"
+            },
+            {
+              "end": 68,
+              "id": "2024210421373444096",
+              "start": 54,
+              "username": "blingbling712"
+            },
+            {
+              "end": 89,
+              "id": "1882873467340832768",
+              "start": 75,
+              "username": "1896dddd71391"
+            },
+            {
+              "end": 105,
+              "id": "1882563916632666112",
+              "start": 90,
+              "username": "hhjnjkoguyunmo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 133,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/uUlERucdrk"
+            },
+            {
+              "display_url": "pic.x.com/Db8a8RtBK5",
+              "end": 157,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2050626988151652640/photo/1",
+              "media_key": "3_2050626985446219776",
+              "start": 134,
+              "url": "https://t.co/Db8a8RtBK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050626988151652640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @stellar22333 @EntropyF73\n👰 配偶: @blingbling712\n👶 孩子: @1896dddd71391 @hhjnjkoguyunmo\n\n➡️ https://t.co/uUlERucdrk https://t.co/Db8a8RtBK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎咨询问题｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 658,
+          "like_count": 3221,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1804
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T04:48:49.000Z",
+        "description": "INFJ-A | MtF 🏳️‍⚧️ | les 🏳️‍🌈 | HRT since 25.10.20 🍥 | 家长中立党 | AuDHD | GNU/Linux | vibe coding | Minecraft | Sky: Children of the Light | 看成分互fo喵 | 好多管道符喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.stella223.top",
+                "end": 23,
+                "expanded_url": "https://blog.stella223.top",
+                "start": 0,
+                "url": "https://t.co/xY2kZnQ6eV"
+              }
+            ]
+          }
+        },
+        "id": "1760164538677395456",
+        "name": "Stella223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037898429301690368/jizY7Pui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 1459,
+          "like_count": 63012,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/xY2kZnQ6eV",
+        "username": "stellar22333",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 1030,
+          "like_count": 20352,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜家长不管党｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn @YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 354,
+          "like_count": 9620,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1383
+        },
+        "username": "blingbling712",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 17,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 218
+        },
+        "username": "1896dddd71391",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 921,
+          "like_count": 540126,
+          "listed_count": 9,
+          "media_count": 473,
+          "tweet_count": 44494
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

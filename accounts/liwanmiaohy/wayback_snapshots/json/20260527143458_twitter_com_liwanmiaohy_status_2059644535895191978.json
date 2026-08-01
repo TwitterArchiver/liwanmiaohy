@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059237584598192420",
+    "created_at": "2026-05-27T14:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059644535895191978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1849098966039969792",
+          "start": 0,
+          "username": "36duola"
+        },
+        {
+          "end": 17,
+          "id": "1487045820201504771",
+          "start": 9,
+          "username": "XenoIno"
+        },
+        {
+          "end": 29,
+          "id": "623965569",
+          "start": 18,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059644535895191978",
+    "in_reply_to_user_id": "1849098966039969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059626688531808267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@36duola @XenoIno @nothousand 这样吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-27T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059644535895191978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849098966039969792",
+              "start": 0,
+              "username": "36duola"
+            },
+            {
+              "end": 17,
+              "id": "1487045820201504771",
+              "start": 9,
+              "username": "XenoIno"
+            },
+            {
+              "end": 29,
+              "id": "623965569",
+              "start": 18,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059644535895191978",
+        "in_reply_to_user_id": "1849098966039969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059626688531808267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@36duola @XenoIno @nothousand 这样吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849098966039969792",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-27T13:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059626688531808267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 21,
+              "id": "1487045820201504771",
+              "start": 13,
+              "username": "XenoIno"
+            },
+            {
+              "end": 33,
+              "id": "623965569",
+              "start": 22,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059626688531808267",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059542171129360481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @XenoIno @nothousand 主要是我按刘烨给我的方案经常忘记吃药_(:3」∠ )_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 657,
+          "like_count": 3555,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 2012
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:42:13.000Z",
+        "description": "一抔净土掩风流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duola.ryuuguu.live",
+                "end": 23,
+                "expanded_url": "https://duola.ryuuguu.live/",
+                "start": 0,
+                "url": "https://t.co/SFtXT7qQYL"
+              }
+            ]
+          }
+        },
+        "id": "1849098966039969792",
+        "location": "Peking",
+        "name": "小啦",
+        "pinned_tweet_id": "2042738888159224261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999680175118958592/E9uAjcEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 57,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/SFtXT7qQYL",
+        "username": "36duola",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T12:52:18.000Z",
+        "description": "she/they ｜transfem｜infp｜GAHT 2024.11.23",
+        "id": "1487045820201504771",
+        "name": "ino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373937844506624/9Z2FjUE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 47,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "XenoIno",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053291654728364032/lNmB5dJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2358,
+          "following_count": 123,
+          "like_count": 8670,
+          "listed_count": 6,
+          "media_count": 523,
+          "tweet_count": 5583
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

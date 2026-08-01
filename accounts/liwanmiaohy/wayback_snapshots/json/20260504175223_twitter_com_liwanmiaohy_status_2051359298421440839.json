@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2051359298421440839",
+    "created_at": "2026-05-04T17:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051359298421440839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051359298421440839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051359190204248400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 《确认：由内向外》\n当跨性别被外部世界反复否定太久，任何来自外界的认可都可能成为一根浮木。我们渴望被承认，渴望有人能给我们一个无可辩驳的证据，渴望一张诊断书能替我们说出那句“你确实是”。这种渴望，本身就来自伤口\n但有些确认，必须从内部完成。有些…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2051359184931921920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfkT2SaIAAq_vh.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2051359186647400449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfkT8raQAEa3F2.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2051359186127409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfkT6vb0AA6Y_u.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2051359184676126721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfkT1VbAAE9K9h.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2051359298421440839",
+        "created_at": "2026-05-04T17:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051359298421440839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051359298421440839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051359190204248400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 《确认：由内向外》\n当跨性别被外部世界反复否定太久，任何来自外界的认可都可能成为一根浮木。我们渴望被承认，渴望有人能给我们一个无可辩驳的证据，渴望一张诊断书能替我们说出那句“你确实是”。这种渴望，本身就来自伤口\n但有些确认，必须从内部完成。有些…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051359184931921920",
+            "3_2051359186647400449",
+            "3_2051359186127409152",
+            "3_2051359184676126721"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2051359190204248400",
+        "created_at": "2026-05-04T17:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051359190204248400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "MtF"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "性别认同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqmL4BZr0e",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2051359190204248400/photo/1",
+              "media_key": "3_2051359184931921920",
+              "start": 146,
+              "url": "https://t.co/XqmL4BZr0e"
+            },
+            {
+              "display_url": "pic.x.com/XqmL4BZr0e",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2051359190204248400/photo/1",
+              "media_key": "3_2051359186647400449",
+              "start": 146,
+              "url": "https://t.co/XqmL4BZr0e"
+            },
+            {
+              "display_url": "pic.x.com/XqmL4BZr0e",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2051359190204248400/photo/1",
+              "media_key": "3_2051359186127409152",
+              "start": 146,
+              "url": "https://t.co/XqmL4BZr0e"
+            },
+            {
+              "display_url": "pic.x.com/XqmL4BZr0e",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2051359190204248400/photo/1",
+              "media_key": "3_2051359184676126721",
+              "start": 146,
+              "url": "https://t.co/XqmL4BZr0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051359190204248400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《确认：由内向外》\n当跨性别被外部世界反复否定太久，任何来自外界的认可都可能成为一根浮木。我们渴望被承认，渴望有人能给我们一个无可辩驳的证据，渴望一张诊断书能替我们说出那句“你确实是”。这种渴望，本身就来自伤口\n但有些确认，必须从内部完成。有些答案，不在任何人的签字里\n#MtF #性别认同 https://t.co/XqmL4BZr0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 663,
+          "like_count": 3332,
+          "listed_count": 4,
+          "media_count": 135,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

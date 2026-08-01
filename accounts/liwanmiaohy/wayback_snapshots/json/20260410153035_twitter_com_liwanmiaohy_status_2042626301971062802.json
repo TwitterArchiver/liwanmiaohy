@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042582322323902697",
+    "created_at": "2026-04-10T15:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042626301971062802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2004989620224933888",
+          "start": 0,
+          "username": "Linziliy"
+        },
+        {
+          "end": 20,
+          "id": "1982449259774656512",
+          "start": 10,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042626301971062802",
+    "in_reply_to_user_id": "2004989620224933888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042622596122841243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linziliy @smiroyama 是的，法国确实因为脑膜瘤风险把CPA放到二线了，这是基于他们本土的大规模药物警戒数据做的审慎调整。不过WPATH SOC-8作为全球指南，没有做一线二线划分，是把CPA和螺内酯并列作为可选项的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042582322323902697",
+        "created_at": "2026-04-10T15:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042626301971062802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2004989620224933888",
+              "start": 0,
+              "username": "Linziliy"
+            },
+            {
+              "end": 20,
+              "id": "1982449259774656512",
+              "start": 10,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626301971062802",
+        "in_reply_to_user_id": "2004989620224933888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042622596122841243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linziliy @smiroyama 是的，法国确实因为脑膜瘤风险把CPA放到二线了，这是基于他们本土的大规模药物警戒数据做的审慎调整。不过WPATH SOC-8作为全球指南，没有做一线二线划分，是把CPA和螺内酯并列作为可选项的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004989620224933888",
+        "conversation_id": "2042582322323902697",
+        "created_at": "2026-04-10T15:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042622596122841243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 23,
+              "id": "1982449259774656512",
+              "start": 13,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042622596122841243",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042589019406831871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @smiroyama 但是不同国家确实有不同说法，比如法国的指南就确实把CPA放到二线去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 599,
+          "like_count": 2238,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:56:00.000Z",
+        "description": "🏳️‍⚧️ / Earth Science PhD Student",
+        "id": "2004989620224933888",
+        "location": "Paris, France",
+        "name": "Linzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029316640941457413/1ImQ31yQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 113,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Linziliy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2833,
+          "following_count": 1820,
+          "like_count": 7206,
+          "listed_count": 2,
+          "media_count": 963,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

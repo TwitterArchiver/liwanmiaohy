@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2061271923313742294",
+    "created_at": "2026-06-01T02:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061271923313742294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TeamTransmtf/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/TeamTransmtf/status/2044611481392525523",
+          "start": 21,
+          "url": "https://t.co/b2HRuOzdgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061271923313742294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044611481392525523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "强推，非常推荐使用的一款血药浓度模拟网站 https://t.co/b2HRuOzdgN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2061271923313742294",
+        "created_at": "2026-06-01T02:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061271923313742294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamTransmtf/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/TeamTransmtf/status/2044611481392525523",
+              "start": 21,
+              "url": "https://t.co/b2HRuOzdgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061271923313742294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044611481392525523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "强推，非常推荐使用的一款血药浓度模拟网站 https://t.co/b2HRuOzdgN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2044611481392525523",
+        "created_at": "2026-04-16T02:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044611481392525523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 49,
+              "expanded_url": "https://hrt.transmtf.com/",
+              "start": 26,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com/",
+              "url": "https://t.co/Y13y091TCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044611481392525523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1992,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Transmtf HRT-Tracker在线体验：\nhttps://t.co/Y13y091TCI\n支持云同步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 652,
+          "like_count": 3600,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 2040
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 14,
+          "like_count": 975,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

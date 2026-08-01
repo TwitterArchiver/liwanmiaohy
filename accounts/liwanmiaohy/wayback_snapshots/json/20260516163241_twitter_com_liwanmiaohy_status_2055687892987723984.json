@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2055495992355799549",
+    "created_at": "2026-05-16T16:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055687892987723984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        },
+        {
+          "end": 30,
+          "id": "1624039574702899202",
+          "start": 15,
+          "username": "lingluoloveyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055687892987723984",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055529729994965438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 @lingluoloveyou 首先你每天6mg的话，这个成本飙升，就不如用贴片和凝胶了和针剂，其实就是你每天12.5的色，有点多，除非你是刚开始的前半个月或前一个星期 ，一般正常建议你是两天12.5，隔一天吃12.5就行了，相当于就是每天6.25，还有就是尿好课，\n二就是有点多，一般4mg含服就够了，再多，血栓风险就有点高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2055495992355799549",
+        "created_at": "2026-05-16T16:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055687892987723984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            },
+            {
+              "end": 30,
+              "id": "1624039574702899202",
+              "start": 15,
+              "username": "lingluoloveyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055687892987723984",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055529729994965438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 @lingluoloveyou 首先你每天6mg的话，这个成本飙升，就不如用贴片和凝胶了和针剂，其实就是你每天12.5的色，有点多，除非你是刚开始的前半个月或前一个星期 ，一般正常建议你是两天12.5，隔一天吃12.5就行了，相当于就是每天6.25，还有就是尿好课，\n二就是有点多，一般4mg含服就够了，再多，血栓风险就有点高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426207565575192577",
+        "conversation_id": "2055495992355799549",
+        "created_at": "2026-05-16T06:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T07:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055529729994965438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1624039574702899202",
+              "start": 0,
+              "username": "lingluoloveyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055529729994965438",
+        "in_reply_to_user_id": "1624039574702899202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055495992355799549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingluoloveyou 我目前是6mg 含服补佳乐（中午/晚上/睡前各2mg）+每日中午12.5mg色谱龙\n\nemm算是比较……保守的吧?我打算月尾或者有时间去测一下激素水平再改进改进～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜全平台同名喵🐱｜淘宝店铺经营ing……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 668,
+          "like_count": 3430,
+          "listed_count": 6,
+          "media_count": 141,
+          "tweet_count": 1949
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF🏳️‍⚧️（無證含糖｜HRT🍥：2026.5.1｜\nShe/Her（更喜欢被这样称呼，不行也没事哦ww｜无不良嗜好｜有对象｜偶尔分享下照片还有生活之类的～｜\n\n有友善的朋友想和我聊天的话，我都非常欢迎的～！",
+        "id": "1426207565575192577",
+        "location": "Malaysia",
+        "name": "千缘sama",
+        "pinned_tweet_id": "2052099424739099110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 169,
+          "like_count": 17297,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1613
+        },
+        "username": "Lainyer051230",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-10T13:36:33.000Z",
+        "description": "mtx｜未含糖｜胆子很小，慢慢摸索中｜想拥有女孩子的身体｜未含糖，怕副作用，怕很多事情，但还是在努力靠近理想｜无证，但是很想HRT，也很怕被拒绝\n精神状态很好｜不自残｜不od",
+        "id": "1624039574702899202",
+        "name": "天才少女洛洛子🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775560487952162816/l_7hsE75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 55,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 263
+        },
+        "username": "lingluoloveyou",
+        "verified": false
+      }
+    ]
+  }
+}

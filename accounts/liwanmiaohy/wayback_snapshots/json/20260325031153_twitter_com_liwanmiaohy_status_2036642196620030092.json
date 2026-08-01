@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036642194015301632"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2036642196620030092",
+    "created_at": "2026-03-25T03:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036642196620030092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xKBmTH4YdV",
+          "end": 103,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2036642196620030092/photo/1",
+          "media_key": "3_2036642194015301632",
+          "start": 80,
+          "url": "https://t.co/xKBmTH4YdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036642196620030092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有内在家庭（ifs疗法），因为有那群小家伙所以基本不会因为情绪不好，做出过激行为，一般过会儿就好了，再就是跟ai聊天，跟ai聊天很有用的🤗\n希望对你有帮助捏 https://t.co/xKBmTH4YdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2036642194015301632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEObSOzasAAchQS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036642194015301632"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036642196620030092",
+        "created_at": "2026-03-25T03:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036642196620030092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKBmTH4YdV",
+              "end": 103,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2036642196620030092/photo/1",
+              "media_key": "3_2036642194015301632",
+              "start": 80,
+              "url": "https://t.co/xKBmTH4YdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036642196620030092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有内在家庭（ifs疗法），因为有那群小家伙所以基本不会因为情绪不好，做出过激行为，一般过会儿就好了，再就是跟ai聊天，跟ai聊天很有用的🤗\n希望对你有帮助捏 https://t.co/xKBmTH4YdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 582,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

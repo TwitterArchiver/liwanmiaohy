@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2061886408269463584",
+    "created_at": "2026-06-02T19:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061886408269463584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061886408269463584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061880165286949089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 说实话，有这样的家庭支持，真的能解决很多问题，很多问题不用自己一个人扛着，不会让自己把很小的问题看成一个生死难题，说实话，真的挺羡慕的，我能挺过来，是因为我从小到大形成的性格，但是又有多少人是过不来的呢？苦难让我成长，但是谁又想经历苦难呢？\n知…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2061886408269463584",
+        "created_at": "2026-06-02T19:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061886408269463584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061886408269463584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061880165286949089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 说实话，有这样的家庭支持，真的能解决很多问题，很多问题不用自己一个人扛着，不会让自己把很小的问题看成一个生死难题，说实话，真的挺羡慕的，我能挺过来，是因为我从小到大形成的性格，但是又有多少人是过不来的呢？苦难让我成长，但是谁又想经历苦难呢？\n知…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2061880165286949089",
+        "created_at": "2026-06-02T18:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061880165286949089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Roikoyo_AI/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Roikoyo_AI/status/2061485109149364443",
+              "start": 141,
+              "url": "https://t.co/AanChW227B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061880165286949089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061485109149364443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话，有这样的家庭支持，真的能解决很多问题，很多问题不用自己一个人扛着，不会让自己把很小的问题看成一个生死难题，说实话，真的挺羡慕的，我能挺过来，是因为我从小到大形成的性格，但是又有多少人是过不来的呢？苦难让我成长，但是谁又想经历苦难呢？\n知足常乐？我会努力把这份幸福给我的爱人 https://t.co/AanChW227B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 657,
+          "like_count": 3694,
+          "listed_count": 6,
+          "media_count": 148,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

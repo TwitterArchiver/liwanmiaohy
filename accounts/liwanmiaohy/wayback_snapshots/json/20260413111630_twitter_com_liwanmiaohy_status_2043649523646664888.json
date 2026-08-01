@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043621304067072102",
+    "created_at": "2026-04-13T11:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043649523646664888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043649523646664888",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043621304067072102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 坏的是他，不是你，抱抱你，这种感觉确实挺难受的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043621304067072102",
+        "created_at": "2026-04-13T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043649523646664888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043649523646664888",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043621304067072102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 坏的是他，不是你，抱抱你，这种感觉确实挺难受的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2043621304067072102",
+        "created_at": "2026-04-13T09:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043621304067072102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043621304067072102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 748,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到b站一位做文学分享的男同up主，讲自己心路历程，和社会对男同歧视的痛苦，他哭着讲自己受过的那些委屈的时候，我也跟着一起哭……\n直到当他讲出“我不想在他们眼里，和泰国的那些trans没有什么区别”，想评论想安慰想抱抱的心瞬间被浇灭……\n我讨厌这样的自己，我恨他为什么要提这句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 619,
+          "like_count": 2487,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "",
+        "id": "1150753335881826305",
+        "name": "suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 253,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 883
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

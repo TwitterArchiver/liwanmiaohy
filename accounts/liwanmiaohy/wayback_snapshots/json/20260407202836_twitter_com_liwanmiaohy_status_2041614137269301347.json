@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041246932157571237",
+    "created_at": "2026-04-07T20:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T21:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041614137269301347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008052555730030592",
+          "start": 0,
+          "username": "AXM7069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041614137269301347",
+    "in_reply_to_user_id": "2008052555730030592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041602926788145417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AXM7069 对滴🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-07T20:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041614137269301347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008052555730030592",
+              "start": 0,
+              "username": "AXM7069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041614137269301347",
+        "in_reply_to_user_id": "2008052555730030592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041602926788145417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXM7069 对滴🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008052555730030592",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-07T19:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041602926788145417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041602926788145417",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041600973672767611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 也就是说，刚开始的话色可以多吃一点快速降低，7到15天，这个时间段差不多就可以换到两天12.5mg 对吧，然后补的话就是4mg ，两mg太低了是吧😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 591,
+          "like_count": 1939,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T05:47:13.000Z",
+        "description": "↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙",
+        "id": "2008052555730030592",
+        "name": "MAX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028362903494242304/MzVqs8rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 82
+        },
+        "username": "AXM7069",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T05:47:13.000Z",
+        "description": "↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↗↘↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙↖↙",
+        "id": "2008052555730030592",
+        "name": "MAX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028362903494242304/MzVqs8rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 82
+        },
+        "username": "AXM7069",
+        "verified": true
+      }
+    ]
+  }
+}

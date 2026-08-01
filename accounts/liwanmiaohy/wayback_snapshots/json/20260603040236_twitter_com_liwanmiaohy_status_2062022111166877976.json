@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2062017565166104665",
+    "created_at": "2026-06-03T04:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062022111166877976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062022111166877976",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062017565166104665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX 就没想过是自己哪里出了问题，谁无缘无故去针对ta？闲着没事做？过段时间是不是还要说被网暴了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_2062017558048309248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3CC0QWgAASkHO.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2272,
+        "media_key": "3_2062017560791379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3CC-eWcAAV-b_.jpg",
+        "width": 1220
+      },
+      {
+        "height": 993,
+        "media_key": "3_2062017557431824385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3CCx9XsAEfgjK.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2062017565166104665",
+        "created_at": "2026-06-03T04:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062022111166877976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062022111166877976",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062017565166104665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX 就没想过是自己哪里出了问题，谁无缘无故去针对ta？闲着没事做？过段时间是不是还要说被网暴了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062017558048309248",
+            "3_2062017560791379968",
+            "3_2062017557431824385"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2062017565166104665",
+        "created_at": "2026-06-03T03:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062017565166104665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WpFethXOF3",
+              "end": 131,
+              "expanded_url": "https://x.com/obe_ZX/status/2062017565166104665/photo/1",
+              "media_key": "3_2062017558048309248",
+              "start": 108,
+              "url": "https://t.co/WpFethXOF3"
+            },
+            {
+              "display_url": "pic.x.com/WpFethXOF3",
+              "end": 131,
+              "expanded_url": "https://x.com/obe_ZX/status/2062017565166104665/photo/1",
+              "media_key": "3_2062017560791379968",
+              "start": 108,
+              "url": "https://t.co/WpFethXOF3"
+            },
+            {
+              "display_url": "pic.x.com/WpFethXOF3",
+              "end": 131,
+              "expanded_url": "https://x.com/obe_ZX/status/2062017565166104665/photo/1",
+              "media_key": "3_2062017557431824385",
+              "start": 108,
+              "url": "https://t.co/WpFethXOF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062017565166104665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哦对的对的，散播群体焦虑，知道错了也不删帖，就高高在上的职责“你焦虑你就应该圈地自萌，不要干涉我”，现在又说是别人在杠她，把自己摘的干干净净，还说“你跨圈怎样怎样”\n哦天呐，跨儿社群迎来新的皇帝\n吾皇万岁万岁万万岁 https://t.co/WpFethXOF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 657,
+          "like_count": 3712,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans girl | She/Her | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 538,
+          "like_count": 26250,
+          "listed_count": 4,
+          "media_count": 485,
+          "tweet_count": 2832
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

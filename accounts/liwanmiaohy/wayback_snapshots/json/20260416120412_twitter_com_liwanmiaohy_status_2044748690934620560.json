@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044746453676101702",
+    "created_at": "2026-04-16T12:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044748690934620560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561049612655308800",
+          "start": 0,
+          "username": "supersuger8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044748690934620560",
+    "in_reply_to_user_id": "1561049612655308800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044746453676101702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@supersuger8 真好哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044745019811389440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBkwxIbYAA4Ilt.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044746453676101702",
+        "created_at": "2026-04-16T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044748690934620560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561049612655308800",
+              "start": 0,
+              "username": "supersuger8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044748690934620560",
+        "in_reply_to_user_id": "1561049612655308800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044746453676101702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@supersuger8 真好哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044745019811389440"
+          ]
+        },
+        "author_id": "1561049612655308800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044746453676101702",
+        "created_at": "2026-04-16T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044746453676101702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsBMVS1MHP",
+              "end": 94,
+              "expanded_url": "https://x.com/supersuger8/status/2044746453676101702/photo/1",
+              "media_key": "3_2044745019811389440",
+              "start": 71,
+              "url": "https://t.co/FsBMVS1MHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044746453676101702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪呢，今天发了张自拍给我妈，我妈居然说我像女儿，明明过年回家的时候还天天念叨让我把长头发剪掉，难不成我妈想通了？\n在考虑要不要向家长出柜 https://t.co/FsBMVS1MHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜鬓边茉莉为谁妍，月下窗前等君怜。——莉绾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 637,
+          "like_count": 2757,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T17:56:53.000Z",
+        "description": "02｜MtF🏳️‍⚧️｜无证含糖🍥｜od｜割手｜深柜｜超级社恐｜努力上班攒手术钱｜想和大家成为朋友｜永劫无间糕手",
+        "id": "1561049612655308800",
+        "location": "People's Republic of China",
+        "name": "supersuger🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042258680905949184/7LhBPCUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 129,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "supersuger8",
+        "verified": false
+      }
+    ]
+  }
+}

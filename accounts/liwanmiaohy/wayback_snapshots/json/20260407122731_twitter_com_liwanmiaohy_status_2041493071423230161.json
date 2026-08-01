@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041486424105742799",
+    "created_at": "2026-04-07T12:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041493071423230161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491630608832876547",
+          "start": 0,
+          "username": "hakanopesu"
+        },
+        {
+          "end": 19,
+          "id": "2001598933169315840",
+          "start": 12,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041493071423230161",
+    "in_reply_to_user_id": "1491630608832876547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041492502268842345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakanopesu @XldscX 我文章哪里的措辞让你觉得我在说所有人都有效？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041486424105742799",
+        "created_at": "2026-04-07T12:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041493071423230161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491630608832876547",
+              "start": 0,
+              "username": "hakanopesu"
+            },
+            {
+              "end": 19,
+              "id": "2001598933169315840",
+              "start": 12,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041493071423230161",
+        "in_reply_to_user_id": "1491630608832876547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492502268842345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakanopesu @XldscX 我文章哪里的措辞让你觉得我在说所有人都有效？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491630608832876547",
+        "conversation_id": "2041486424105742799",
+        "created_at": "2026-04-07T12:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041492502268842345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 20,
+              "id": "2001598933169315840",
+              "start": 13,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041492502268842345",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041487312606109809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @XldscX 你发出来的内容只能证明你的方法在你身上起效，这种指南需要的大量样本与长时间验证我都没有看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 591,
+          "like_count": 1885,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | HRT since 24.02.23 | 含糖顺男",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 251,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1026
+        },
+        "username": "hakanopesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o. | 新疆東鄉族⚛️ | hrt 2024.4.20 | 生理男心理男 | Femboy enjoyer💜| 182cm59kg | 🇹🇼💙❂ | AMD Yes\n\n好厚米🇲🇴@letana358121 🇦🇺@Goldwater8964对象♥️@juhao0721 小號@AzureV1xen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 94,
+                "username": "letana358121"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "Goldwater8964"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "juhao0721"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "AzureV1xen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/cOZgy5rqqa"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 633,
+          "like_count": 18081,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 6286
+        },
+        "url": "https://t.co/cOZgy5rqqa",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

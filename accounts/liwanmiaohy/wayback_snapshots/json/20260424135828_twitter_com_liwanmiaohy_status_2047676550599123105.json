@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047676548032184320"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2047644778259693843",
+    "created_at": "2026-04-24T13:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047676550599123105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725486340542775296",
+          "start": 0,
+          "username": "myaukarova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOGZqjvYGc",
+          "end": 45,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2047676550599123105/photo/1",
+          "media_key": "3_2047676548032184320",
+          "start": 22,
+          "url": "https://t.co/GOGZqjvYGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047676550599123105",
+    "in_reply_to_user_id": "1725486340542775296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047644778259693843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myaukarova 这人真是有够急的😂 https://t.co/GOGZqjvYGc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2047676548032184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrO-KxbQAA0mUg.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2047644775269175296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqyEwAakAAhRCE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047676548032184320"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2047644778259693843",
+        "created_at": "2026-04-24T13:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047676550599123105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725486340542775296",
+              "start": 0,
+              "username": "myaukarova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOGZqjvYGc",
+              "end": 45,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2047676550599123105/photo/1",
+              "media_key": "3_2047676548032184320",
+              "start": 22,
+              "url": "https://t.co/GOGZqjvYGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047676550599123105",
+        "in_reply_to_user_id": "1725486340542775296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047644778259693843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myaukarova 这人真是有够急的😂 https://t.co/GOGZqjvYGc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047644775269175296"
+          ]
+        },
+        "author_id": "1725486340542775296",
+        "conversation_id": "2047644778259693843",
+        "created_at": "2026-04-24T11:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047644778259693843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUf7FhcWRE",
+              "end": 111,
+              "expanded_url": "https://x.com/myaukarova/status/2047644778259693843/photo/1",
+              "media_key": "3_2047644775269175296",
+              "start": 88,
+              "url": "https://t.co/gUf7FhcWRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047644778259693843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经不是跨性别者该怎么上厕所怎么住宿的问题了，现在当务之急是让这些个又喜欢用侮辱性语言、不会好好沟通、还喜欢立靶子立威胁的臭顺直把嘴闭上。\n我不认识你，我没义务对你点头哈腰👎 https://t.co/gUf7FhcWRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 643,
+          "like_count": 3048,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 1659
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T12:09:48.000Z",
+        "description": "关注喵卡酱喵，关注喵卡洛娃谢谢喵",
+        "id": "1725486340542775296",
+        "location": "Anhui China",
+        "name": "喵卡洛娃大帝，不疼仙人🏳‍⚧🍔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964898609469739008/PORyHOjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 230,
+          "like_count": 242,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 3081
+        },
+        "username": "myaukarova",
+        "verified": false
+      }
+    ]
+  }
+}

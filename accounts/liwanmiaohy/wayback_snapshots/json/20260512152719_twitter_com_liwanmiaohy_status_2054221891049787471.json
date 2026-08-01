@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2054210873259147475",
+    "created_at": "2026-05-12T15:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054221891049787471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 27,
+          "id": "1150753335881826305",
+          "start": 17,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054221891049787471",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054210873259147475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @acacia038 帮转了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054210859187191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIF5IuaQAAc7Vv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054210859237515264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIF5I6aIAAyu_z.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2054210873259147475",
+        "created_at": "2026-05-12T15:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054221891049787471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 27,
+              "id": "1150753335881826305",
+              "start": 17,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054221891049787471",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054210873259147475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @acacia038 帮转了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054210859187191808",
+            "3_2054210859237515264"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2054210873259147475",
+        "created_at": "2026-05-12T14:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054210873259147475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBsyr7PD2D",
+              "end": 143,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2054210873259147475/photo/1",
+              "media_key": "3_2054210859187191808",
+              "start": 120,
+              "url": "https://t.co/sBsyr7PD2D"
+            },
+            {
+              "display_url": "pic.x.com/sBsyr7PD2D",
+              "end": 143,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2054210873259147475/photo/1",
+              "media_key": "3_2054210859237515264",
+              "start": 120,
+              "url": "https://t.co/sBsyr7PD2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054210873259147475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "求助帖：\n在贵阳，有一个17岁的顺性别女性，由于家庭原因而辍学（初中未毕业），被迫在外工作，但是由于无学历、未成年（虽然已满16）而难以就业。\n请问有朋友可以帮助她找工作吗？非常感谢❤️\n（刚刚的帖子打码没打全暴露了个人隐私，所以删掉了） https://t.co/sBsyr7PD2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜全平台同名喵🐱｜淘宝店铺经营ing……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 664,
+          "like_count": 3380,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Solidarité",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044799701971832832/750oUfl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3964,
+          "following_count": 1669,
+          "like_count": 29870,
+          "listed_count": 10,
+          "media_count": 87,
+          "tweet_count": 6984
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "杳冥冥兮羌昼晦 东风飘兮神灵雨…",
+        "id": "1150753335881826305",
+        "name": "Charlotte F.",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046258494253273088/2leeLfOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 272,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1321
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

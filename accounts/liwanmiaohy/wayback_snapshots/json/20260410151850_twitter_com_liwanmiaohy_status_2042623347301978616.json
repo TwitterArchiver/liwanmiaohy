@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041246932157571237",
+    "created_at": "2026-04-10T15:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042623347301978616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "939449802395328512",
+          "start": 0,
+          "username": "psnlbrs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042623347301978616",
+    "in_reply_to_user_id": "939449802395328512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042618209443155994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psnlbrs 指导谈不上，给你一个参考🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-10T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042623347301978616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "939449802395328512",
+              "start": 0,
+              "username": "psnlbrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042623347301978616",
+        "in_reply_to_user_id": "939449802395328512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042618209443155994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psnlbrs 指导谈不上，给你一个参考🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "939449802395328512",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-10T14:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042618209443155994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042618209443155994",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041246932157571237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 感谢指导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 599,
+          "like_count": 2234,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-09T11:01:01.000Z",
+        "description": "常住东京的男娘新人🏳️‍⚧️\n正在慢慢记录含糖日常🍥\n简单女装尝试・真实记录\n新人阶段，欢迎同好交流～\n#HRT #MTF #男娘 #伪娘 #男の娘 #女装",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "HRT"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "MTF"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "男娘"
+              },
+              {
+                "end": 69,
+                "start": 66,
+                "tag": "伪娘"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "男の娘"
+              },
+              {
+                "end": 78,
+                "start": 75,
+                "tag": "女装"
+              }
+            ]
+          }
+        },
+        "id": "939449802395328512",
+        "location": "Tokyo-to, Japan",
+        "name": "鈴白瑞樹🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042211192404631552/oL9I5bFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 449,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "psnlbrs",
+        "verified": false
+      }
+    ]
+  }
+}

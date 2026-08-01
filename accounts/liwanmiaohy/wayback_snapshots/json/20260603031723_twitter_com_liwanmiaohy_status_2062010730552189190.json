@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062010726399754240",
+        "3_2062010723166015488"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2062010730552189190",
+    "created_at": "2026-06-03T03:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062010730552189190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTS558jyDr",
+          "end": 167,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2062010730552189190/photo/1",
+          "media_key": "3_2062010726399754240",
+          "start": 144,
+          "url": "https://t.co/LTS558jyDr"
+        },
+        {
+          "display_url": "pic.x.com/LTS558jyDr",
+          "end": 167,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2062010730552189190/photo/1",
+          "media_key": "3_2062010723166015488",
+          "start": 144,
+          "url": "https://t.co/LTS558jyDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062010730552189190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天上午去本地医院瞅瞅了\n龚国如这个医生还挺好的的，应该是看到我名字，就问是不是我，我说是的，ta说怎么长得像女孩子\n然后跟医生沟通了一下，他没有了解过跨性别相关内容，还好奇手术真的能改身份证吗😂。后续就是开不了\n这个在意料之中\n医生和导诊阿姨挺好的，最后把挂号费还给我退了\n挺开心的😊 https://t.co/LTS558jyDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062010726399754240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ271KYaQAAmeuo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062010723166015488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ270-VbUAAtdLH.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062010726399754240",
+            "3_2062010723166015488"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2062010730552189190",
+        "created_at": "2026-06-03T03:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062010730552189190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTS558jyDr",
+              "end": 167,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2062010730552189190/photo/1",
+              "media_key": "3_2062010726399754240",
+              "start": 144,
+              "url": "https://t.co/LTS558jyDr"
+            },
+            {
+              "display_url": "pic.x.com/LTS558jyDr",
+              "end": 167,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2062010730552189190/photo/1",
+              "media_key": "3_2062010723166015488",
+              "start": 144,
+              "url": "https://t.co/LTS558jyDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062010730552189190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上午去本地医院瞅瞅了\n龚国如这个医生还挺好的的，应该是看到我名字，就问是不是我，我说是的，ta说怎么长得像女孩子\n然后跟医生沟通了一下，他没有了解过跨性别相关内容，还好奇手术真的能改身份证吗😂。后续就是开不了\n这个在意料之中\n医生和导诊阿姨挺好的，最后把挂号费还给我退了\n挺开心的😊 https://t.co/LTS558jyDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 657,
+          "like_count": 3707,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2039558336677576883",
+    "created_at": "2026-04-04T11:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040398459073929612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006565713079668736",
+          "start": 0,
+          "username": "Daoqingling"
+        },
+        {
+          "end": 27,
+          "id": "1770681338221432832",
+          "start": 13,
+          "username": "Fishlike_bird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040398459073929612",
+    "in_reply_to_user_id": "2006565713079668736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039875610680480149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daoqingling @Fishlike_bird 是有一些方案和适用的药物的，也有相关文献作为支撑，获取这些资料也不难，只是需要途径。很多人刚了解，认识到自己，也并没有了解社群，或从医院了解，不清楚是很正常的，更何况有很大一部分人本就是跟风，很容易带偏，你会发现很多人跟风喊活不久活不久，这都什么年代了，正常服药，并定时血检就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2039558336677576883",
+        "created_at": "2026-04-04T11:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040398459073929612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006565713079668736",
+              "start": 0,
+              "username": "Daoqingling"
+            },
+            {
+              "end": 27,
+              "id": "1770681338221432832",
+              "start": 13,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040398459073929612",
+        "in_reply_to_user_id": "2006565713079668736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039875610680480149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daoqingling @Fishlike_bird 是有一些方案和适用的药物的，也有相关文献作为支撑，获取这些资料也不难，只是需要途径。很多人刚了解，认识到自己，也并没有了解社群，或从医院了解，不清楚是很正常的，更何况有很大一部分人本就是跟风，很容易带偏，你会发现很多人跟风喊活不久活不久，这都什么年代了，正常服药，并定时血检就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006565713079668736",
+        "conversation_id": "2039558336677576883",
+        "created_at": "2026-04-03T01:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039875610680480149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770681338221432832",
+              "start": 0,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039875610680480149",
+        "in_reply_to_user_id": "1770681338221432832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 725,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039558336677576883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fishlike_bird 说的没错啊，你吃的色谱龙和雌二醇雌三醇的合成我都学过，药代动力学和毒理学我也了解过，如果不遵医嘱的话，体内激素水平很快会紊乱，四十岁已经算是长寿了，我觉得，就我了解下来，跨圈还没有了解医学到能自己服用激素药物而且是合理用药的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2036900942193582437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 591,
+          "like_count": 1738,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T03:19:05.000Z",
+        "description": "我道清越",
+        "id": "2006565713079668736",
+        "name": "Murasame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039316891437559809/v7xbCw6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Daoqingling",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | 男女混血 | intp | 地下党 | 跨女同 | 不定期更新 | 喜欢称呼对象姐姐和老婆 |",
+        "id": "1770681338221432832",
+        "location": "0km",
+        "name": "星梦🍥🏳️‍⚧️(先天不孕)",
+        "pinned_tweet_id": "1938006909422080186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 551,
+          "like_count": 3499,
+          "listed_count": 6,
+          "media_count": 158,
+          "tweet_count": 770
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

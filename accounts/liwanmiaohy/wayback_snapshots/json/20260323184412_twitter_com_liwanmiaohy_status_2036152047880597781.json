@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2036120053863895472",
+    "created_at": "2026-03-23T18:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036152047880597781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877743555961294848",
+          "start": 0,
+          "username": "nino_yukiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036152047880597781",
+    "in_reply_to_user_id": "1877743555961294848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036120053863895472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nino_yukiko 凝胶不应该是5克吗， Cpa倒是可以，但是用凝胶，干嘛不用针剂呢，光凝胶成本一个月就200多，针剂加耗材，成本才180左右一个月，这还没算cpa的成本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036120053863895472",
+        "created_at": "2026-03-23T18:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036152047880597781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877743555961294848",
+              "start": 0,
+              "username": "nino_yukiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036152047880597781",
+        "in_reply_to_user_id": "1877743555961294848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036120053863895472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nino_yukiko 凝胶不应该是5克吗， Cpa倒是可以，但是用凝胶，干嘛不用针剂呢，光凝胶成本一个月就200多，针剂加耗材，成本才180左右一个月，这还没算cpa的成本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877743555961294848",
+        "conversation_id": "2036120053863895472",
+        "created_at": "2026-03-23T16:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036120053863895472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036120053863895472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在做的计划是凝胶～0.25g/d 以e2计是～5mg/d加cpa 12.5mg/d\n一个月之后去查激素 看t水平决定cpa减剂量\n\n呃呃 似乎比较理想 有senpai指导嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 577,
+          "like_count": 1456,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "CNCSer🇨🇳 | Male-to-Female🏳‍⚧ | 民间草根队伍Team Ni2O3Xe队长&指挥狙 | ACGN系列赛事主办 | 前完美1.15rt金S | \n10' Spet.8出厂 | INTP | 假性社恐 | 169cm 44kg | 初三在读 | 炸柜25' Oct.15 | 比赛官推见下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@acgn_tourname…",
+                "end": 23,
+                "expanded_url": "https://x.com/@acgn_tournament",
+                "start": 0,
+                "url": "https://t.co/XShY3o751w"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "pinned_tweet_id": "2035327356005662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030696719294582784/HtAOjfOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 144
+        },
+        "url": "https://t.co/XShY3o751w",
+        "username": "nino_yukiko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041469414646968626",
+    "created_at": "2026-04-07T11:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041482701950374035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041482701950374035",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041469414646968626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 可以参考下我置顶，如果你需要PDF的话，可以私信我，我发QQ给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041469414646968626",
+        "created_at": "2026-04-07T11:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041482701950374035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041482701950374035",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041469414646968626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 可以参考下我置顶，如果你需要PDF的话，可以私信我，我发QQ给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "2041469414646968626",
+        "created_at": "2026-04-07T10:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041469414646968626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041469414646968626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生的态度是可以开药，可以吃。。。但是每天的剂量是3mg的色2mg的补。。医生的意思是就是1/4片的色谱龙每四天吃一次，然后补加的的话，第一个月是两毫克一天，第二个月是四毫克一天，最后稳定在六毫克一天，妈妈的意见就是说可以吃，但必须吃国内的，不能吃外国的。。唔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 591,
+          "like_count": 1881,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao2",
+                "start": 0,
+                "url": "https://t.co/k5FIDi3qlJ"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾（笨蛋版）",
+        "pinned_tweet_id": "2032833985257287964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 811,
+          "like_count": 23108,
+          "listed_count": 5,
+          "media_count": 267,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/k5FIDi3qlJ",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

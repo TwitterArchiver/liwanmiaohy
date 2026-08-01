@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2046483349192257843",
+    "created_at": "2026-04-21T14:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046592963854356708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644528599792496640",
+          "start": 0,
+          "username": "BHLuotianyi"
+        },
+        {
+          "end": 23,
+          "id": "1885154179922227200",
+          "start": 13,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046592963854356708",
+    "in_reply_to_user_id": "1644528599792496640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046569109857734953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BHLuotianyi @Snow_Xue_ 不用理她了，你最后一句话说的很对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2046483349192257843",
+        "created_at": "2026-04-21T14:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046592963854356708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644528599792496640",
+              "start": 0,
+              "username": "BHLuotianyi"
+            },
+            {
+              "end": 23,
+              "id": "1885154179922227200",
+              "start": 13,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046592963854356708",
+        "in_reply_to_user_id": "1644528599792496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046569109857734953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BHLuotianyi @Snow_Xue_ 不用理她了，你最后一句话说的很对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644528599792496640",
+        "conversation_id": "2046483349192257843",
+        "created_at": "2026-04-21T12:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046569109857734953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046569109857734953",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046562952086708424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 1.活在自己的信息茧房里没有任何意义。我的群里面就有一个日子过得好好从不OD的MTF。谁主张谁举证，什么叫我上推看看？我现在不在推上吗？\n2.何谓反OD？用药物摧残自己的身体来换来短暂的生理性快乐，这难道不应该是悲哀的吗？我从不主动批评那OD者，但是什么时候OD成为了一种正确？\n3.她在远去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 640,
+          "like_count": 2953,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T02:32:33.000Z",
+        "description": "互联网角落里的一束烛光/刚开始玩推的，生活在二次元的女孩。喜欢涩涩喜欢萝莉，喜欢电脑喜欢游戏，喜欢跑团喜欢百合。欢迎扩列聊天文爱唔，友跨。目前目标是攒fo.../名字是自设，可以叫咱小冬。",
+        "id": "1644528599792496640",
+        "name": "Chiyuu Rin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943985591323856897/j7C0ZWC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 55,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "BHLuotianyi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 家长不管党 → 家长党+od不管党 | 割过手，现在不割了 | o！长在春风中，活在药效里。这是最好的，也是唯一获得快乐的方式了 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2042285525139357819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1385,
+          "like_count": 48240,
+          "listed_count": 3,
+          "media_count": 714,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

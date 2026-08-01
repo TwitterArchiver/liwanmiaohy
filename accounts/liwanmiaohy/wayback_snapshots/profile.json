@@ -1,0 +1,20 @@
+{
+  "name": "莉绾喵 🏳️‍⚧️🍥",
+  "username": "@liwanmiaohy",
+  "bio": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+  "location": "羽と莉の花园",
+  "link": "https://ngl.link/lizihanfs",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 30,
+        "start": 14,
+        "username": "Xianyufanfan215"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg"
+}

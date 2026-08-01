@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2040700724015985010",
+    "created_at": "2026-04-05T15:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040818499317326233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        },
+        {
+          "end": 21,
+          "id": "1332172085347565569",
+          "start": 11,
+          "username": "Barometzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040818499317326233",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040700724015985010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan @Barometzs 别放屁了，自制的也好意思这样说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2040700724015985010",
+        "created_at": "2026-04-05T15:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040818499317326233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 21,
+              "id": "1332172085347565569",
+              "start": 11,
+              "username": "Barometzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040818499317326233",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040700724015985010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan @Barometzs 别放屁了，自制的也好意思这样说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2040700724015985010",
+        "created_at": "2026-04-05T07:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040700724015985010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 143,
+              "id": "1332172085347565569",
+              "start": 133,
+              "username": "Barometzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040700724015985010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3315,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前最安全也是最便宜的买药途径\n\n10倍浓度的自制凝胶，每天的雌二醇浓度都能到达日雌第三天的水平，会雌高发情的人会陷入每次抹完凝胶15分钟就发情的循环，每天都是哦～❤️\n\n以及一个月只需要20¥～50¥，还不用吃色普龙，何乐而不为呢\n\n目前在买雌二醇凝胶的有巴洛梅滋@Barometzs、山猹QQ3158939834"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2036900942193582437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 594,
+          "like_count": 1758,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16582,
+          "following_count": 491,
+          "like_count": 34969,
+          "listed_count": 32,
+          "media_count": 3630,
+          "tweet_count": 11316
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-27T03:59:19.000Z",
+        "description": "从纳垢那里借来了坩埚，开始给你们这群色孽信徒熬凝胶\n提供凝胶/十一雌，成本价不盈利，可以赠送，有需要私信问我\n😡🥶🤢😈联合神选：巴洛梅兹",
+        "id": "1332172085347565569",
+        "location": "Sydney, New South Wales ",
+        "name": "巴洛梅兹",
+        "pinned_tweet_id": "1942121903239614592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923026349062516736/gZJeFEYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 167,
+          "like_count": 15,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 817
+        },
+        "username": "Barometzs",
+        "verified": false
+      }
+    ]
+  }
+}

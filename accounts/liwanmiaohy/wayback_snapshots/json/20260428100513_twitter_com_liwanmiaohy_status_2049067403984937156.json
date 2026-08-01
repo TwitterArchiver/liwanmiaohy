@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2049053620545769809",
+    "created_at": "2026-04-28T10:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049067403984937156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595655567623831552",
+          "start": 0,
+          "username": "aaaamingming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049067403984937156",
+    "in_reply_to_user_id": "1595655567623831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049057971473363224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaamingming 谢谢认可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2049053620545769809",
+        "created_at": "2026-04-28T10:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049067403984937156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595655567623831552",
+              "start": 0,
+              "username": "aaaamingming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049067403984937156",
+        "in_reply_to_user_id": "1595655567623831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049057971473363224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaamingming 谢谢认可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595655567623831552",
+        "conversation_id": "2049053620545769809",
+        "created_at": "2026-04-28T09:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049057971473363224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049057971473363224",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049053620545769809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 这个很有意义了，特别是第四点，在稳定自己的精神状态然后再考虑清楚之后再开始hrt会有很大帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 649,
+          "like_count": 3127,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:48:36.000Z",
+        "description": "mtf（默认自己是顺女）不挂旗是我想专注自己 默默努力★ 我本是自由的风 永远在向前★///逐渐rle ing 庆祝主播学会伪音/直接强制爱索要微信🚪99其他情况欢迎私信讨论/接瓦陪接瓦教学接伪音教学接嗓音训练接化妆接化妆教学接篮球陪打接篮球教学接初中高中数理化教学",
+        "id": "1595655567623831552",
+        "location": "武汉",
+        "name": "明明快要睡着了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960740118777749509/v1DRZq85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5571,
+          "following_count": 211,
+          "like_count": 678,
+          "listed_count": 27,
+          "media_count": 116,
+          "tweet_count": 435
+        },
+        "username": "aaaamingming",
+        "verified": false
+      }
+    ]
+  }
+}

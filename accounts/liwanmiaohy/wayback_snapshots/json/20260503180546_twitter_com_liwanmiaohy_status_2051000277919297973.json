@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2050949305117347932",
+    "created_at": "2026-05-03T18:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051000277919297973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1972329558792974336",
+          "start": 0,
+          "username": "pxm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051000277919297973",
+    "in_reply_to_user_id": "1972329558792974336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050996492811530639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxm8964 我发文章的目的，是告诉大家面对极致的痛苦，靠生物学诊断和等待外部认可，是一条死路；靠自己的框架与主体法则站起来，才是最前卫也最彻底的出路。\n向内求，不是否认外界，而是拒绝把外界当作唯一的确认源。我的框架不是新的尺子，它只是给那些不想被任何尺子压垮的人，提供一个可以站着被看见的地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050949305117347932",
+        "created_at": "2026-05-03T18:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051000277919297973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1972329558792974336",
+              "start": 0,
+              "username": "pxm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051000277919297973",
+        "in_reply_to_user_id": "1972329558792974336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050996492811530639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxm8964 我发文章的目的，是告诉大家面对极致的痛苦，靠生物学诊断和等待外部认可，是一条死路；靠自己的框架与主体法则站起来，才是最前卫也最彻底的出路。\n向内求，不是否认外界，而是拒绝把外界当作唯一的确认源。我的框架不是新的尺子，它只是给那些不想被任何尺子压垮的人，提供一个可以站着被看见的地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972329558792974336",
+        "conversation_id": "2050949305117347932",
+        "created_at": "2026-05-03T17:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T18:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050996492811530639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050996492811530639",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050949305117347932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 我不想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 656,
+          "like_count": 3252,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T15:56:32.000Z",
+        "description": "@pxm2007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "pxm2007"
+              }
+            ]
+          }
+        },
+        "id": "1972329558792974336",
+        "location": "北京 昌平",
+        "name": "昌年南娘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050642511807614976/Myt9Z_z5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 652,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1363
+        },
+        "username": "pxm8964",
+        "verified": false
+      }
+    ]
+  }
+}

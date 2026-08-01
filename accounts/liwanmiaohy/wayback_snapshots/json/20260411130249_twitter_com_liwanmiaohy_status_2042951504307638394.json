@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042951501858185216"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042951504307638394",
+    "created_at": "2026-04-11T13:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042951504307638394"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 145,
+          "start": 141,
+          "tag": "MtF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3mr8UwEf29",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2042951504307638394/photo/1",
+          "media_key": "3_2042951501858185216",
+          "start": 146,
+          "url": "https://t.co/3mr8UwEf29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042951504307638394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别替污名开方便之门！\n你称呼圈子，外部就以圈子的逻辑轻视你。污名标签从圈内流到圈外，路人拿来当统称毫无道德负担——“你们自己这么叫的”。他怎么称呼你，是从你怎么称呼自己习得的\n社群不是圈子：圈子预设封闭与自嘲，社群要求承认与尊重。命名不是偏好，是边界。边界在自己嘴里，不在别人手里\n#MtF https://t.co/3mr8UwEf29"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2042951501858185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoFkSGboAAR9EG.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042951501858185216"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042951504307638394",
+        "created_at": "2026-04-11T13:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042951504307638394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mr8UwEf29",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2042951504307638394/photo/1",
+              "media_key": "3_2042951501858185216",
+              "start": 146,
+              "url": "https://t.co/3mr8UwEf29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042951504307638394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别替污名开方便之门！\n你称呼圈子，外部就以圈子的逻辑轻视你。污名标签从圈内流到圈外，路人拿来当统称毫无道德负担——“你们自己这么叫的”。他怎么称呼你，是从你怎么称呼自己习得的\n社群不是圈子：圈子预设封闭与自嘲，社群要求承认与尊重。命名不是偏好，是边界。边界在自己嘴里，不在别人手里\n#MtF https://t.co/3mr8UwEf29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 599,
+          "like_count": 2317,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

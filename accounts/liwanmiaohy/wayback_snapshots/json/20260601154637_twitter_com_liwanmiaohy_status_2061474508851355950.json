@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059237584598192420",
+    "created_at": "2026-06-01T15:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061474508851355950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1763807900244574208",
+          "start": 0,
+          "username": "leo545198204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061474508851355950",
+    "in_reply_to_user_id": "1763807900244574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061464189508665508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leo545198204 睾酮没压下去，不用针剂不用想着单药不加抗雄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2061464187080257536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvKwYwbsAAJXgL.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-06-01T15:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061474508851355950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763807900244574208",
+              "start": 0,
+              "username": "leo545198204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061474508851355950",
+        "in_reply_to_user_id": "1763807900244574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061464189508665508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leo545198204 睾酮没压下去，不用针剂不用想着单药不加抗雄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061464187080257536"
+          ]
+        },
+        "author_id": "1763807900244574208",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-06-01T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061464189508665508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/td2f2ILxzo",
+              "end": 71,
+              "expanded_url": "https://x.com/leo545198204/status/2061464189508665508/photo/1",
+              "media_key": "3_2061464187080257536",
+              "start": 48,
+              "url": "https://t.co/td2f2ILxzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061464189508665508",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059237584598192420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 德贴3日一贴 +每日一尺 艾斯妥高雌无抗雄，贴药前抽的血，算是谷值。 https://t.co/td2f2ILxzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 653,
+          "like_count": 3616,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 2054
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T06:06:06.000Z",
+        "description": "",
+        "id": "1763807900244574208",
+        "name": "黑洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839332162597994496/2xL9gg3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 150,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 86
+        },
+        "username": "leo545198204",
+        "verified": false
+      }
+    ]
+  }
+}

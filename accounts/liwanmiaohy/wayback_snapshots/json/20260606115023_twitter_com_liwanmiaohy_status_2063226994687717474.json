@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2063226994687717474",
+    "created_at": "2026-06-06T11:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063226994687717474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055356059066466304",
+          "start": 3,
+          "username": "TransCircleOrg"
+        },
+        {
+          "end": 46,
+          "id": "1705499676953497600",
+          "start": 34,
+          "username": "liwanmiaohy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "——《中国大陆跨性别女性HRT分层决策指南》前置阅读。",
+          "display_url": "blog.transcircle.org/posts/hrt-choi…",
+          "end": 137,
+          "expanded_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "跨性别女性HRT个体差异筛查与方案选择路径",
+          "unwound_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+          "url": "https://t.co/KIRHYi9u5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063226994687717474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063200572262748670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TransCircleOrg: 获得授权，我们编辑、上传到了@liwanmiaohy女士的《跨性别女性HRT个体差异筛查与方案选择路径》到「跨环」。 \n\n和她在昨日发布的版本存在“补充”和“差异”，还拜托各位确认了！\n\nhttps://t.co/KIRHYi9u5z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2063226994687717474",
+        "created_at": "2026-06-06T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063226994687717474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055356059066466304",
+              "start": 3,
+              "username": "TransCircleOrg"
+            },
+            {
+              "end": 46,
+              "id": "1705499676953497600",
+              "start": 34,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "——《中国大陆跨性别女性HRT分层决策指南》前置阅读。",
+              "display_url": "blog.transcircle.org/posts/hrt-choi…",
+              "end": 137,
+              "expanded_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "跨性别女性HRT个体差异筛查与方案选择路径",
+              "unwound_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+              "url": "https://t.co/KIRHYi9u5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063226994687717474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063200572262748670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TransCircleOrg: 获得授权，我们编辑、上传到了@liwanmiaohy女士的《跨性别女性HRT个体差异筛查与方案选择路径》到「跨环」。 \n\n和她在昨日发布的版本存在“补充”和“差异”，还拜托各位确认了！\n\nhttps://t.co/KIRHYi9u5z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2063200572262748670",
+        "created_at": "2026-06-06T10:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063200572262748670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1705499676953497600",
+              "start": 14,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "——《中国大陆跨性别女性HRT分层决策指南》前置阅读。",
+              "display_url": "blog.transcircle.org/posts/hrt-choi…",
+              "end": 117,
+              "expanded_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063200196998447104/A3llLOzC?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "跨性别女性HRT个体差异筛查与方案选择路径",
+              "unwound_url": "https://blog.transcircle.org/posts/hrt-choices-individual-differences/",
+              "url": "https://t.co/KIRHYi9u5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063200572262748670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "获得授权，我们编辑、上传到了@liwanmiaohy女士的《跨性别女性HRT个体差异筛查与方案选择路径》到「跨环」。 \n\n和她在昨日发布的版本存在“补充”和“差异”，还拜托各位确认了！\n\nhttps://t.co/KIRHYi9u5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 658,
+          "like_count": 3737,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 34,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

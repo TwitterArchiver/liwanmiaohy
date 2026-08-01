@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041246932157571237",
+    "created_at": "2026-06-07T03:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063466174579679613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580911805031157760",
+          "start": 0,
+          "username": "aihezz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063466174579679613",
+    "in_reply_to_user_id": "1580911805031157760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063458835877302549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aihezz 1mg当然不够……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2063458829610909696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLg33OaAAA7Gpa.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-06-07T03:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063466174579679613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580911805031157760",
+              "start": 0,
+              "username": "aihezz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063466174579679613",
+        "in_reply_to_user_id": "1580911805031157760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063458835877302549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aihezz 1mg当然不够……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063458829610909696"
+          ]
+        },
+        "author_id": "1580911805031157760",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-06-07T03:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063458835877302549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/poPZ5QVRgA",
+              "end": 65,
+              "expanded_url": "https://x.com/aihezz/status/2063458835877302549/photo/1",
+              "media_key": "3_2063458829610909696",
+              "start": 42,
+              "url": "https://t.co/poPZ5QVRgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063458835877302549",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041246932157571237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 每天1mg国补，两天12.5mg土色，感觉完全没效果啊😢 https://t.co/poPZ5QVRgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 659,
+          "like_count": 3738,
+          "listed_count": 6,
+          "media_count": 152,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T13:22:08.000Z",
+        "description": "",
+        "id": "1580911805031157760",
+        "name": "弥",
+        "pinned_tweet_id": "2063051000525864992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062761643772403712/IppnbyFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 141,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 12
+        },
+        "username": "aihezz",
+        "verified": false
+      }
+    ]
+  }
+}

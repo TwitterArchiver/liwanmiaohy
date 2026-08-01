@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2060448204626530452",
+    "created_at": "2026-05-29T19:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060448204626530452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liwanmiaohy/st…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/liwanmiaohy/status/2060445192990470547",
+          "start": 153,
+          "url": "https://t.co/iHOZ0uUYuS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060448204626530452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060445192990470547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此贴用来回应某些言论，例如:\n“不HRT就不是跨性别的言论”\n“不pass就该被骂”\n“我是跨性别，所以你必须包容我的一切”\n“你看那个人，长得像男人一样，还说自己是女生，好恶心”\n\n着重回答一下最后一个问题:\nta的身份不需要你的批准，无论外貌如何。她的外貌不符合你的审美，这完全正常，不喜欢就是不喜欢 https://t.co/iHOZ0uUYuS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2060445190230622208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgr-9rbwAANsg2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2060448204626530452",
+        "created_at": "2026-05-29T19:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060448204626530452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2060445192990470547",
+              "start": 153,
+              "url": "https://t.co/iHOZ0uUYuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060448204626530452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060445192990470547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此贴用来回应某些言论，例如:\n“不HRT就不是跨性别的言论”\n“不pass就该被骂”\n“我是跨性别，所以你必须包容我的一切”\n“你看那个人，长得像男人一样，还说自己是女生，好恶心”\n\n着重回答一下最后一个问题:\nta的身份不需要你的批准，无论外貌如何。她的外貌不符合你的审美，这完全正常，不喜欢就是不喜欢 https://t.co/iHOZ0uUYuS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060445190230622208"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2060445192990470547",
+        "created_at": "2026-05-29T19:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060445192990470547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xtNLoAlIu",
+              "end": 176,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2060445192990470547/photo/1",
+              "media_key": "3_2060445190230622208",
+              "start": 153,
+              "url": "https://t.co/3xtNLoAlIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060445192990470547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "第一层：ta是谁？ 这是性别认同，是内在的、绝对的、不可辩驳的\n第二层：ta怎么做？ 这是个人选择和外在条件\n如:是否HRT、是否pass、是否术\n第三层：ta是什么样的人？ 这是人品和品行。一个坏的人，不管ta是什么性别，ta都是个坏人\n社群中常见的争论，本质上就是有人故意或无意地把这三个层次搅在一起 https://t.co/3xtNLoAlIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 658,
+          "like_count": 3590,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 2035
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2046571618814788009",
+    "created_at": "2026-04-21T12:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046571618814788009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liwanmiaohy/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/liwanmiaohy/status/2046570849927610537",
+          "start": 37,
+          "url": "https://t.co/NFzPWa2bMJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046571618814788009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046570849927610537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝大家幸福，也希望它能帮到大家\n另外，需要完整版PDF的，可以私信我索要 https://t.co/NFzPWa2bMJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2046570841824206848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbhVmKaoAAyQ8f.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2046570846706335744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbhV4WaAAAV6NA.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2046570845599125504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbhV0ObUAAIZYh.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2046570844768612352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbhVxIasAAPKGa.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2046571618814788009",
+        "created_at": "2026-04-21T12:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046571618814788009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liwanmiaohy/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/liwanmiaohy/status/2046570849927610537",
+              "start": 37,
+              "url": "https://t.co/NFzPWa2bMJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046571618814788009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046570849927610537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝大家幸福，也希望它能帮到大家\n另外，需要完整版PDF的，可以私信我索要 https://t.co/NFzPWa2bMJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046570841824206848",
+            "3_2046570846706335744",
+            "3_2046570845599125504",
+            "3_2046570844768612352"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2046570849927610537",
+        "created_at": "2026-04-21T12:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046570849927610537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "MtF"
+            },
+            {
+              "end": 146,
+              "start": 144,
+              "tag": "爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKF9hYY1ug",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2046570849927610537/photo/1",
+              "media_key": "3_2046570841824206848",
+              "start": 147,
+              "url": "https://t.co/XKF9hYY1ug"
+            },
+            {
+              "display_url": "pic.x.com/XKF9hYY1ug",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2046570849927610537/photo/1",
+              "media_key": "3_2046570846706335744",
+              "start": 147,
+              "url": "https://t.co/XKF9hYY1ug"
+            },
+            {
+              "display_url": "pic.x.com/XKF9hYY1ug",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2046570849927610537/photo/1",
+              "media_key": "3_2046570845599125504",
+              "start": 147,
+              "url": "https://t.co/XKF9hYY1ug"
+            },
+            {
+              "display_url": "pic.x.com/XKF9hYY1ug",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2046570849927610537/photo/1",
+              "media_key": "3_2046570844768612352",
+              "start": 147,
+              "url": "https://t.co/XKF9hYY1ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046570849927610537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别亲密关系中的给予与接收 · 内在整合框架情感实践篇\n许多跨性别者学会了爱人，却还没习惯被爱。这不是一个人的困境，是承受者留下的生存策略在新的关系阶段需要被更新\n于是我和爱人共同执笔写下了这篇文章，送给社群中对于爱感到迷茫和误解的你和伴侣，愿它驱散迷雾，照耀你们幸福的道路\n#MtF #爱 https://t.co/XKF9hYY1ug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215🥰｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥲｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 640,
+          "like_count": 2943,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1596
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

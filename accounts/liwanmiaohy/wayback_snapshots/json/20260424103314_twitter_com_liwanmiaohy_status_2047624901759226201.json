@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2047624901759226201",
+    "created_at": "2026-04-24T10:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047624901759226201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zxjwns/status/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/Zxjwns/status/2047284407921492090",
+          "start": 71,
+          "url": "https://t.co/cwgmNegaEd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047624901759226201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047284407921492090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你那么在意那个器官，我把它送你好了，你这么惦记，它对你很重要吗？原来在你们眼里，女人的身份要用一刀一刀的疼痛来“缴付”？你们把这叫“合格”？ https://t.co/cwgmNegaEd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2047624901759226201",
+        "created_at": "2026-04-24T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047624901759226201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zxjwns/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Zxjwns/status/2047284407921492090",
+              "start": 71,
+              "url": "https://t.co/cwgmNegaEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047624901759226201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047284407921492090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你那么在意那个器官，我把它送你好了，你这么惦记，它对你很重要吗？原来在你们眼里，女人的身份要用一刀一刀的疼痛来“缴付”？你们把这叫“合格”？ https://t.co/cwgmNegaEd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476329053049212935",
+        "conversation_id": "2047284407921492090",
+        "created_at": "2026-04-23T12:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047284407921492090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047284407921492090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8147,
+          "like_count": 166,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "生理女本来就没义务接受没做手术的跨跟自己住一个四人间青旅啊，这也不能理解要跳出来挂人的真是觉得身份高人一等了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 642,
+          "like_count": 3022,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T23:08:15.000Z",
+        "description": "好了好了我是留长头发爱演娇妻的1且s，在推特扮演无意路过被女人萌到的狐狸精一枚。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wyjgwdm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wyjgwdm",
+                "start": 0,
+                "url": "https://t.co/rdvKUGP4Na"
+              }
+            ]
+          }
+        },
+        "id": "1476329053049212935",
+        "name": "夏令時間",
+        "pinned_tweet_id": "1873847419357757557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476329752738902020/Uh03HqZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 259,
+          "like_count": 3685,
+          "listed_count": 5,
+          "media_count": 2019,
+          "tweet_count": 8462
+        },
+        "url": "https://t.co/rdvKUGP4Na",
+        "username": "Zxjwns",
+        "verified": false
+      }
+    ]
+  }
+}

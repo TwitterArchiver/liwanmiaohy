@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2037518373496762507",
+    "created_at": "2026-03-28T13:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037882704017105073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071094209749417984",
+          "start": 0,
+          "username": "BeiyanNa3AlF6"
+        },
+        {
+          "end": 30,
+          "id": "1845454917236031495",
+          "start": 15,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037882704017105073",
+    "in_reply_to_user_id": "1071094209749417984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037746373895045153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiyanNa3AlF6 @Dontbesadforit 我都看了🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2037518373496762507",
+        "created_at": "2026-03-28T13:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037882704017105073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            },
+            {
+              "end": 30,
+              "id": "1845454917236031495",
+              "start": 15,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037882704017105073",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037746373895045153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 @Dontbesadforit 我都看了🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "2037518373496762507",
+        "created_at": "2026-03-28T04:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037746373895045153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 28,
+              "id": "1845454917236031495",
+              "start": 13,
+              "username": "Dontbesadforit"
+            }
+          ],
+          "urls": [
+            {
+              "description": "戊酸雌二醇的舌下含服途径尽管鲜有研究，但其与含服雌二醇同样有效，也可作为口服途径的替代。",
+              "display_url": "tfsci.mtf.wiki/zh-cn/articles…",
+              "end": 52,
+              "expanded_url": "https://tfsci.mtf.wiki/zh-cn/articles/sublingual-ev/#effectiveness-of-sublingual-estradiol-valerate",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2037746376910790656/lxnbEe7S?format=png&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037746376910790656/lxnbEe7S?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "关于女性倾向跨性别者舌下含服戊酸雌二醇片剂的简介 - 女性倾向跨性别者科学",
+              "unwound_url": "https://tfsci.mtf.wiki/zh-cn/articles/sublingual-ev/#effectiveness-of-sublingual-estradiol-valerate",
+              "url": "https://t.co/gl0qy7RGjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037746373895045153",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037549802104512575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @Dontbesadforit https://t.co/gl0qy7RGjv\n\n这里面有些数据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2036900942193582437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 583,
+          "like_count": 1604,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org maintainer/中文 Vocaloid/索尼大法好。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1411,
+          "like_count": 118290,
+          "listed_count": 12,
+          "media_count": 297,
+          "tweet_count": 6738
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "不中",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021113518263762945/D3Mt8Gp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 991,
+          "like_count": 69118,
+          "listed_count": 6,
+          "media_count": 423,
+          "tweet_count": 8822
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2061345540810617189",
+    "created_at": "2026-06-01T07:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T08:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061345540810617189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2012914101987762177",
+          "start": 3,
+          "username": "TeamTransmtf"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @transmtfnotice right away.",
+          "display_url": "t.me/transmtfnotice",
+          "end": 63,
+          "expanded_url": "https://t.me/transmtfnotice",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "Transmtf团队通知频道",
+          "unwound_url": "https://t.me/transmtfnotice",
+          "url": "https://t.co/bvCMqSu6Rq"
+        },
+        {
+          "description": "You can view and join @transmtfchat right away.",
+          "display_url": "t.me/transmtfchat",
+          "end": 92,
+          "expanded_url": "https://t.me/transmtfchat",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "Transmtf聊天群",
+          "unwound_url": "https://t.me/transmtfchat",
+          "url": "https://t.co/HZy8fx37cQ"
+        },
+        {
+          "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+          "display_url": "transmtf.com",
+          "end": 122,
+          "expanded_url": "https://www.transmtf.com",
+          "start": 99,
+          "status": 200,
+          "title": "首页 - Team TransMTF",
+          "unwound_url": "https://www.transmtf.com",
+          "url": "https://t.co/JuIvb6FeUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061345540810617189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061296461523153268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamTransmtf: 我们建立了TG通知频道与聊天群组\n通知频道：https://t.co/bvCMqSu6Rq\n聊天群组：https://t.co/HZy8fx37cQ\n我们的官网：https://t.co/JuIvb6FeUE\nHRT-Tracker：http…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2061345540810617189",
+        "created_at": "2026-06-01T07:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061345540810617189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2012914101987762177",
+              "start": 3,
+              "username": "TeamTransmtf"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @transmtfnotice right away.",
+              "display_url": "t.me/transmtfnotice",
+              "end": 63,
+              "expanded_url": "https://t.me/transmtfnotice",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "Transmtf团队通知频道",
+              "unwound_url": "https://t.me/transmtfnotice",
+              "url": "https://t.co/bvCMqSu6Rq"
+            },
+            {
+              "description": "You can view and join @transmtfchat right away.",
+              "display_url": "t.me/transmtfchat",
+              "end": 92,
+              "expanded_url": "https://t.me/transmtfchat",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Transmtf聊天群",
+              "unwound_url": "https://t.me/transmtfchat",
+              "url": "https://t.co/HZy8fx37cQ"
+            },
+            {
+              "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+              "display_url": "transmtf.com",
+              "end": 122,
+              "expanded_url": "https://www.transmtf.com",
+              "start": 99,
+              "status": 200,
+              "title": "首页 - Team TransMTF",
+              "unwound_url": "https://www.transmtf.com",
+              "url": "https://t.co/JuIvb6FeUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061345540810617189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061296461523153268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamTransmtf: 我们建立了TG通知频道与聊天群组\n通知频道：https://t.co/bvCMqSu6Rq\n聊天群组：https://t.co/HZy8fx37cQ\n我们的官网：https://t.co/JuIvb6FeUE\nHRT-Tracker：http…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012914101987762177",
+        "conversation_id": "2061296461523153268",
+        "created_at": "2026-06-01T03:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061296461523153268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @transmtfnotice right away.",
+              "display_url": "t.me/transmtfnotice",
+              "end": 45,
+              "expanded_url": "https://t.me/transmtfnotice",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061296462668128256/8nJ5FA5U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "Transmtf团队通知频道",
+              "unwound_url": "https://t.me/transmtfnotice",
+              "url": "https://t.co/bvCMqSu6Rq"
+            },
+            {
+              "description": "You can view and join @transmtfchat right away.",
+              "display_url": "t.me/transmtfchat",
+              "end": 74,
+              "expanded_url": "https://t.me/transmtfchat",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061296465243508736/92oGnxyr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "Transmtf聊天群",
+              "unwound_url": "https://t.me/transmtfchat",
+              "url": "https://t.co/HZy8fx37cQ"
+            },
+            {
+              "description": "跨性别女性是出生时被指派为男性，但性别认同为女性的人。 性别认同是每个人对自身性别的内心感受，与生理特征、社会性别表达无关。 跨性别女性即指出生时被指派男性性别，但内心认同自己是女性的跨性别者。 这不是\"选择\"，而是性别认同的自然表达，被世界上主流医学组织广泛认可。 过渡可以是社会过渡（改名、着装、代词），医疗过渡（激素替代疗法、手术）， 或法律过渡（更改证件性别）。没有\"唯一正确\"的过渡方式，一切以你的意愿和安全为优先。 性别认同不是可以\"选择\"或\"改变\"的。跨性别身份是真实存在的， 科学研究表明其有神经生物学基础。",
+              "display_url": "transmtf.com",
+              "end": 104,
+              "expanded_url": "https://www.transmtf.com",
+              "start": 81,
+              "status": 200,
+              "title": "首页 - Team TransMTF",
+              "unwound_url": "https://www.transmtf.com",
+              "url": "https://t.co/JuIvb6FeUE"
+            },
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 140,
+              "expanded_url": "https://hrt.transmtf.com",
+              "start": 117,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com",
+              "url": "https://t.co/JYyPnEIswk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061296461523153268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 284,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我们建立了TG通知频道与聊天群组\n通知频道：https://t.co/bvCMqSu6Rq\n聊天群组：https://t.co/HZy8fx37cQ\n我们的官网：https://t.co/JuIvb6FeUE\nHRT-Tracker：https://t.co/JYyPnEIswk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 653,
+          "like_count": 3602,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n进行mtf/mtx的hrt相关研究\n我们的团队成员有两人\n分别是 @axzameyzed 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2061296461523153268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 14,
+          "like_count": 987,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

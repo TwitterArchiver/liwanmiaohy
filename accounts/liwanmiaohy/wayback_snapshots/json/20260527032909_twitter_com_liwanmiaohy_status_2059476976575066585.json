@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059237584598192420",
+    "created_at": "2026-05-27T03:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059476976575066585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515137106540040196",
+          "start": 0,
+          "username": "jia0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059476976575066585",
+    "in_reply_to_user_id": "1515137106540040196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059467420197412990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jia0712 所以这也是我没有在方案中，直接推荐的原因，但是只要自己觉得舒服和能接受，贴片还是很不错的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_2059467410290405376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSysrjacAAPmJf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-27T03:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059476976575066585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515137106540040196",
+              "start": 0,
+              "username": "jia0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059476976575066585",
+        "in_reply_to_user_id": "1515137106540040196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059467420197412990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jia0712 所以这也是我没有在方案中，直接推荐的原因，但是只要自己觉得舒服和能接受，贴片还是很不错的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059467410290405376"
+          ]
+        },
+        "author_id": "1515137106540040196",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-27T02:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059467420197412990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NAk7XriWH",
+              "end": 81,
+              "expanded_url": "https://x.com/jia0712/status/2059467420197412990/photo/1",
+              "media_key": "3_2059467410290405376",
+              "start": 58,
+              "url": "https://t.co/7NAk7XriWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059467420197412990",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059237584598192420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 德磁贴2片24小时的结果，贴小腹最不容易脱落，或者臀部上外象限，其他手臂大腿当天就脱落了 https://t.co/7NAk7XriWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 657,
+          "like_count": 3517,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 1990
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T01:16:59.000Z",
+        "description": "灯火阑珊，你在彼岸。",
+        "id": "1515137106540040196",
+        "location": "蔡州",
+        "name": "藤萝🏳️‍⚧️",
+        "pinned_tweet_id": "2059467420197412990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909592899773513729/1gf62jTX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 119,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 552
+        },
+        "username": "jia0712",
+        "verified": false
+      }
+    ]
+  }
+}

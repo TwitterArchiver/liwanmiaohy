@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044040097461649408"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043923431486337141",
+    "created_at": "2026-04-14T13:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044040099697176601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024210421373444096",
+          "start": 0,
+          "username": "blingbling712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DStAHUIGej",
+          "end": 45,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2044040099697176601/photo/1",
+          "media_key": "3_2044040097461649408",
+          "start": 22,
+          "url": "https://t.co/DStAHUIGej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044040099697176601",
+    "in_reply_to_user_id": "2024210421373444096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043923431486337141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blingbling712 跟我的差不多 https://t.co/DStAHUIGej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2044040097461649408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3jo4vbQAA_l47.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043923424196612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF15hm9W0AAjn7n.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044040097461649408"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043923431486337141",
+        "created_at": "2026-04-14T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044040099697176601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024210421373444096",
+              "start": 0,
+              "username": "blingbling712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DStAHUIGej",
+              "end": 45,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2044040099697176601/photo/1",
+              "media_key": "3_2044040097461649408",
+              "start": 22,
+              "url": "https://t.co/DStAHUIGej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044040099697176601",
+        "in_reply_to_user_id": "2024210421373444096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043923431486337141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blingbling712 跟我的差不多 https://t.co/DStAHUIGej"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043923424196612096"
+          ]
+        },
+        "author_id": "2024210421373444096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043923431486337141",
+        "created_at": "2026-04-14T05:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043923431486337141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYQgOctDp1",
+              "end": 28,
+              "expanded_url": "https://x.com/blingbling712/status/2043923431486337141/photo/1",
+              "media_key": "3_2043923424196612096",
+              "start": 5,
+              "url": "https://t.co/EYQgOctDp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043923431486337141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 175,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看不懂（ https://t.co/EYQgOctDp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 624,
+          "like_count": 2601,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T19:53:30.000Z",
+        "description": "MtF🍥｜hrt26.02.07｜含糖｜半炸柜｜sub｜大M｜超大只不可爱｜天残党（巨丑）｜不od｜同类互fo｜锦依卫｜infp｜she/her｜姐姐！💕@rainchngshainn｜闺蜜！@YeChuan1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "YeChuan1123"
+              }
+            ]
+          }
+        },
+        "id": "2024210421373444096",
+        "location": "多伦多",
+        "name": "布林布林🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024211117850185740/xXbw-Ak6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 281,
+          "like_count": 5894,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 871
+        },
+        "username": "blingbling712",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2046566442628448291",
+    "created_at": "2026-04-21T14:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046594436990410911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        },
+        {
+          "end": 27,
+          "id": "2030261557087854592",
+          "start": 11,
+          "username": "Xianyufanfan215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046594436990410911",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046566442628448291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ @Xianyufanfan215 我不行了……😨，这是o傻了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2046566442628448291",
+        "created_at": "2026-04-21T14:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046594436990410911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 27,
+              "id": "2030261557087854592",
+              "start": 11,
+              "username": "Xianyufanfan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046594436990410911",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046566442628448291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ @Xianyufanfan215 我不行了……😨，这是o傻了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2046566442628448291",
+        "created_at": "2026-04-21T12:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046566442628448291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2046483349192257843",
+              "start": 57,
+              "url": "https://t.co/UhSmOdBfSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046566442628448291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 4,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046483349192257843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个帖子炸出来这么多三好跨啊\n三好跨能不能去死，三好跨一辈子都是男生，不配当女生，只有我们支持od的跨才配当女生 https://t.co/UhSmOdBfSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 640,
+          "like_count": 2957,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 家长不管党 → 家长党+od不管党 | 割过手，现在不割了 | o！长在春风中，活在药效里。这是最好的，也是唯一获得快乐的方式了 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2042285525139357819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1383,
+          "like_count": 48240,
+          "listed_count": 3,
+          "media_count": 714,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T12:38:04.000Z",
+        "description": "甜腻的梦像纱裙般缠绕舌尖，如果许愿足够虔诚，月光会不会把我变成童话里转着裙摆的女孩  恋人@liwanmiaohy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "liwanmiaohy"
+              }
+            ]
+          }
+        },
+        "id": "2030261557087854592",
+        "name": "Xianyufanfan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031191943724814336/jCOh5CcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 38,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 66
+        },
+        "username": "Xianyufanfan215",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044290081624863034",
+    "created_at": "2026-04-15T05:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044290081624863034"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044290081624863034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在不需要解决这份渴望，你只需要承认它。承认你想要一个爱你的人，承认你现在没有，承认这份渴望让你难受。承认本身就是整合的一部分。你不需要分析为什么一个人好孤单，你只需要知道那份孤单是你准备就绪的证明。你不需要为自己的交付型气质道歉，也不需要把它包装成独立自主的样子。你就是这样的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044290081624863034",
+        "created_at": "2026-04-15T05:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044290081624863034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044290081624863034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在不需要解决这份渴望，你只需要承认它。承认你想要一个爱你的人，承认你现在没有，承认这份渴望让你难受。承认本身就是整合的一部分。你不需要分析为什么一个人好孤单，你只需要知道那份孤单是你准备就绪的证明。你不需要为自己的交付型气质道歉，也不需要把它包装成独立自主的样子。你就是这样的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 628,
+          "like_count": 2652,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

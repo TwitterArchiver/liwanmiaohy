@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2036109551360241795",
+    "created_at": "2026-03-23T16:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036110914890735903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762636006207913984",
+          "start": 0,
+          "username": "konx9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036110914890735903",
+    "in_reply_to_user_id": "1762636006207913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036109551360241795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konx9527 你之前也是这么吃的吗，你当时测的雌二醇多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036109551360241795",
+        "created_at": "2026-03-23T16:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036110914890735903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762636006207913984",
+              "start": 0,
+              "username": "konx9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036110914890735903",
+        "in_reply_to_user_id": "1762636006207913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036109551360241795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konx9527 你之前也是这么吃的吗，你当时测的雌二醇多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "2036109551360241795",
+        "created_at": "2026-03-23T15:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036109551360241795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/konx9527/statu…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/konx9527/status/2036102293884661834",
+              "start": 117,
+              "url": "https://t.co/hRMS9WwTO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036109551360241795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036102293884661834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在是国补1mg*3含服每天\nCPA 12.5mg/3天 之前两天一次，测出 睾酮&lt;0.087 泌乳素极高于是减量 \n如果用针剂就可以不吃抗雄了？泌乳素也会低一些\n那过两天开始用针剂\n再吃CPA过渡几天 就看看停CPA了..🤔 https://t.co/hRMS9WwTO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 576,
+          "like_count": 1419,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/🏳️‍⚧️ 已出柜mtf     性别认同探索中？泛性恋？         欢迎和我互fo（几乎不发帖子我不一定会fo）❤️🐱🤤🤤🤤  始于2008 she/her 我家小鹭: @LibailuOne 🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "LibailuOne"
+              }
+            ]
+          }
+        },
+        "id": "1762636006207913984",
+        "name": "Kumoka",
+        "pinned_tweet_id": "2034907760522141790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034675751237427200/eXt6q2t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 753,
+          "like_count": 5532,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 2980
+        },
+        "username": "konx9527",
+        "verified": false
+      }
+    ]
+  }
+}

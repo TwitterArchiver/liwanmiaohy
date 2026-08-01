@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059113516838293558",
+    "created_at": "2026-05-26T05:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059151717078573067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011405521245634560",
+          "start": 0,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059151717078573067",
+    "in_reply_to_user_id": "2011405521245634560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059113516838293558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rimea_Chord 确实是这样，大多数MtF经历的是多重结构咬合下的境遇，这不是个体的错误"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2059113504662282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNw0qWa4AAwj3s.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059113516838293558",
+        "created_at": "2026-05-26T05:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059151717078573067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059151717078573067",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059113516838293558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 确实是这样，大多数MtF经历的是多重结构咬合下的境遇，这不是个体的错误"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059113504662282240"
+          ]
+        },
+        "author_id": "2011405521245634560",
+        "conversation_id": "2059113516838293558",
+        "created_at": "2026-05-26T03:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059113516838293558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrT6Iw66Jz",
+              "end": 170,
+              "expanded_url": "https://x.com/Rimea_Chord/status/2059113516838293558/photo/1",
+              "media_key": "3_2059113504662282240",
+              "start": 147,
+              "url": "https://t.co/hrT6Iw66Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059113516838293558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、真假药、钱、风险，那就已经说明很多层都断了\n\n⸻\n\n1｜家庭系统失败\n\n这是最直接的一层\n\n一个未成年人遇到这种问题，正常来说需要：\n\n有人愿意听你说\n有人带你去正规医疗\n有人帮你判断风险\n有人提供经济支持\n有人帮你稳定执行方案\n有人保护你不被羞辱、打压、孤立\n\n但如果家庭提供的是：\n\n忽视\n不理解\n责骂\n控制\n放任你自己乱找药\n没钱也没人兜底\n甚至让你长期处在不安全环境里\n\n那就是家庭系统失败\n\n你当时不是成年人\n你没有稳定收入\n没有药物知识\n没有检查能力\n没有能力承担长期不可逆后果\n\n这不应该全压在你一个人身上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 93,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里的“系统失败”不是一句空话\n它不是说“所有责任都推给社会”，也不是说你以后什么都不用负责\n\n它指的是：一个 14 岁多的小孩，本来不应该独自承担一整套医疗、金钱、信息、家庭、身份风险和长期身体后果\n\n如果你必须靠自己摸索补佳乐、抗雄、剂量、真假药、钱、风险，那就已经说明很多层都断了\n\n⸻ https://t.co/hrT6Iw66Jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 658,
+          "like_count": 3481,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜  ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "柑橘气味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733008212193280/6tEmWEXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 166,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1474
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

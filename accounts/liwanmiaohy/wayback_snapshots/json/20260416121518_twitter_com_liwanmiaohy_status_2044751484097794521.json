@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044751484097794521",
+    "created_at": "2026-04-16T12:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044751484097794521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/projtransworld…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/projtransworld/status/1989199509281546556",
+          "start": 14,
+          "url": "https://t.co/8ayTdXDcMZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044751484097794521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989199509281546556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以投稿，不知道会不会采纳🥲 https://t.co/8ayTdXDcMZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044751484097794521",
+        "created_at": "2026-04-16T12:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044751484097794521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/projtransworld…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/projtransworld/status/1989199509281546556",
+              "start": 14,
+              "url": "https://t.co/8ayTdXDcMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044751484097794521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989199509281546556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以投稿，不知道会不会采纳🥲 https://t.co/8ayTdXDcMZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989194662486429697",
+        "conversation_id": "1989199509281546556",
+        "created_at": "2025-11-14T05:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989199509281546556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "RLEWorld旨在创建易于编辑及更新的RLE信息交流平台 投稿功能维护中 目前可通过邮箱投稿 格式不限 I …",
+              "display_url": "rle.world",
+              "end": 77,
+              "expanded_url": "http://rle.world",
+              "start": 54,
+              "status": 200,
+              "title": "RLEWorld",
+              "unwound_url": "https://rle.world/",
+              "url": "https://t.co/zuEcO45lrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989199509281546556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7698,
+          "like_count": 44,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "TransWorld计划正式开始\n我们希望成为自由的跨性别相关信息分享平台，以信息真实与易于编辑为核心\n目前https://t.co/zuEcO45lrJ已上线，欢迎投稿\n跑路/润学指南与在线编辑器开发中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜鬓边茉莉为谁妍，月下窗前等君怜。——莉绾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 638,
+          "like_count": 2773,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:52:46.000Z",
+        "description": "A information sharing platform for trans/自由的跨性别相关信息交流平台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rle.world",
+                "end": 23,
+                "expanded_url": "http://rle.world",
+                "start": 0,
+                "url": "https://t.co/eKWiO35MdQ"
+              }
+            ]
+          }
+        },
+        "id": "1989194662486429697",
+        "location": "Canada",
+        "name": "TransWorld🏳️‍⚧️",
+        "pinned_tweet_id": "1989199509281546556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989195233331146752/FOvC-DOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 16,
+          "like_count": 107,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/eKWiO35MdQ",
+        "username": "projtransworld",
+        "verified": true
+      }
+    ]
+  }
+}

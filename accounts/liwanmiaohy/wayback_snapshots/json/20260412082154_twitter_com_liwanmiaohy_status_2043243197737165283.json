@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043243192783683584",
+        "3_2043243194079719424",
+        "3_2043243194373312512",
+        "3_2043243194415300608"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043243197737165283",
+    "created_at": "2026-04-12T08:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043243197737165283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 141,
+          "id": "1904873292366036992",
+          "start": 130,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ivePcEZsVu",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+          "media_key": "3_2043243192783683584",
+          "start": 146,
+          "url": "https://t.co/ivePcEZsVu"
+        },
+        {
+          "display_url": "pic.x.com/ivePcEZsVu",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+          "media_key": "3_2043243194079719424",
+          "start": 146,
+          "url": "https://t.co/ivePcEZsVu"
+        },
+        {
+          "display_url": "pic.x.com/ivePcEZsVu",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+          "media_key": "3_2043243194373312512",
+          "start": 146,
+          "url": "https://t.co/ivePcEZsVu"
+        },
+        {
+          "display_url": "pic.x.com/ivePcEZsVu",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+          "media_key": "3_2043243194415300608",
+          "start": 146,
+          "url": "https://t.co/ivePcEZsVu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043243197737165283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性别过渡中的内在整合：一份基于个人经历的参照框架:\n如果你曾觉得自己坏了、错了，甚至说不清自己是谁，也许你不是没有答案，只是还没找到语言\n 这是一份基于亲身经历整理出的性别过渡内在整合框架，想把混乱、自恨和撕裂慢慢说清\n它不是标准答案，只是一条被走过的路\n感谢@Chiyuyu520的帮忙🤗 https://t.co/ivePcEZsVu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2043243192783683584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsO27ebQAA27vk.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043243194079719424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsO3ATbMAATjQQ.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043243194373312512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsO3BZbEAAwmR4.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043243194415300608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsO3BjbwAAdmIQ.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043243192783683584",
+            "3_2043243194079719424",
+            "3_2043243194373312512",
+            "3_2043243194415300608"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043243197737165283",
+        "created_at": "2026-04-12T08:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043243197737165283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 141,
+              "id": "1904873292366036992",
+              "start": 130,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ivePcEZsVu",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+              "media_key": "3_2043243192783683584",
+              "start": 146,
+              "url": "https://t.co/ivePcEZsVu"
+            },
+            {
+              "display_url": "pic.x.com/ivePcEZsVu",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+              "media_key": "3_2043243194079719424",
+              "start": 146,
+              "url": "https://t.co/ivePcEZsVu"
+            },
+            {
+              "display_url": "pic.x.com/ivePcEZsVu",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+              "media_key": "3_2043243194373312512",
+              "start": 146,
+              "url": "https://t.co/ivePcEZsVu"
+            },
+            {
+              "display_url": "pic.x.com/ivePcEZsVu",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043243197737165283/photo/1",
+              "media_key": "3_2043243194415300608",
+              "start": 146,
+              "url": "https://t.co/ivePcEZsVu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043243197737165283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别过渡中的内在整合：一份基于个人经历的参照框架:\n如果你曾觉得自己坏了、错了，甚至说不清自己是谁，也许你不是没有答案，只是还没找到语言\n 这是一份基于亲身经历整理出的性别过渡内在整合框架，想把混乱、自恨和撕裂慢慢说清\n它不是标准答案，只是一条被走过的路\n感谢@Chiyuyu520的帮忙🤗 https://t.co/ivePcEZsVu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 602,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "http://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/ueqIkmhz7W"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3658,
+          "following_count": 1246,
+          "like_count": 5949,
+          "listed_count": 5,
+          "media_count": 295,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/ueqIkmhz7W",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

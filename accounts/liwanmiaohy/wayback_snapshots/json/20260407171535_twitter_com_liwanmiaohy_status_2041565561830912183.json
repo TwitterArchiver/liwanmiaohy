@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041557692737863856",
+    "created_at": "2026-04-07T17:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041565561830912183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041565561830912183",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041557692737863856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 国际主流指南并未将色普龙（CPA）和螺内酯简单分为一线或二线。WPATH SOC-8明确指出两者均可作为初选方案，没有绝对的优劣之分。其最终选择取决于患者的具体情况、耐受性和可及性。\nWPATH发布的《照护指南》第八版 (SOC-8) 中，并未对色普龙（CPA）和螺内酯做出一线、二线的区分。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1507,
+        "media_key": "3_2041557682591821825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUR5Uta8AEf_83.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041557692737863856",
+        "created_at": "2026-04-07T17:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041565561830912183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041565561830912183",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041557692737863856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 国际主流指南并未将色普龙（CPA）和螺内酯简单分为一线或二线。WPATH SOC-8明确指出两者均可作为初选方案，没有绝对的优劣之分。其最终选择取决于患者的具体情况、耐受性和可及性。\nWPATH发布的《照护指南》第八版 (SOC-8) 中，并未对色普龙（CPA）和螺内酯做出一线、二线的区分。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041557682591821825"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041557692737863856",
+        "created_at": "2026-04-07T16:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041557692737863856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZZKCzdx1n",
+              "end": 175,
+              "expanded_url": "https://x.com/520illusion/status/2041557692737863856/photo/1",
+              "media_key": "3_2041557682591821825",
+              "start": 152,
+              "url": "https://t.co/pZZKCzdx1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041557692737863856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt的抗雄药物中 色普龙在国际治疗指南中明确被列为二线用药 为什么绝大部分人都使用色谱龙 而不使用一线用药螺内酯 想不明白\n\n感觉是药商为了卖药而炒作出来的\n\n色普龙价格又贵 购买困难 副作用大\n提高脑膜瘤和肝癌的概率 肝肾损害\n\n反之 螺内酯 几乎没副作用\n只要别大把大把吃   价格极低 随意购买 https://t.co/pZZKCzdx1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 589,
+          "like_count": 1900,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安  |  QQ群 ：1028138709",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2039773716712927450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 200,
+          "like_count": 9542,
+          "listed_count": 7,
+          "media_count": 792,
+          "tweet_count": 5624
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042225869025120696",
+    "created_at": "2026-04-09T12:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042225869025120696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042225869025120696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042222335193969058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 简单摘要：\n对于HRT中的姐妹来说\n1.雌激素+拉莫三嗪；\n2.螺内酯+碳酸锂；\n3.醋酸环丙孕酮+利培酮/帕立哌酮/氨磺必利；\n4.螺内酯+SSRI抗抑郁药/SNRI抗抑郁药\n需要谨慎用药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042225869025120696",
+        "created_at": "2026-04-09T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042225869025120696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042225869025120696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042222335193969058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 简单摘要：\n对于HRT中的姐妹来说\n1.雌激素+拉莫三嗪；\n2.螺内酯+碳酸锂；\n3.醋酸环丙孕酮+利培酮/帕立哌酮/氨磺必利；\n4.螺内酯+SSRI抗抑郁药/SNRI抗抑郁药\n需要谨慎用药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "2042222335193969058",
+        "created_at": "2026-04-09T12:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042222335193969058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eleanoranatida…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/eleanoranatidae/status/2042212452251947035",
+              "start": 96,
+              "url": "https://t.co/CcR6KO1gCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042222335193969058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042212452251947035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单摘要：\n对于HRT中的姐妹来说\n1.雌激素+拉莫三嗪；\n2.螺内酯+碳酸锂；\n3.醋酸环丙孕酮+利培酮/帕立哌酮/氨磺必利；\n4.螺内酯+SSRI抗抑郁药/SNRI抗抑郁药\n需要谨慎用药 https://t.co/CcR6KO1gCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 594,
+          "like_count": 2140,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/另一个号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3819,
+          "following_count": 2143,
+          "like_count": 28597,
+          "listed_count": 9,
+          "media_count": 153,
+          "tweet_count": 6936
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

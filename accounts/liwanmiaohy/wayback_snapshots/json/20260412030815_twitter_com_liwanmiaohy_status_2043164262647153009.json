@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042951504307638394",
+    "created_at": "2026-04-12T03:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043164262647153009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1877743555961294848",
+          "start": 0,
+          "username": "nino_yukiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043164262647153009",
+    "in_reply_to_user_id": "1877743555961294848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043115196265492703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nino_yukiko 是这样的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042951504307638394",
+        "created_at": "2026-04-12T03:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043164262647153009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1877743555961294848",
+              "start": 0,
+              "username": "nino_yukiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043164262647153009",
+        "in_reply_to_user_id": "1877743555961294848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043115196265492703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nino_yukiko 是这样的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877743555961294848",
+        "conversation_id": "2042951504307638394",
+        "created_at": "2026-04-11T23:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043115196265492703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043115196265492703",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042951504307638394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 无知的人是多数\n完全消除偏见太难了 感觉很多大学生心智都没中学生成熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 598,
+          "like_count": 2330,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T15:45:32.000Z",
+        "description": "CNCSer | Team Ni2O3Xe队长&指挥狙 | ACGN系列赛事主办 | 前完美1.15rt金S | B站同名 | 比赛官推见下\nMtF | 10' Sept.8出厂 | INTP | 假性社恐 | 169cm 44kg | 初三在读 | 炸柜25' Oct.15 | GAHT/HRT 26' Mar.28",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/d99Y0GF",
+                "end": 23,
+                "expanded_url": "https://b23.tv/d99Y0GF",
+                "start": 0,
+                "url": "https://t.co/SKR7FEsTfp"
+              }
+            ]
+          }
+        },
+        "id": "1877743555961294848",
+        "name": "妮诺雪子Ni₂O₃Xe",
+        "pinned_tweet_id": "2035327356005662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036793790862950400/5jzVTFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 132,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/SKR7FEsTfp",
+        "username": "nino_yukiko",
+        "verified": true
+      }
+    ]
+  }
+}

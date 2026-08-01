@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2047564627945689572",
+    "created_at": "2026-04-24T10:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047630965837905965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 29,
+          "id": "1965393379224944645",
+          "start": 17,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047630965837905965",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047564627945689572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina @hagishigure 这段话送给你们:\n我们总能在别人幸福的角落，听到一些“清醒”的杂音。\n但请记住:\n不值得的从来不是你们的爱，而是他们永远不敢拥有的、那份不顾一切的心。让他们永远活在对世界的算计与恐惧中去吧！而你们，只管继续去爱，大步流星地走自己的路。那些风言风语，不过是你们穿过旷野时，被甩在身后的风。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2047564627945689572",
+        "created_at": "2026-04-24T10:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047630965837905965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 29,
+              "id": "1965393379224944645",
+              "start": 17,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047630965837905965",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047564627945689572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @hagishigure 这段话送给你们:\n我们总能在别人幸福的角落，听到一些“清醒”的杂音。\n但请记住:\n不值得的从来不是你们的爱，而是他们永远不敢拥有的、那份不顾一切的心。让他们永远活在对世界的算计与恐惧中去吧！而你们，只管继续去爱，大步流星地走自己的路。那些风言风语，不过是你们穿过旷野时，被甩在身后的风。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2047564627945689572",
+        "created_at": "2026-04-24T06:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047564627945689572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047564627945689572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这种时候劝我找新伴侣的人属于非蠢即坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 643,
+          "like_count": 3027,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//雨辰和雪仙永远在一起，永不别离...我们将在星空下重逢...谢谢朋友们的关注。@eztakesin 我们永远是彼此的妻子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨☘️🌈雨夜辰曦•雪若仙🏳️‍⚧️Together Forever✨",
+        "pinned_tweet_id": "2047592463838450139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1097,
+          "like_count": 3879,
+          "listed_count": 5,
+          "media_count": 656,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 149,
+          "like_count": 27639,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 6571
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

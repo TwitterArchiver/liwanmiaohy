@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067641054585933824"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2067641057584816171",
+    "created_at": "2026-06-18T16:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067641057584816171"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "羽莉"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "MtF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Pfj9LR24r",
+          "end": 102,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2067641057584816171/photo/1",
+          "media_key": "3_2067641054585933824",
+          "start": 79,
+          "url": "https://t.co/8Pfj9LR24r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067641057584816171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一番の宝物\n不要让没有结尾的胡思乱想破坏了眼前的幸福🤗\n我相信 只要互相付出的都是真心❤️\n那一定会是一个美好的结局🥰\n爱你，我亲爱的羽😘\n#羽莉 #MtF https://t.co/8Pfj9LR24r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2067641054585933824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8lZWb0AApo7r.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067641054585933824"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2067641057584816171",
+        "created_at": "2026-06-18T16:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067641057584816171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "羽莉"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Pfj9LR24r",
+              "end": 102,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2067641057584816171/photo/1",
+              "media_key": "3_2067641054585933824",
+              "start": 79,
+              "url": "https://t.co/8Pfj9LR24r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067641057584816171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一番の宝物\n不要让没有结尾的胡思乱想破坏了眼前的幸福🤗\n我相信 只要互相付出的都是真心❤️\n那一定会是一个美好的结局🥰\n爱你，我亲爱的羽😘\n#羽莉 #MtF https://t.co/8Pfj9LR24r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 651,
+          "like_count": 3803,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

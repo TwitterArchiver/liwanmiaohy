@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2046944927506956530",
+    "created_at": "2026-04-22T16:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046985508136661073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2012914101987762177",
+          "start": 0,
+          "username": "TeamTransmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046985508136661073",
+    "in_reply_to_user_id": "2012914101987762177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046944927506956530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamTransmtf 支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 475,
+        "media_key": "3_2046944917180514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg1jpdWAAAEBNA.jpg",
+        "width": 750
+      },
+      {
+        "height": 507,
+        "media_key": "3_2046944917176373250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg1jpcW0AI-fOz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2046944927506956530",
+        "created_at": "2026-04-22T16:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046985508136661073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2012914101987762177",
+              "start": 0,
+              "username": "TeamTransmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046985508136661073",
+        "in_reply_to_user_id": "2012914101987762177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046944927506956530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamTransmtf 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046944917180514304",
+            "3_2046944917176373250"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2046944927506956530",
+        "created_at": "2026-04-22T13:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046944927506956530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBcI5s3EME",
+              "end": 151,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2046944927506956530/photo/1",
+              "media_key": "3_2046944917180514304",
+              "start": 128,
+              "url": "https://t.co/IBcI5s3EME"
+            },
+            {
+              "display_url": "pic.x.com/IBcI5s3EME",
+              "end": 151,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2046944927506956530/photo/1",
+              "media_key": "3_2046944917176373250",
+              "start": 128,
+              "url": "https://t.co/IBcI5s3EME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046944927506956530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "transmtf.com/privacy",
+                "end": 197,
+                "expanded_url": "https://www.transmtf.com/privacy",
+                "start": 174,
+                "url": "https://t.co/VAa7CGLGuk"
+              },
+              {
+                "display_url": "transmtf.com/tos",
+                "end": 226,
+                "expanded_url": "https://www.transmtf.com/tos",
+                "start": 203,
+                "url": "https://t.co/GkjuMk54Dv"
+              }
+            ]
+          },
+          "text": "尊敬的用户：\n您好\n为进一步规范平台运营秩序、保障用户合法权益，Transmtf 现已对《隐私政策》及《服务条款》完成规范化与标准化修订工作，上述条款自本公告发布之时起自动生效\n用户继续使用本团队旗下产品及服务，即视为已阅读、理解并同意下述条款的全部内容\n团队在此郑重承诺，所有条款均严格遵循国际通行标准制定，切实维护用户隐私与数据安全\n隐私政策：https://t.co/VAa7CGLGuk\n服务条款：https://t.co/GkjuMk54Dv\n最后，再次感谢您对 Transmtf 的持续支持与信任，我们会持续努力创造更好的产品"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 232,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尊敬的用户：\n您好\n为进一步规范平台运营秩序、保障用户合法权益，Transmtf 现已对《隐私政策》及《服务条款》完成规范化与标准化修订工作，上述条款自本公告发布之时起自动生效\n用户继续使用本团队旗下产品及服务，即视为已阅读、理解并同意下述条款的全部内容 https://t.co/IBcI5s3EME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 640,
+          "like_count": 2970,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号\n\n截至目前，我们的团队成员有两人，分别是 @mxyzcdb 和 @EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR2ygV"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "pinned_tweet_id": "2044611481392525523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 13,
+          "like_count": 428,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/MDakkR2ygV",
+        "username": "TeamTransmtf",
+        "verified": true
+      }
+    ]
+  }
+}

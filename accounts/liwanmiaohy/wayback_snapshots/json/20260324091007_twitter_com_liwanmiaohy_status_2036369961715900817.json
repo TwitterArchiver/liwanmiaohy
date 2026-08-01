@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2036364439453311274",
+    "created_at": "2026-03-24T09:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036369961715900817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036369961715900817",
+    "in_reply_to_user_id": "1705499676953497600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036364439453311274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当社群内部也有杂音、也有伤害、也有让人想转身离开的时刻——依然选择存在，依然选择彼此确认，依然选择不因为内部的裂痕而否定共同存在的意义，这才是“反抗”更深的含义。🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036364439453311274",
+        "created_at": "2026-03-24T09:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036369961715900817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036369961715900817",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036364439453311274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当社群内部也有杂音、也有伤害、也有让人想转身离开的时刻——依然选择存在，依然选择彼此确认，依然选择不因为内部的裂痕而否定共同存在的意义，这才是“反抗”更深的含义。🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036364439453311274",
+        "created_at": "2026-03-24T08:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036364439453311274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 92,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036364439453311274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真的对社群里的一些声音和行为感到愤怒和无力。\n冷静过后，才知晓恶意有时并非来自社群之外\n也更能体会那句——我们的存在，就是对恶意的最大反抗，所代表的含义\n敬佩那些走在前面的姐姐\n#mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 580,
+          "like_count": 1463,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

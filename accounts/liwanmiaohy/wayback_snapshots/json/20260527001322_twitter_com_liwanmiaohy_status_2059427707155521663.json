@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059237584598192420",
+    "created_at": "2026-05-27T00:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059427707155521663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853836659957399552",
+          "start": 0,
+          "username": "FrozenScythex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059427707155521663",
+    "in_reply_to_user_id": "1853836659957399552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059420602902224931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrozenScythex 哈哈，正常的，因为比卡不像cpa，它是直接对受体起作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-27T00:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059427707155521663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853836659957399552",
+              "start": 0,
+              "username": "FrozenScythex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059427707155521663",
+        "in_reply_to_user_id": "1853836659957399552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059420602902224931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrozenScythex 哈哈，正常的，因为比卡不像cpa，它是直接对受体起作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853836659957399552",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-26T23:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059420602902224931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059420602902224931",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059349689255010773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 一百多天😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 657,
+          "like_count": 3504,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T16:28:21.000Z",
+        "description": "世界，你毁灭吧！(不要盯着我不要骂我不要在心里讨厌我不要记住我😢对不起对不起对不起)",
+        "id": "1853836659957399552",
+        "location": "在你背后👁",
+        "name": "Frozen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853837358569050112/WJ2E5mj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 268,
+          "like_count": 13073,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 343
+        },
+        "username": "FrozenScythex",
+        "verified": false
+      }
+    ]
+  }
+}

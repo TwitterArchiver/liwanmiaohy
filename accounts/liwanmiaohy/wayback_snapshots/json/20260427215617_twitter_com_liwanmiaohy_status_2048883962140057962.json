@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2048883231857254873",
+    "created_at": "2026-04-27T21:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048883962140057962"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048883962140057962",
+    "in_reply_to_user_id": "1705499676953497600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048883231857254873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝大家一切顺利，也希望它能帮助到大家顺利出柜，亦或者是帮助到父母去理解孩子。\n另外，需要完整版PDF的，可以私信我索要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2048883225926475776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8YcEOaoAAZ83Z.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2048883228841476096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8YcPFaAAA59-S.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2048883228841508865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8YcPFagAEkwX2.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2048883229105745920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8YcQEacAALswB.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2048883231857254873",
+        "created_at": "2026-04-27T21:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048883962140057962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048883962140057962",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048883231857254873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝大家一切顺利，也希望它能帮助到大家顺利出柜，亦或者是帮助到父母去理解孩子。\n另外，需要完整版PDF的，可以私信我索要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048883225926475776",
+            "3_2048883228841476096",
+            "3_2048883228841508865",
+            "3_2048883229105745920"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2048883231857254873",
+        "created_at": "2026-04-27T21:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048883231857254873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVRBNuXWkS",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2048883231857254873/photo/1",
+              "media_key": "3_2048883225926475776",
+              "start": 141,
+              "url": "https://t.co/tVRBNuXWkS"
+            },
+            {
+              "display_url": "pic.x.com/tVRBNuXWkS",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2048883231857254873/photo/1",
+              "media_key": "3_2048883228841476096",
+              "start": 141,
+              "url": "https://t.co/tVRBNuXWkS"
+            },
+            {
+              "display_url": "pic.x.com/tVRBNuXWkS",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2048883231857254873/photo/1",
+              "media_key": "3_2048883228841508865",
+              "start": 141,
+              "url": "https://t.co/tVRBNuXWkS"
+            },
+            {
+              "display_url": "pic.x.com/tVRBNuXWkS",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2048883231857254873/photo/1",
+              "media_key": "3_2048883229105745920",
+              "start": 141,
+              "url": "https://t.co/tVRBNuXWkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048883231857254873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "引路：一份给跨性别青少年家长的沟通与支持指南\n它试图回答一个具体的问题：当孩子向你表达性别认同方面的困惑或需求时，你可以怎么做。\n并不是要你立刻接受所有事，只是希望能帮你在孩子最需要父母的时候，不至于因为不了解而错过了支持他的机会。这里没有强迫和指责，只有孩子一路走来想告诉你的话 https://t.co/tVRBNuXWkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 648,
+          "like_count": 3109,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

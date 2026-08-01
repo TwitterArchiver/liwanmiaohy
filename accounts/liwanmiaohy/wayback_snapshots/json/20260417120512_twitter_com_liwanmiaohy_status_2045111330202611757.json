@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043872590591340917",
+    "created_at": "2026-04-17T12:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045111330202611757"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 14,
+          "tag": "GlobalFeministAlliance"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870712220168138752",
+          "start": 0,
+          "username": "TeamCat_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045111330202611757",
+    "in_reply_to_user_id": "1870712220168138752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043872590591340917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamCat_2024 #GlobalFeministAlliance\n大家好！我叫莉绾，我是一名来自中国的跨性别者。我致力于为社群提供可参照的医疗与心理整合框架，主张基于科学认知的性别肯定，反对一切形式的歧视与污名。我与全球伙伴团结一致，共同守护多元生命的尊严与权利。🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043872590591340917",
+        "created_at": "2026-04-17T12:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045111330202611757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 14,
+              "tag": "GlobalFeministAlliance"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870712220168138752",
+              "start": 0,
+              "username": "TeamCat_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045111330202611757",
+        "in_reply_to_user_id": "1870712220168138752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043872590591340917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamCat_2024 #GlobalFeministAlliance\n大家好！我叫莉绾，我是一名来自中国的跨性别者。我致力于为社群提供可参照的医疗与心理整合框架，主张基于科学认知的性别肯定，反对一切形式的歧视与污名。我与全球伙伴团结一致，共同守护多元生命的尊严与权利。🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870712220168138752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2043872590591340917",
+        "created_at": "2026-04-14T02:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043872590591340917"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 240,
+              "start": 217,
+              "tag": "GlobalFeministAlliance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043872590591340917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 47735,
+          "like_count": 1585,
+          "quote_count": 21,
+          "reply_count": 87,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "Hello, everyone! We are Team Cat. As auto-translation becomes more accessible on Twitter across different countries, we aim to connect feminists worldwide for the benefit of the women's movement. To start, please use #GlobalFeministAlliance to introduce yourself in your language."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜鬓边茉莉为谁妍，月下窗前等君怜。——莉绾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 639,
+          "like_count": 2920,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T06:06:01.000Z",
+        "description": "We are Team CAT, a group of South Korean feminists.",
+        "id": "1870712220168138752",
+        "name": "(cat) 페미니즘=여성인권운동",
+        "pinned_tweet_id": "2043872590591340917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870715652807479296/qVTW-kp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 3,
+          "like_count": 112,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 163
+        },
+        "username": "TeamCat_2024",
+        "verified": false
+      }
+    ]
+  }
+}

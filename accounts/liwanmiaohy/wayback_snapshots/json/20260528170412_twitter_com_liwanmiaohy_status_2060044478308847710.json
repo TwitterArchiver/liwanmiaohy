@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2059237584598192420",
+    "created_at": "2026-05-28T17:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060044478308847710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505945863985643523",
+          "start": 0,
+          "username": "sanduo031201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060044478308847710",
+    "in_reply_to_user_id": "1505945863985643523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060032088393334802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanduo031201 👌，谢谢你的数据"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060031748109389824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaz9dwWUAANxey.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-28T17:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060044478308847710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505945863985643523",
+              "start": 0,
+              "username": "sanduo031201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060044478308847710",
+        "in_reply_to_user_id": "1505945863985643523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060032088393334802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanduo031201 👌，谢谢你的数据"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060031748109389824"
+          ]
+        },
+        "author_id": "1505945863985643523",
+        "conversation_id": "2059237584598192420",
+        "created_at": "2026-05-28T16:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060032088393334802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgI8ZVJtK2",
+              "end": 81,
+              "expanded_url": "https://x.com/sanduo031201/status/2060032088393334802/photo/1",
+              "media_key": "3_2060031748109389824",
+              "start": 58,
+              "url": "https://t.co/WgI8ZVJtK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032088393334802",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059237584598192420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 这个是我用比卡鲁胺+两卡尺雌二醇凝胶（一卡尺爱斯妥，一卡尺健民）然后大概八天测出来的结果 https://t.co/WgI8ZVJtK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 660,
+          "like_count": 3578,
+          "listed_count": 6,
+          "media_count": 144,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T16:34:16.000Z",
+        "description": "是一只单身伪娘哦，同好可以私聊找俺扩列喵，喜欢百合，有喜欢我的姐姐和男娘请戳爆我的私信",
+        "id": "1505945863985643523",
+        "name": "三惰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655860081630625793/oXlVuoiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 144,
+          "like_count": 995,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 34
+        },
+        "username": "sanduo031201",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2080714779346472961",
+    "created_at": "2026-07-24T18:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080714779346472961"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "01a20da949498784"
+    },
+    "id": "2080714779346472961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想告诉你，当你的痛苦更多源于外界的误解、内心的迷茫，或是社群无形的压力时：“成为自己”的道路，从来就不止一条模板化的航线\n真正的女性身份，其最坚实的根基，在于你内心是否能够确认 “让内在的她，成为你存在的唯一理由”\n医疗过渡是许多人至关重要且正确的选择，但它不应成为及格线或唯一答案"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [01a20da949498784].",
+      "parameter": "geo.place_id",
+      "resource_id": "01a20da949498784",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "01a20da949498784"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2080714779346472961",
+        "created_at": "2026-07-24T18:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080714779346472961"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2080714779346472961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想告诉你，当你的痛苦更多源于外界的误解、内心的迷茫，或是社群无形的压力时：“成为自己”的道路，从来就不止一条模板化的航线\n真正的女性身份，其最坚实的根基，在于你内心是否能够确认 “让内在的她，成为你存在的唯一理由”\n医疗过渡是许多人至关重要且正确的选择，但它不应成为及格线或唯一答案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "羽と莉の花园",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 649,
+          "like_count": 3844,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2050949305117347932",
+    "created_at": "2026-05-03T14:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050949305117347932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050949305117347932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "希望大家能明白假设未来真的能通过基因检测、脑部扫描或其他生物学标记来“诊断”谁是跨性别者，这个技术不会带来解放，只会带来更高效的消灭。产前筛查会终止跨性别胎儿的妊娠，儿童期筛查会把跨性别儿童从“需要被尊重的人”变成“有病需要治疗的人”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050949305117347932",
+        "created_at": "2026-05-03T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050949305117347932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050949305117347932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家能明白假设未来真的能通过基因检测、脑部扫描或其他生物学标记来“诊断”谁是跨性别者，这个技术不会带来解放，只会带来更高效的消灭。产前筛查会终止跨性别胎儿的妊娠，儿童期筛查会把跨性别儿童从“需要被尊重的人”变成“有病需要治疗的人”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎咨询问题｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 657,
+          "like_count": 3239,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

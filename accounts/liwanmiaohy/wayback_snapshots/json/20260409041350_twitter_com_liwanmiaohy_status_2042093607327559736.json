@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041945402489106541",
+    "created_at": "2026-04-09T04:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042093607327559736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 27,
+          "id": "1905258429821898752",
+          "start": 17,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042093607327559736",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041963652698579081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae @MisakaBit 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041945402489106541",
+        "created_at": "2026-04-09T04:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042093607327559736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 27,
+              "id": "1905258429821898752",
+              "start": 17,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093607327559736",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041963652698579081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae @MisakaBit 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "2041945402489106541",
+        "created_at": "2026-04-08T19:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041963652698579081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041963652698579081",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041945402489106541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaBit 抱抱妹妹，就该这么干\n我也会刻意回避的学校那群，毕竟当时偷拍我穿裙子照片四处传的就是他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 591,
+          "like_count": 2081,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/另一个号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3818,
+          "following_count": 2137,
+          "like_count": 28520,
+          "listed_count": 9,
+          "media_count": 152,
+          "tweet_count": 6920
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT+VFS计划SRS中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 社恐重度，不熟悉之前不私聊不面基 | INFJ | 双極性II型・重度うつ・不安・BPD・ADHD・地雷注意 | 已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/YK3sc6jJBI"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚🍥",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718498341818368/S0N0-SJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 710,
+          "like_count": 6185,
+          "listed_count": 4,
+          "media_count": 172,
+          "tweet_count": 1734
+        },
+        "url": "https://t.co/YK3sc6jJBI",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

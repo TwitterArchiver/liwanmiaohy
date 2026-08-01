@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043687142447370669",
+    "created_at": "2026-04-13T14:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043698889765826826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043698889765826826",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043687142447370669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2043687062268989440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyijiKa0AAREXL.jpg",
+        "width": 1058
+      },
+      {
+        "height": 2348,
+        "media_key": "3_2043687092442820610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyilSka8AIK1z0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043687142447370669",
+        "created_at": "2026-04-13T14:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043698889765826826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043698889765826826",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043687142447370669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043687062268989440",
+            "3_2043687092442820610"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2043687142447370669",
+        "created_at": "2026-04-13T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043687142447370669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbAQaxRAao",
+              "end": 171,
+              "expanded_url": "https://x.com/smiroyama/status/2043687142447370669/photo/1",
+              "media_key": "3_2043687062268989440",
+              "start": 148,
+              "url": "https://t.co/tbAQaxRAao"
+            },
+            {
+              "display_url": "pic.x.com/tbAQaxRAao",
+              "end": 171,
+              "expanded_url": "https://x.com/smiroyama/status/2043687142447370669/photo/1",
+              "media_key": "3_2043687092442820610",
+              "start": 148,
+              "url": "https://t.co/tbAQaxRAao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043687142447370669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/20262…",
+                "end": 531,
+                "expanded_url": "https://www.zhihu.com/question/2026285555021878931",
+                "start": 508,
+                "url": "https://t.co/tv8ICCfn2e"
+              }
+            ]
+          },
+          "text": "佛山市石门中学2026届高三某班家委花费1100元，为全班订购了60杯奶茶，但因家委点错时间，奶茶被提前送达学校。因年级规定禁止此类集会饮食，保安不予放行，订购奶茶的家委不知如何处理滞留在校门口的奶茶，经辗转联系，最终交由年级组H级长处理。H级长将这60杯奶茶全部分发给了当时在教学楼的值班老师、其他班的艺术生及部分竞赛班学生。而真正花钱的该班学生一口都没有喝到。\n\n当晚，该班班长及学生代表前往找H级长讨要说法，H级长在沟通中的态度和言辞引发了学生极大的不满与愤慨。\n\n1. 面对学生的询问，H级长直接对学生爆粗口称“你有毛病吧？我都想骂你”，并将学生家长自费购买的奶茶称为“相当于一堆垃圾”，表示“我可以直接扔掉的，只是不想浪费所以才分给了老师”。\n\n2. 当学生追问为何多出来的奶茶不能分给本班学生时，H级长以“不患寡而患不均”为借口，表示为了减少影响，宁愿分给小范围的艺术生和竞赛生，也不给原班级，被学生质疑是拿他们花钱买的东西“做人情”。\n\n3. ​H级长最终以“点错奶茶的家委自己承担了这60杯奶茶的费用”为由，得出结论称“所以这件事跟你们（学生）没有任何关系，我想请谁喝就请谁喝”。\n\nsource: https://t.co/tv8ICCfn2e"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "佛山市石门中学2026届高三某班家委花费1100元，为全班订购了60杯奶茶，但因家委点错时间，奶茶被提前送达学校。因年级规定禁止此类集会饮食，保安不予放行，订购奶茶的家委不知如何处理滞留在校门口的奶茶，经辗转联系，最终交由年级组H级长处理。H级长将这60杯奶茶全部分发给了当时在教学楼的值班老师 https://t.co/tbAQaxRAao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 618,
+          "like_count": 2508,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2898,
+          "following_count": 1841,
+          "like_count": 7571,
+          "listed_count": 2,
+          "media_count": 1024,
+          "tweet_count": 4664
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

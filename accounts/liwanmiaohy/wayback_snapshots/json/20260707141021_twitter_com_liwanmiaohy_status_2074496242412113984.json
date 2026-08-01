@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074496219544780800",
+        "7_2074496218122870784",
+        "3_2074496219469201408",
+        "3_2074496219897077760"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074496242412113984",
+    "created_at": "2026-07-07T14:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074496242412113984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/upjceQFTQ3",
+          "end": 23,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+          "media_key": "3_2074496219544780800",
+          "start": 0,
+          "url": "https://t.co/upjceQFTQ3"
+        },
+        {
+          "display_url": "pic.x.com/upjceQFTQ3",
+          "end": 23,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+          "media_key": "7_2074496218122870784",
+          "start": 0,
+          "url": "https://t.co/upjceQFTQ3"
+        },
+        {
+          "display_url": "pic.x.com/upjceQFTQ3",
+          "end": 23,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+          "media_key": "3_2074496219469201408",
+          "start": 0,
+          "url": "https://t.co/upjceQFTQ3"
+        },
+        {
+          "display_url": "pic.x.com/upjceQFTQ3",
+          "end": 23,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+          "media_key": "3_2074496219897077760",
+          "start": 0,
+          "url": "https://t.co/upjceQFTQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074496242412113984",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/upjceQFTQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074496219544780800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoXUg3bgAAJJIi.jpg",
+        "width": 1537
+      },
+      {
+        "duration_ms": 3527,
+        "height": 1280,
+        "media_key": "7_2074496218122870784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074496218122870784/pu/img/5mgmvD2Jbc9_OvUf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074496218122870784/pu/vid/avc1/320x568/pasOobdFxWmRwWI7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074496218122870784/pu/vid/avc1/480x852/3MeurP0ba06RuRQa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074496218122870784/pu/vid/avc1/720x1280/qoq3GawTpWpdRfIT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074496218122870784/pu/pl/8Vx7km5ubeYqgJFQ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2074496219469201408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoXUglaQAAWiwN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2074496219897077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoXUiLbIAAZx3A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074496219544780800",
+            "7_2074496218122870784",
+            "3_2074496219469201408",
+            "3_2074496219897077760"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074496242412113984",
+        "created_at": "2026-07-07T14:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074496242412113984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/upjceQFTQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+              "media_key": "3_2074496219544780800",
+              "start": 0,
+              "url": "https://t.co/upjceQFTQ3"
+            },
+            {
+              "display_url": "pic.x.com/upjceQFTQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+              "media_key": "7_2074496218122870784",
+              "start": 0,
+              "url": "https://t.co/upjceQFTQ3"
+            },
+            {
+              "display_url": "pic.x.com/upjceQFTQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+              "media_key": "3_2074496219469201408",
+              "start": 0,
+              "url": "https://t.co/upjceQFTQ3"
+            },
+            {
+              "display_url": "pic.x.com/upjceQFTQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2074496242412113984/video/1",
+              "media_key": "3_2074496219897077760",
+              "start": 0,
+              "url": "https://t.co/upjceQFTQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074496242412113984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/upjceQFTQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 651,
+          "like_count": 3835,
+          "listed_count": 7,
+          "media_count": 172,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

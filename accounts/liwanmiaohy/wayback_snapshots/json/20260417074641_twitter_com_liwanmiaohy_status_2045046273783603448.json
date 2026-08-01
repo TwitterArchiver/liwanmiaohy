@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045046271174676480",
+        "3_2045046267513081856",
+        "3_2045046268884602880",
+        "3_2045046270683992064"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045046273783603448",
+    "created_at": "2026-04-17T07:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045046273783603448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WyyW5bk0Xl",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+          "media_key": "3_2045046271174676480",
+          "start": 146,
+          "url": "https://t.co/WyyW5bk0Xl"
+        },
+        {
+          "display_url": "pic.x.com/WyyW5bk0Xl",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+          "media_key": "3_2045046267513081856",
+          "start": 146,
+          "url": "https://t.co/WyyW5bk0Xl"
+        },
+        {
+          "display_url": "pic.x.com/WyyW5bk0Xl",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+          "media_key": "3_2045046268884602880",
+          "start": 146,
+          "url": "https://t.co/WyyW5bk0Xl"
+        },
+        {
+          "display_url": "pic.x.com/WyyW5bk0Xl",
+          "end": 169,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+          "media_key": "3_2045046270683992064",
+          "start": 146,
+          "url": "https://t.co/WyyW5bk0Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045046273783603448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯爱交付型Sub，是在现有BDSM术语中，最接近我关系形态的一个复合标签。🤗\n它的核心特征是权力交换必须以深度情感联结与排他性纯爱为前提。强制、控制、管教，都是爱人向我表达爱、确认占有的方式。我则通过这些仪式，反复确认“我被完整地接住了”。不追求刺激的多样性，我追求的是交付被承接的深度。🥰 https://t.co/WyyW5bk0Xl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2045046271174676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF2v56akAArVdZ.jpg",
+        "width": 952
+      },
+      {
+        "height": 1192,
+        "media_key": "3_2045046267513081856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF2vsRbEAAh2Ik.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045046268884602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF2vxYa0AASycr.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045046270683992064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF2v4FbUAArdC7.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045046271174676480",
+            "3_2045046267513081856",
+            "3_2045046268884602880",
+            "3_2045046270683992064"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045046273783603448",
+        "created_at": "2026-04-17T07:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045046273783603448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyyW5bk0Xl",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+              "media_key": "3_2045046271174676480",
+              "start": 146,
+              "url": "https://t.co/WyyW5bk0Xl"
+            },
+            {
+              "display_url": "pic.x.com/WyyW5bk0Xl",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+              "media_key": "3_2045046267513081856",
+              "start": 146,
+              "url": "https://t.co/WyyW5bk0Xl"
+            },
+            {
+              "display_url": "pic.x.com/WyyW5bk0Xl",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+              "media_key": "3_2045046268884602880",
+              "start": 146,
+              "url": "https://t.co/WyyW5bk0Xl"
+            },
+            {
+              "display_url": "pic.x.com/WyyW5bk0Xl",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2045046273783603448/photo/1",
+              "media_key": "3_2045046270683992064",
+              "start": 146,
+              "url": "https://t.co/WyyW5bk0Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045046273783603448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯爱交付型Sub，是在现有BDSM术语中，最接近我关系形态的一个复合标签。🤗\n它的核心特征是权力交换必须以深度情感联结与排他性纯爱为前提。强制、控制、管教，都是爱人向我表达爱、确认占有的方式。我则通过这些仪式，反复确认“我被完整地接住了”。不追求刺激的多样性，我追求的是交付被承接的深度。🥰 https://t.co/WyyW5bk0Xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜鬓边茉莉为谁妍，月下窗前等君怜。——莉绾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 639,
+          "like_count": 2891,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

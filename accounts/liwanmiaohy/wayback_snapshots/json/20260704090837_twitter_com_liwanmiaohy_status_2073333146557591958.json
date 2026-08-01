@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2073333146557591958",
+    "created_at": "2026-07-04T09:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073333146557591958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/tvxhUuX",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/tvxhUuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073333146557591958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073332947902763334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 关于德国雌二醇贴片搜索不到的解决方案:\n\n可以找以前购买过的店铺询问客服该商品的链接，一般商家都是换了一个不相干的链接\n\n这里提供一家:拼多多搜索店铺“聚德海外专营店”，直接询问客服要德国贴片的链接即可 https://t.co/tvxhUuX…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2073332944887046144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX1VBEbYAAkLHy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1104,
+        "media_key": "3_2073332945256099840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX1VCcasAAU41u.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1028,
+        "media_key": "3_2073332944203292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX1U-haIAATmwa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 872,
+        "media_key": "3_2073332944677257216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX1VASaQAAPkMi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2073333146557591958",
+        "created_at": "2026-07-04T09:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073333146557591958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/tvxhUuX",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/tvxhUuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073333146557591958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073332947902763334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 关于德国雌二醇贴片搜索不到的解决方案:\n\n可以找以前购买过的店铺询问客服该商品的链接，一般商家都是换了一个不相干的链接\n\n这里提供一家:拼多多搜索店铺“聚德海外专营店”，直接询问客服要德国贴片的链接即可 https://t.co/tvxhUuX…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073332944887046144",
+            "3_2073332945256099840",
+            "3_2073332944203292672",
+            "3_2073332944677257216"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2073332947902763334",
+        "created_at": "2026-07-04T09:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073332947902763334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvxhUuXkbx",
+              "end": 125,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2073332947902763334/photo/1",
+              "media_key": "3_2073332944887046144",
+              "start": 102,
+              "url": "https://t.co/tvxhUuXkbx"
+            },
+            {
+              "display_url": "pic.x.com/tvxhUuXkbx",
+              "end": 125,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2073332947902763334/photo/1",
+              "media_key": "3_2073332945256099840",
+              "start": 102,
+              "url": "https://t.co/tvxhUuXkbx"
+            },
+            {
+              "display_url": "pic.x.com/tvxhUuXkbx",
+              "end": 125,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2073332947902763334/photo/1",
+              "media_key": "3_2073332944203292672",
+              "start": 102,
+              "url": "https://t.co/tvxhUuXkbx"
+            },
+            {
+              "display_url": "pic.x.com/tvxhUuXkbx",
+              "end": 125,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2073332947902763334/photo/1",
+              "media_key": "3_2073332944677257216",
+              "start": 102,
+              "url": "https://t.co/tvxhUuXkbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073332947902763334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于德国雌二醇贴片搜索不到的解决方案:\n\n可以找以前购买过的店铺询问客服该商品的链接，一般商家都是换了一个不相干的链接\n\n这里提供一家:拼多多搜索店铺“聚德海外专营店”，直接询问客服要德国贴片的链接即可 https://t.co/tvxhUuXkbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 652,
+          "like_count": 3812,
+          "listed_count": 7,
+          "media_count": 170,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2047604304476029129",
+    "created_at": "2026-04-24T09:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047604304476029129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047604304476029129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047604079162265804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 我们总能在别人幸福的角落，听到一些“清醒”的杂音。\n但请记住:\n不值得的从来不是你们的爱，而是他们永远不敢拥有的、那份不顾一切的心。让他们永远活在对世界的算计与恐惧中去吧！而你们，只管继续去爱，大步流星地走自己的路。那些风言风语，不过是你们穿过…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_2047604075483779072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqNDtfaUAAMUbB.jpg",
+        "width": 948
+      },
+      {
+        "height": 1144,
+        "media_key": "3_2047604073638375424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqNDmnbsAAzKNl.jpg",
+        "width": 944
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2047604076234629120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqNDwSbYAAUAFh.jpg",
+        "width": 948
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2047604076507217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqNDxTawAAYxMj.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2047604304476029129",
+        "created_at": "2026-04-24T09:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047604304476029129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047604304476029129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047604079162265804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 我们总能在别人幸福的角落，听到一些“清醒”的杂音。\n但请记住:\n不值得的从来不是你们的爱，而是他们永远不敢拥有的、那份不顾一切的心。让他们永远活在对世界的算计与恐惧中去吧！而你们，只管继续去爱，大步流星地走自己的路。那些风言风语，不过是你们穿过…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047604075483779072",
+            "3_2047604073638375424",
+            "3_2047604076234629120",
+            "3_2047604076507217920"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2047604079162265804",
+        "created_at": "2026-04-24T09:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047604079162265804"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "MtF"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "与你蕴含"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YE0AFxPHIr",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2047604079162265804/photo/1",
+              "media_key": "3_2047604075483779072",
+              "start": 147,
+              "url": "https://t.co/YE0AFxPHIr"
+            },
+            {
+              "display_url": "pic.x.com/YE0AFxPHIr",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2047604079162265804/photo/1",
+              "media_key": "3_2047604073638375424",
+              "start": 147,
+              "url": "https://t.co/YE0AFxPHIr"
+            },
+            {
+              "display_url": "pic.x.com/YE0AFxPHIr",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2047604079162265804/photo/1",
+              "media_key": "3_2047604076234629120",
+              "start": 147,
+              "url": "https://t.co/YE0AFxPHIr"
+            },
+            {
+              "display_url": "pic.x.com/YE0AFxPHIr",
+              "end": 170,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2047604079162265804/photo/1",
+              "media_key": "3_2047604076507217920",
+              "start": 147,
+              "url": "https://t.co/YE0AFxPHIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047604079162265804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们总能在别人幸福的角落，听到一些“清醒”的杂音。\n但请记住:\n不值得的从来不是你们的爱，而是他们永远不敢拥有的、那份不顾一切的心。让他们永远活在对世界的算计与恐惧中去吧！而你们，只管继续去爱，大步流星地走自己的路。那些风言风语，不过是你们穿过旷野时，被甩在身后的风！\n#MtF  #与你蕴含 https://t.co/YE0AFxPHIr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜全网同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2045197955444175232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 642,
+          "like_count": 3019,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

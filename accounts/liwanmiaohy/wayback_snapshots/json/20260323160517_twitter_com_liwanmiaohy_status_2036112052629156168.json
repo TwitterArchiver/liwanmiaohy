@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2036109551360241795",
+    "created_at": "2026-03-23T16:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T17:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036112052629156168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762636006207913984",
+          "start": 0,
+          "username": "konx9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036112052629156168",
+    "in_reply_to_user_id": "1762636006207913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036111237579419898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konx9527 补不要这样吃，凝胶不可能那么低，你应该是用少，凝胶要每天用5g，补的话你按我方案来，每天晚上固定6点含服两mg，含15分钟，别咽口水，可以空咽，检测的话，第2天中午12:00之前测就行了，10:00~11:00的样子，反正上午测就行，色的话你可以晚上吃，睡觉之前就行，你要是觉得影响不大，6点先吃色也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2036109551360241795",
+        "created_at": "2026-03-23T16:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036112052629156168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762636006207913984",
+              "start": 0,
+              "username": "konx9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036112052629156168",
+        "in_reply_to_user_id": "1762636006207913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036111237579419898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konx9527 补不要这样吃，凝胶不可能那么低，你应该是用少，凝胶要每天用5g，补的话你按我方案来，每天晚上固定6点含服两mg，含15分钟，别咽口水，可以空咽，检测的话，第2天中午12:00之前测就行了，10:00~11:00的样子，反正上午测就行，色的话你可以晚上吃，睡觉之前就行，你要是觉得影响不大，6点先吃色也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "2036109551360241795",
+        "created_at": "2026-03-23T16:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T17:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036111237579419898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036111237579419898",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036110914890735903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 以前用的凝胶，，，看了发现好低。。。\n132pmol/L 就换成国补了，现在每天三次含15分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 576,
+          "like_count": 1423,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 677
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/🏳️‍⚧️ 已出柜mtf     性别认同探索中？泛性恋？         欢迎和我互fo（几乎不发帖子我不一定会fo）❤️🐱🤤🤤🤤  始于2008 she/her 我家小鹭: @LibailuOne 🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "LibailuOne"
+              }
+            ]
+          }
+        },
+        "id": "1762636006207913984",
+        "name": "Kumoka",
+        "pinned_tweet_id": "2034907760522141790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034675751237427200/eXt6q2t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 755,
+          "like_count": 5533,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2983
+        },
+        "username": "konx9527",
+        "verified": false
+      }
+    ]
+  }
+}

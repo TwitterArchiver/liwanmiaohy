@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2078148400181350407",
+    "created_at": "2026-07-18T12:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078462758874743175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889171969251430400",
+          "start": 0,
+          "username": "Amaohe_AMH"
+        },
+        {
+          "end": 27,
+          "id": "2055356059066466304",
+          "start": 12,
+          "username": "TransCircleOrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078462758874743175",
+    "in_reply_to_user_id": "1889171969251430400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078436580679876979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amaohe_AMH @TransCircleOrg 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2078148400181350407",
+        "created_at": "2026-07-18T12:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078462758874743175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889171969251430400",
+              "start": 0,
+              "username": "Amaohe_AMH"
+            },
+            {
+              "end": 27,
+              "id": "2055356059066466304",
+              "start": 12,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078462758874743175",
+        "in_reply_to_user_id": "1889171969251430400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078436580679876979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amaohe_AMH @TransCircleOrg 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889171969251430400",
+        "conversation_id": "2078148400181350407",
+        "created_at": "2026-07-18T11:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078436580679876979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055356059066466304",
+              "start": 0,
+              "username": "TransCircleOrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078436580679876979",
+        "in_reply_to_user_id": "2055356059066466304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078148400181350407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransCircleOrg 药娘去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 650,
+          "like_count": 3850,
+          "listed_count": 7,
+          "media_count": 175,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T04:38:02.000Z",
+        "description": "中二精神疾病到亚空间审判药娘来了",
+        "id": "1889171969251430400",
+        "location": "中国",
+        "name": "土豆薯片🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073924047600254976/IgdD3OrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Amaohe_AMH",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076675773323464704/dWkZjC3w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 35,
+          "like_count": 142,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": true
+      }
+    ]
+  }
+}

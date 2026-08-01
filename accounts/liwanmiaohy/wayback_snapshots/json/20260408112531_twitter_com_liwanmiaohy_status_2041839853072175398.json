@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041839853072175398",
+    "created_at": "2026-04-08T11:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041839853072175398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041839853072175398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "HRT以来，经常感到内心非常宁静，能更清楚的感知未经睾酮过滤后的情绪，不会再有莫名的性欲，而是期待爱的人开启\n但这份变化对我来说是新生也是归还，新生来自过往的男性躯体涵涵，归还则是这本该是我应有的\n你本就是她，去遵循本心吧，她不会催促你🤗。愿大家不被焦虑裹挟，不成为“尺子”丈量下的“她”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041839853072175398",
+        "created_at": "2026-04-08T11:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041839853072175398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041839853072175398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT以来，经常感到内心非常宁静，能更清楚的感知未经睾酮过滤后的情绪，不会再有莫名的性欲，而是期待爱的人开启\n但这份变化对我来说是新生也是归还，新生来自过往的男性躯体涵涵，归还则是这本该是我应有的\n你本就是她，去遵循本心吧，她不会催促你🤗。愿大家不被焦虑裹挟，不成为“尺子”丈量下的“她”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 594,
+          "like_count": 1981,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

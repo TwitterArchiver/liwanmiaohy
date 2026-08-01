@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041839853072175398",
+    "created_at": "2026-04-08T16:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041922360362831906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512862133603684355",
+          "start": 0,
+          "username": "hoshinomajo"
+        },
+        {
+          "end": 25,
+          "id": "1797120101419999232",
+          "start": 13,
+          "username": "YMKxxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041922360362831906",
+    "in_reply_to_user_id": "1512862133603684355",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041912499478655479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinomajo @YMKxxxxxxxx 🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041839853072175398",
+        "created_at": "2026-04-08T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041922360362831906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512862133603684355",
+              "start": 0,
+              "username": "hoshinomajo"
+            },
+            {
+              "end": 25,
+              "id": "1797120101419999232",
+              "start": 13,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041922360362831906",
+        "in_reply_to_user_id": "1512862133603684355",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041912499478655479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinomajo @YMKxxxxxxxx 🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512862133603684355",
+        "conversation_id": "2041839853072175398",
+        "created_at": "2026-04-08T16:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041912499478655479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 25,
+              "id": "1705499676953497600",
+              "start": 13,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041912499478655479",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041843192950354413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx @liwanmiaohy 性欲是最讨人厌的，也是最让自己没法好好做自己的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 592,
+          "like_count": 2037,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T18:37:32.000Z",
+        "description": "非二元  ENTP-A | 哲学 科幻 | Rimworld VRChat MC | FPS大战场 | FF14 | 星际2 帝国4 雀魂 文明6 全战 | 舟原BA | 曾历史、社会学中意，现数学 天文 动植物科普",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hoshinomajo",
+                "end": 23,
+                "expanded_url": "https://t.me/hoshinomajo",
+                "start": 0,
+                "url": "https://t.co/N0CeJPVs9g"
+              }
+            ]
+          }
+        },
+        "id": "1512862133603684355",
+        "location": "社恐E互助",
+        "name": "HYDLINA🏳️‍⚧️",
+        "pinned_tweet_id": "1946136227570208772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971048811007979520/fx7z6ric_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 393,
+          "like_count": 2556,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/N0CeJPVs9g",
+        "username": "hoshinomajo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 586,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

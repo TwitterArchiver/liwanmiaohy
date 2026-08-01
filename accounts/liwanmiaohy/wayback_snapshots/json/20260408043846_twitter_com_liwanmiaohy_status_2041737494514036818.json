@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041489768358551707",
+    "created_at": "2026-04-08T04:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041737494514036818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1579309600691871745",
+          "start": 0,
+          "username": "runYww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041737494514036818",
+    "in_reply_to_user_id": "1579309600691871745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041656424900784625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@runYww 对，所以我文章中也强调了，要以血检结果为基准来调整🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041489768358551707",
+        "created_at": "2026-04-08T04:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041737494514036818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1579309600691871745",
+              "start": 0,
+              "username": "runYww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041737494514036818",
+        "in_reply_to_user_id": "1579309600691871745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041656424900784625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@runYww 对，所以我文章中也强调了，要以血检结果为基准来调整🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1579309600691871745",
+        "conversation_id": "2041489768358551707",
+        "created_at": "2026-04-07T23:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041656424900784625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041656424900784625",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041489768358551707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 是嘟，总得去检测一下的。 我也自以为雌激够了，结果检查才发现雌激很低。所以还是不要靠别人的经验或者自己的经验去操作  个体差异还是有区别的 可能别人就吸收好 你不够药效 或者反过来 所以还是拿激素六项甩出来 这个才是最好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 592,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T03:15:37.000Z",
+        "description": "🦊❤️",
+        "id": "1579309600691871745",
+        "name": "大笨蛋狐狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964984940401221632/-oQMq3f7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 117
+        },
+        "username": "runYww",
+        "verified": false
+      }
+    ]
+  }
+}

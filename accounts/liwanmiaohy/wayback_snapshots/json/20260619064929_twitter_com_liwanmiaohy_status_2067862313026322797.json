@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2067235207787544836",
+    "created_at": "2026-06-19T06:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067862313026322797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754180460769574912",
+          "start": 0,
+          "username": "marcus_0w0"
+        },
+        {
+          "end": 28,
+          "id": "2030261557087854592",
+          "start": 12,
+          "username": "Xianyufanfan215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067862313026322797",
+    "in_reply_to_user_id": "1754180460769574912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067847117335601461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marcus_0w0 @Xianyufanfan215 你这太高了！改成早2晚2，中间隔12小时，这样调整一个月，然后赶紧去血检"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2067235207787544836",
+        "created_at": "2026-06-19T06:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067862313026322797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754180460769574912",
+              "start": 0,
+              "username": "marcus_0w0"
+            },
+            {
+              "end": 28,
+              "id": "2030261557087854592",
+              "start": 12,
+              "username": "Xianyufanfan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067862313026322797",
+        "in_reply_to_user_id": "1754180460769574912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067847117335601461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marcus_0w0 @Xianyufanfan215 你这太高了！改成早2晚2，中间隔12小时，这样调整一个月，然后赶紧去血检"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754180460769574912",
+        "conversation_id": "2067235207787544836",
+        "created_at": "2026-06-19T05:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067847117335601461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            },
+            {
+              "end": 29,
+              "id": "2030261557087854592",
+              "start": 13,
+              "username": "Xianyufanfan215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067847117335601461",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067844718135013836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy @Xianyufanfan215 嗯…其實我不確定，因為我目前是每天含服雌二醇8mg（早4晚4）+吞服抗雄12.5mg（睡前）因為是背著家裡，所以一直沒測六，但每天都會用特定藥物演算網站做記錄，自從第三天之後是一直顯示e2高出正常值的，所以，其實我也不是很確定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 650,
+          "like_count": 3806,
+          "listed_count": 7,
+          "media_count": 164,
+          "tweet_count": 2197
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T16:30:06.000Z",
+        "description": "不曝照！\n有事直接私，我懶得一條條翻通知喵",
+        "id": "1754180460769574912",
+        "name": "灰色小蛋糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060594174379118592/mKNAMsOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 452,
+          "like_count": 2438,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "marcus_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T12:38:04.000Z",
+        "description": "甜腻的梦像纱裙般缠绕舌尖，如果许愿足够虔诚，月光会不会把我变成童话里转着裙摆的女孩  恋人@liwanmiaohy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "liwanmiaohy"
+              }
+            ]
+          }
+        },
+        "id": "2030261557087854592",
+        "name": "Xianyufanfan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031191943724814336/jCOh5CcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 33,
+          "like_count": 20,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "Xianyufanfan215",
+        "verified": false
+      }
+    ]
+  }
+}

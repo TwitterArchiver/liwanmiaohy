@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2058995977848344873",
+    "created_at": "2026-05-25T19:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058995977848344873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058995977848344873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058995917454467284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 【告示】七月中旬将发布新文章，待七月上旬针剂单药血检结果出炉。\n内容整合国际指南、PK 数据、大陆药源与价格、减害原则及社群反馈，覆盖针剂／透皮／口服／抗雄全方案——剂量、间隔、监测、副作用管理、体质调整与女性化建议，每条结论均有文献支撑。力求…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2058995914631741440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMF4BWbAAAikC5.jpg",
+        "width": 952
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2058995912387764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMF34_aoAAi1DT.jpg",
+        "width": 952
+      },
+      {
+        "height": 1188,
+        "media_key": "3_2058995914384293888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMF4AbbQAAlnl4.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2058995977848344873",
+        "created_at": "2026-05-25T19:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058995977848344873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058995977848344873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058995917454467284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 【告示】七月中旬将发布新文章，待七月上旬针剂单药血检结果出炉。\n内容整合国际指南、PK 数据、大陆药源与价格、减害原则及社群反馈，覆盖针剂／透皮／口服／抗雄全方案——剂量、间隔、监测、副作用管理、体质调整与女性化建议，每条结论均有文献支撑。力求…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058995914631741440",
+            "3_2058995912387764224",
+            "3_2058995914384293888"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2058995917454467284",
+        "created_at": "2026-05-25T19:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058995917454467284"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRai3PpxNv",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2058995917454467284/photo/1",
+              "media_key": "3_2058995914631741440",
+              "start": 146,
+              "url": "https://t.co/DRai3PpxNv"
+            },
+            {
+              "display_url": "pic.x.com/DRai3PpxNv",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2058995917454467284/photo/1",
+              "media_key": "3_2058995912387764224",
+              "start": 146,
+              "url": "https://t.co/DRai3PpxNv"
+            },
+            {
+              "display_url": "pic.x.com/DRai3PpxNv",
+              "end": 169,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2058995917454467284/photo/1",
+              "media_key": "3_2058995914384293888",
+              "start": 146,
+              "url": "https://t.co/DRai3PpxNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058995917454467284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【告示】七月中旬将发布新文章，待七月上旬针剂单药血检结果出炉。\n内容整合国际指南、PK 数据、大陆药源与价格、减害原则及社群反馈，覆盖针剂／透皮／口服／抗雄全方案——剂量、间隔、监测、副作用管理、体质调整与女性化建议，每条结论均有文献支撑。力求在中国大陆的现实约束下做到尽可能严谨\n#MtF https://t.co/DRai3PpxNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 661,
+          "like_count": 3475,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

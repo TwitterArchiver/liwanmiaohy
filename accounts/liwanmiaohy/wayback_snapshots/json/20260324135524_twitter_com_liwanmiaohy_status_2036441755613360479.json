@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2036085274619572556",
+    "created_at": "2026-03-24T13:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036441755613360479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875828440760553472",
+          "start": 0,
+          "username": "BacklightTown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036441755613360479",
+    "in_reply_to_user_id": "1875828440760553472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036085274619572556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BacklightTown 加油惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2036085267019526144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGgw0Ea8AAikXY.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2036085274619572556",
+        "created_at": "2026-03-24T13:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036441755613360479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875828440760553472",
+              "start": 0,
+              "username": "BacklightTown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036441755613360479",
+        "in_reply_to_user_id": "1875828440760553472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036085274619572556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BacklightTown 加油惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036085267019526144"
+          ]
+        },
+        "author_id": "1875828440760553472",
+        "conversation_id": "2036085274619572556",
+        "created_at": "2026-03-23T14:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036085274619572556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "分享"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Scan this QR code on the mobile version of LINE to add this",
+              "display_url": "lin.ee/QH3Gf2a",
+              "end": 154,
+              "expanded_url": "https://lin.ee/QH3Gf2a",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2036085318261362688/x4pNRm-Z?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036085318261362688/x4pNRm-Z?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "Add LINE friend",
+              "unwound_url": "https://line.me/R/ti/p/@914qhsom?oat_content=url&ts=03222242",
+              "url": "https://t.co/lYvsiJuvUa"
+            },
+            {
+              "display_url": "pic.x.com/LNGAvOKBNi",
+              "end": 178,
+              "expanded_url": "https://x.com/BacklightTown/status/2036085274619572556/photo/1",
+              "media_key": "3_2036085267019526144",
+              "start": 155,
+              "url": "https://t.co/LNGAvOKBNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036085274619572556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1270,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#分享\n\n【參與資格】\n1)居住在台灣\n2)自我認同為跨性別或非二元性別者\n3)年齡在18-30歲間\n4)曾歷經網路性別暴力（詳見研究摘要）\n\n【參與方式】\n線上或線下訪談\n\n【 參與回饋】\n新台幣1200��【報名參加】\n加入line帳號，團隊會與您盡快接洽�https://t.co/lYvsiJuvUa https://t.co/LNGAvOKBNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️/🍰2006.3.16/🍥hrt2026.3.7/同类互fo喵/INFJ/调皮sub/湖北孝感/温柔坚韧/希望我能帮助到你🥰/👇可以找我匿名提问喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2034331146650341452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 580,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T08:55:51.000Z",
+        "description": "逆光小镇于2016年11月在Telegram上成立，是华语圈规模最大的跨性别交流社群。\n \n我们的社群多元包容，成员包括现居多个国家的跨性别者及酷儿、盟友(Ally)等。无论何时你都可以在群组里探索认同，交流观点，和取得陪伴。\n \n欢迎点击下方连结填写入群申请单：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/jagHaEqpWWzwQZ…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/jagHaEqpWWzwQZHk7",
+                "start": 0,
+                "url": "https://t.co/MkTdOT4K7R"
+              }
+            ]
+          }
+        },
+        "id": "1875828440760553472",
+        "name": "Backlight Town 逆光小镇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875828663264178176/gM3wxwML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 91,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/MkTdOT4K7R",
+        "username": "BacklightTown",
+        "verified": false
+      }
+    ]
+  }
+}

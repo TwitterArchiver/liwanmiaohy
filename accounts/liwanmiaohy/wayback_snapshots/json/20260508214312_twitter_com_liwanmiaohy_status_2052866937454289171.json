@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2052866937454289171",
+    "created_at": "2026-05-08T21:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T22:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052866937454289171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052866937454289171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052866659392897438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 确认之后：为什么我们仍在现实面前停滞\n\n确认之后，为什么面对HRT仍有犹豫？这篇文章不做空泛分析，而是系统拆解个体、家庭、社群、医疗与现实阻碍之间的结构性困境，并提供可操作的具体建议。为那些在确认与行动之间徘徊的人，提供一份严肃的参照框架。\n#…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2052866654913372160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0_WJlbIAAKp9Y.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2052866656377180160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0_WPCbEAAYQqu.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2052866656171708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0_WORb0AASG_N.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2052866656343674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0_WO6b0AA15mR.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2052866937454289171",
+        "created_at": "2026-05-08T21:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052866937454289171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052866937454289171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052866659392897438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 确认之后：为什么我们仍在现实面前停滞\n\n确认之后，为什么面对HRT仍有犹豫？这篇文章不做空泛分析，而是系统拆解个体、家庭、社群、医疗与现实阻碍之间的结构性困境，并提供可操作的具体建议。为那些在确认与行动之间徘徊的人，提供一份严肃的参照框架。\n#…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052866654913372160",
+            "3_2052866656377180160",
+            "3_2052866656171708416",
+            "3_2052866656343674880"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2052866659392897438",
+        "created_at": "2026-05-08T21:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052866659392897438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "MtF"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "HRT"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "性别认同"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "羽莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gx0mvySnOh",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2052866659392897438/photo/1",
+              "media_key": "3_2052866654913372160",
+              "start": 141,
+              "url": "https://t.co/Gx0mvySnOh"
+            },
+            {
+              "display_url": "pic.x.com/Gx0mvySnOh",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2052866659392897438/photo/1",
+              "media_key": "3_2052866656377180160",
+              "start": 141,
+              "url": "https://t.co/Gx0mvySnOh"
+            },
+            {
+              "display_url": "pic.x.com/Gx0mvySnOh",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2052866659392897438/photo/1",
+              "media_key": "3_2052866656171708416",
+              "start": 141,
+              "url": "https://t.co/Gx0mvySnOh"
+            },
+            {
+              "display_url": "pic.x.com/Gx0mvySnOh",
+              "end": 164,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2052866659392897438/photo/1",
+              "media_key": "3_2052866656343674880",
+              "start": 141,
+              "url": "https://t.co/Gx0mvySnOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052866659392897438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "确认之后：为什么我们仍在现实面前停滞\n\n确认之后，为什么面对HRT仍有犹豫？这篇文章不做空泛分析，而是系统拆解个体、家庭、社群、医疗与现实阻碍之间的结构性困境，并提供可操作的具体建议。为那些在确认与行动之间徘徊的人，提供一份严肃的参照框架。\n#MtF #HRT #性别认同 #羽莉 https://t.co/Gx0mvySnOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 663,
+          "like_count": 3365,
+          "listed_count": 6,
+          "media_count": 138,
+          "tweet_count": 1905
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

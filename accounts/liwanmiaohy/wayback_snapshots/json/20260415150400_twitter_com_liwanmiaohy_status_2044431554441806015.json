@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044431554441806015",
+    "created_at": "2026-04-15T15:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044431554441806015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044431554441806015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个求助贴:\n呃呃呃，我也不知道怎么说，你们就当是一个小笨蛋在说话叭\n就是，有会控郊狼的嘛，温柔但是态度强硬一点点的？我非常容易害羞，朋友说我老是容易多想，说我就是欠电，我也这么觉得，我太拧巴了，对自己有些严苛，加上我情感能力太丰富了，就确实会这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044431554441806015",
+        "created_at": "2026-04-15T15:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044431554441806015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044431554441806015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个求助贴:\n呃呃呃，我也不知道怎么说，你们就当是一个小笨蛋在说话叭\n就是，有会控郊狼的嘛，温柔但是态度强硬一点点的？我非常容易害羞，朋友说我老是容易多想，说我就是欠电，我也这么觉得，我太拧巴了，对自己有些严苛，加上我情感能力太丰富了，就确实会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2044410242180821248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 629,
+          "like_count": 2682,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

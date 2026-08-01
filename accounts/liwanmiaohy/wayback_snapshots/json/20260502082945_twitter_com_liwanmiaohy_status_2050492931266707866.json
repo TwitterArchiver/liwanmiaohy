@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2050239346595504424",
+    "created_at": "2026-05-02T08:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050492931266707866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754502413728280576",
+          "start": 0,
+          "username": "Erii_Wilson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050492931266707866",
+    "in_reply_to_user_id": "1754502413728280576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050482172986105943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erii_Wilson 这我不太清楚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2050482161908846592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTGqY7aEAAalRR.jpg",
+        "width": 492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2050239346595504424",
+        "created_at": "2026-05-02T08:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050492931266707866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754502413728280576",
+              "start": 0,
+              "username": "Erii_Wilson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050492931266707866",
+        "in_reply_to_user_id": "1754502413728280576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050482172986105943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erii_Wilson 这我不太清楚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050482161908846592"
+          ]
+        },
+        "author_id": "1754502413728280576",
+        "conversation_id": "2050239346595504424",
+        "created_at": "2026-05-02T07:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050482172986105943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkzFISf6wF",
+              "end": 114,
+              "expanded_url": "https://x.com/Erii_Wilson/status/2050482172986105943/photo/1",
+              "media_key": "3_2050482161908846592",
+              "start": 91,
+              "url": "https://t.co/rkzFISf6wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050482172986105943",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050239346595504424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 这算是“诊断”吗，这应该算是最进步的证明了，而且并非精神科开的\n至少在医疗过程中要清楚性别（sex/gender），不然性别标准之间的药量差距谁来给我补啊 https://t.co/rkzFISf6wF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎咨询问题｜温柔｜纯爱🥰｜希望言语能给你带来些许温暖｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2047737254391787748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 652,
+          "like_count": 3212,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:49:20.000Z",
+        "description": "Erii/梨梨：♀ADHD⚠️ ｜努力变健全｜可提供动物医疗/精神&全科等问答科普: 文字&语音 (提问内容不限) 私信即可｜照片在亮点(已过期) / Instagram⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/erii_w_?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/erii_w_?igsh=dzE2bzhzamt1emQ0&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/IuWnXY0yOh"
+              }
+            ]
+          }
+        },
+        "id": "1754502413728280576",
+        "location": "Equality On-Sea",
+        "name": "超绝可爱Erii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754502545244872704/x61GZNd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 113,
+          "like_count": 1507,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 1907
+        },
+        "url": "https://t.co/IuWnXY0yOh",
+        "username": "Erii_Wilson",
+        "verified": false
+      }
+    ]
+  }
+}

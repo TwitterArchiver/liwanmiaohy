@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042244392485064763",
+    "created_at": "2026-04-09T15:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042260999273902427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042260999273902427",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042244392485064763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@mxyzcdb 臭机器人！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042244362118344704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCbVSbsAASqqR.jpg",
+        "width": 712
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2042244362072141824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCbVHasAAxGtJ.jpg",
+        "width": 716
+      },
+      {
+        "height": 602,
+        "media_key": "3_2042244362076401664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCbVIbsAAL0lY.jpg",
+        "width": 750
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2042244362223091713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeCbVraAAEB65A.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042244392485064763",
+        "created_at": "2026-04-09T15:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042260999273902427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042260999273902427",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042244392485064763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@mxyzcdb 臭机器人！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042244362118344704",
+            "3_2042244362072141824",
+            "3_2042244362076401664",
+            "3_2042244362223091713"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2042244392485064763",
+        "created_at": "2026-04-09T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042244392485064763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEPrhg4BIE",
+              "end": 76,
+              "expanded_url": "https://x.com/mxyzcdb/status/2042244392485064763/photo/1",
+              "media_key": "3_2042244362118344704",
+              "start": 53,
+              "url": "https://t.co/NEPrhg4BIE"
+            },
+            {
+              "display_url": "pic.x.com/NEPrhg4BIE",
+              "end": 76,
+              "expanded_url": "https://x.com/mxyzcdb/status/2042244392485064763/photo/1",
+              "media_key": "3_2042244362072141824",
+              "start": 53,
+              "url": "https://t.co/NEPrhg4BIE"
+            },
+            {
+              "display_url": "pic.x.com/NEPrhg4BIE",
+              "end": 76,
+              "expanded_url": "https://x.com/mxyzcdb/status/2042244392485064763/photo/1",
+              "media_key": "3_2042244362076401664",
+              "start": 53,
+              "url": "https://t.co/NEPrhg4BIE"
+            },
+            {
+              "display_url": "pic.x.com/NEPrhg4BIE",
+              "end": 76,
+              "expanded_url": "https://x.com/mxyzcdb/status/2042244392485064763/photo/1",
+              "media_key": "3_2042244362223091713",
+              "start": 53,
+              "url": "https://t.co/NEPrhg4BIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042244392485064763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "啥时候这些机器人才能全被干掉而不是ghost ban一堆正常回复导致我回复别人还得去翻别人的reply… https://t.co/NEPrhg4BIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 595,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1168
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高一物化生在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜私信互fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜团队 @TeamTransmtf ｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "TeamTransmtf"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 302,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1351
+        },
+        "username": "mxyzcdb",
+        "verified": true
+      }
+    ]
+  }
+}

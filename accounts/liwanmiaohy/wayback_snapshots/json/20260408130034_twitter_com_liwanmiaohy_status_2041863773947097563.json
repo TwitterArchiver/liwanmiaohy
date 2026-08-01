@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2041863773947097563",
+    "created_at": "2026-04-08T13:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041863773947097563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MOOSER_BDSM/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/MOOSER_BDSM/status/2039369653743657414",
+          "start": 24,
+          "url": "https://t.co/z3R79S1RvR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041863773947097563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039369653743657414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看着确实好涩，爱人在身边的话感觉会很有安全感🥰 https://t.co/z3R79S1RvR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2039369367318851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1LonDacAAr6M0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039369367146921986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1LomabAAI7Gts.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2039369366970814465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Lolwb0AEPZvf.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 50748,
+        "height": 720,
+        "media_key": "7_2039369391377371136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039369391377371136/pu/img/aWuNNZIp3SU5_soj.jpg",
+        "public_metrics": {
+          "view_count": 31231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039369391377371136/pu/vid/avc1/480x270/Vy-ROk5WQA0fIfTH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039369391377371136/pu/vid/avc1/640x360/xV2cn7VzgDXl9aZc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039369391377371136/pu/vid/avc1/1280x720/sgNVYluTYs-VwIKl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039369391377371136/pu/pl/jsjASV_5VM2WyvbU.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041863773947097563",
+        "created_at": "2026-04-08T13:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041863773947097563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MOOSER_BDSM/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/MOOSER_BDSM/status/2039369653743657414",
+              "start": 24,
+              "url": "https://t.co/z3R79S1RvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041863773947097563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039369653743657414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着确实好涩，爱人在身边的话感觉会很有安全感🥰 https://t.co/z3R79S1RvR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039369367318851584",
+            "3_2039369367146921986",
+            "3_2039369366970814465",
+            "7_2039369391377371136"
+          ]
+        },
+        "author_id": "881013285419532288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039369653743657414",
+        "created_at": "2026-04-01T15:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039369653743657414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "BDSM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5OStEzISl",
+              "end": 52,
+              "expanded_url": "https://x.com/MOOSER_BDSM/status/2039369653743657414/video/1",
+              "media_key": "3_2039369367318851584",
+              "start": 29,
+              "url": "https://t.co/y5OStEzISl"
+            },
+            {
+              "display_url": "pic.x.com/y5OStEzISl",
+              "end": 52,
+              "expanded_url": "https://x.com/MOOSER_BDSM/status/2039369653743657414/video/1",
+              "media_key": "3_2039369367146921986",
+              "start": 29,
+              "url": "https://t.co/y5OStEzISl"
+            },
+            {
+              "display_url": "pic.x.com/y5OStEzISl",
+              "end": 52,
+              "expanded_url": "https://x.com/MOOSER_BDSM/status/2039369653743657414/video/1",
+              "media_key": "3_2039369366970814465",
+              "start": 29,
+              "url": "https://t.co/y5OStEzISl"
+            },
+            {
+              "display_url": "pic.x.com/y5OStEzISl",
+              "end": 52,
+              "expanded_url": "https://x.com/MOOSER_BDSM/status/2039369653743657414/video/1",
+              "media_key": "7_2039369391377371136",
+              "start": 29,
+              "url": "https://t.co/y5OStEzISl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039369653743657414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 103857,
+          "like_count": 961,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "reply_settings": "following",
+        "text": "#BDSM 地狱猫多用途组合\n拘束惩罚凳+医疗束缚椅组合 https://t.co/y5OStEzISl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 593,
+          "like_count": 2016,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T04:55:10.000Z",
+        "description": "BDSM爱好者，业余玩家，专业道具师。本账号为MOOSER BDSM工作室及制造工厂官方X平台唯一展示咨询账号，官方唯一客服微信号：MOOSER_BDSM；\n\n【严正声明】：MOOSER BDSM工作室创办于中国沈阳，其它地区从未授权任何代理分销商，更无其它合伙人，国内各平台均无授权店铺，如遇假冒，均为欺诈。",
+        "id": "881013285419532288",
+        "location": "Liaoning",
+        "name": "Mooser",
+        "pinned_tweet_id": "1700197457970475055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1074347328616591360/ycoeJ-An_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31986,
+          "following_count": 1067,
+          "like_count": 284,
+          "listed_count": 70,
+          "media_count": 835,
+          "tweet_count": 1004
+        },
+        "username": "MOOSER_BDSM",
+        "verified": false
+      }
+    ]
+  }
+}

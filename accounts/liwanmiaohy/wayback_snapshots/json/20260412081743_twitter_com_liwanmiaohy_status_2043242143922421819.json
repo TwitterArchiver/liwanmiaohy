@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043242138872483840",
+        "3_2043242140638330880",
+        "3_2043242140717965312"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043242143922421819",
+    "created_at": "2026-04-12T08:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043242143922421819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/06MVtTJnh1",
+          "end": 151,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+          "media_key": "3_2043242138872483840",
+          "start": 128,
+          "url": "https://t.co/06MVtTJnh1"
+        },
+        {
+          "display_url": "pic.x.com/06MVtTJnh1",
+          "end": 151,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+          "media_key": "3_2043242140638330880",
+          "start": 128,
+          "url": "https://t.co/06MVtTJnh1"
+        },
+        {
+          "display_url": "pic.x.com/06MVtTJnh1",
+          "end": 151,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+          "media_key": "3_2043242140717965312",
+          "start": 128,
+          "url": "https://t.co/06MVtTJnh1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043242143922421819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性别过渡中的内在整合：一份基于个人经历的参照框架:\n如果你曾觉得自己坏了、错了，甚至说不清自己是谁，也许你不是没有答案，只是还没找到语言\n 这是一份基于亲身经历整理出的性别过渡内在整合框架，想把混乱、自恨和撕裂慢慢说清\n它不是标准答案，只是一条被走过的路 https://t.co/06MVtTJnh1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2043242138872483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsN5lWakAA6Wp7.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043242140638330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsN5r7bQAAwpq-.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2043242140717965312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsN5sOaYAAIkPW.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043242138872483840",
+            "3_2043242140638330880",
+            "3_2043242140717965312"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043242143922421819",
+        "created_at": "2026-04-12T08:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043242143922421819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/06MVtTJnh1",
+              "end": 151,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+              "media_key": "3_2043242138872483840",
+              "start": 128,
+              "url": "https://t.co/06MVtTJnh1"
+            },
+            {
+              "display_url": "pic.x.com/06MVtTJnh1",
+              "end": 151,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+              "media_key": "3_2043242140638330880",
+              "start": 128,
+              "url": "https://t.co/06MVtTJnh1"
+            },
+            {
+              "display_url": "pic.x.com/06MVtTJnh1",
+              "end": 151,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2043242143922421819/photo/1",
+              "media_key": "3_2043242140717965312",
+              "start": 128,
+              "url": "https://t.co/06MVtTJnh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043242143922421819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别过渡中的内在整合：一份基于个人经历的参照框架:\n如果你曾觉得自己坏了、错了，甚至说不清自己是谁，也许你不是没有答案，只是还没找到语言\n 这是一份基于亲身经历整理出的性别过渡内在整合框架，想把混乱、自恨和撕裂慢慢说清\n它不是标准答案，只是一条被走过的路 https://t.co/06MVtTJnh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 602,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

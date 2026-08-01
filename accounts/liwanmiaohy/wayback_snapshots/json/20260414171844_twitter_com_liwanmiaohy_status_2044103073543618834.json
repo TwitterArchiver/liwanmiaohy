@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2044103073543618834",
+    "created_at": "2026-04-14T17:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044103073543618834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cishenfeiwoyou…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/cishenfeiwoyou/status/2043718103260152126",
+          "start": 142,
+          "url": "https://t.co/yTAwdirMgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044103073543618834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043718103260152126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的文章虽然不能直接治疗性别焦虑的核心生理成分，但可以通过提供认知框架、边界系统、操作化参照和共同体验，精确缓解因错误认知、内在冲突和孤立感所产生的次生痛苦。它不是替代治疗，是治疗的心理补充，希望它对你有帮助🤗，这并非绝症，不要被焦虑的言论所裹挟，所谓pass不是定义你的唯一标准🤗 https://t.co/yTAwdirMgN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2044103073543618834",
+        "created_at": "2026-04-14T17:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044103073543618834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cishenfeiwoyou…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/cishenfeiwoyou/status/2043718103260152126",
+              "start": 142,
+              "url": "https://t.co/yTAwdirMgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044103073543618834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043718103260152126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的文章虽然不能直接治疗性别焦虑的核心生理成分，但可以通过提供认知框架、边界系统、操作化参照和共同体验，精确缓解因错误认知、内在冲突和孤立感所产生的次生痛苦。它不是替代治疗，是治疗的心理补充，希望它对你有帮助🤗，这并非绝症，不要被焦虑的言论所裹挟，所谓pass不是定义你的唯一标准🤗 https://t.co/yTAwdirMgN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "2043718103260152126",
+        "created_at": "2026-04-13T15:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718103260152126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043718103260152126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4055,
+          "like_count": 66,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如何缓解性别焦虑啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 625,
+          "like_count": 2632,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1432
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ✘直男勿扰Ⅰ☯东方厨Ⅰ爱听摇滚\n\n妹妹@fufumiaoQxQ_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "fufumiaoQxQ_"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 733,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 295
+        },
+        "username": "cishenfeiwoyou",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2061490602731307391",
+    "created_at": "2026-06-02T10:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061753075216547978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "850937205040087040",
+          "start": 0,
+          "username": "HarukawaSayaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061753075216547978",
+    "in_reply_to_user_id": "850937205040087040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061742517973045705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukawaSayaka 就是在达到同等剂量e2水平下，这三者在血栓风险上没有区别，是这个意思。\n而且我这说的针剂还是符合半衰期的用法，用日雌举例，比较安全的用法应该是每5天5mg，而不是社群中常见的每7天10mg，主要是因为它是安瓿瓶，不能进行分装。国外能够买到的ec就是西林瓶了，就不用像日雌这样无法控制剂量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2061490602731307391",
+        "created_at": "2026-06-02T10:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061753075216547978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "850937205040087040",
+              "start": 0,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061753075216547978",
+        "in_reply_to_user_id": "850937205040087040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061742517973045705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukawaSayaka 就是在达到同等剂量e2水平下，这三者在血栓风险上没有区别，是这个意思。\n而且我这说的针剂还是符合半衰期的用法，用日雌举例，比较安全的用法应该是每5天5mg，而不是社群中常见的每7天10mg，主要是因为它是安瓿瓶，不能进行分装。国外能够买到的ec就是西林瓶了，就不用像日雌这样无法控制剂量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850937205040087040",
+        "conversation_id": "2061490602731307391",
+        "created_at": "2026-06-02T09:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061742517973045705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061742517973045705",
+        "in_reply_to_user_id": "850937205040087040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061741891826413664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 前几年我研究这些的时候关于血栓风险的说法基本只听过 和 E1/E2 水平相关的说法，以及口服肝首过之类的\n而凝胶/贴片/注射都没有肝首过所以在这方面应该相似才对啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INTP (Fi发达，Fe定向)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 655,
+          "like_count": 3669,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21777,
+          "following_count": 11633,
+          "like_count": 49983,
+          "listed_count": 52,
+          "media_count": 2072,
+          "tweet_count": 13709
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      }
+    ]
+  }
+}

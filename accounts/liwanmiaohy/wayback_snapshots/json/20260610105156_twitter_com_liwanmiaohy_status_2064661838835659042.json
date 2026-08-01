@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064661836075814912",
+        "3_2064661834456805376"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064661838835659042",
+    "created_at": "2026-06-10T10:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064661838835659042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iJjnNqmMOi",
+          "end": 32,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2064661838835659042/photo/1",
+          "media_key": "3_2064661836075814912",
+          "start": 9,
+          "url": "https://t.co/iJjnNqmMOi"
+        },
+        {
+          "display_url": "pic.x.com/iJjnNqmMOi",
+          "end": 32,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2064661838835659042/photo/1",
+          "media_key": "3_2064661834456805376",
+          "start": 9,
+          "url": "https://t.co/iJjnNqmMOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064661838835659042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来自爱人的投喂🥰 https://t.co/iJjnNqmMOi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064661836075814912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcnADia0AAT7JH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064661834456805376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcm_9gasAAa2_e.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064661836075814912",
+            "3_2064661834456805376"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064661838835659042",
+        "created_at": "2026-06-10T10:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064661838835659042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJjnNqmMOi",
+              "end": 32,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2064661838835659042/photo/1",
+              "media_key": "3_2064661836075814912",
+              "start": 9,
+              "url": "https://t.co/iJjnNqmMOi"
+            },
+            {
+              "display_url": "pic.x.com/iJjnNqmMOi",
+              "end": 32,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2064661838835659042/photo/1",
+              "media_key": "3_2064661834456805376",
+              "start": 9,
+              "url": "https://t.co/iJjnNqmMOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064661838835659042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自爱人的投喂🥰 https://t.co/iJjnNqmMOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 655,
+          "like_count": 3744,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

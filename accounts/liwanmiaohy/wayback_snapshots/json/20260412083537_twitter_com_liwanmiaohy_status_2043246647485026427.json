@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043246647485026427",
+    "created_at": "2026-04-12T08:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043246647485026427"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043246647485026427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现我的气质底色更接近“交付型”——我更自然地以“接纳”而非“征服”的方式与人联结。也正因为如此，这种底色在我身上会同步落到四个层面：性别认同上，我确认自己是女性；关系模式上，我更偏向 Sub；身体偏好上，我喜欢被强制与控制的张力；情感需求上，我只接受纯爱——单一对象、深度联结、彼此心疼。😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043246647485026427",
+        "created_at": "2026-04-12T08:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043246647485026427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043246647485026427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我的气质底色更接近“交付型”——我更自然地以“接纳”而非“征服”的方式与人联结。也正因为如此，这种底色在我身上会同步落到四个层面：性别认同上，我确认自己是女性；关系模式上，我更偏向 Sub；身体偏好上，我喜欢被强制与控制的张力；情感需求上，我只接受纯爱——单一对象、深度联结、彼此心疼。😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 602,
+          "like_count": 2384,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

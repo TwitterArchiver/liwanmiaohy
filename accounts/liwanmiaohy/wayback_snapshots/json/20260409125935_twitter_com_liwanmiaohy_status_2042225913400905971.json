@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042225913400905971",
+    "created_at": "2026-04-09T12:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042225913400905971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042225913400905971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042212452251947035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: HRT与精神科药物：哪些组合需要更谨慎？\n  这篇文章想做一件事：\n  帮助正在服用精神类药物的姐妹，注意可能遇到的药物相互作用带来的风险，在出现问题时和医生沟通、及时调整用药方案和剂量。\n  Part 1：雌激素+拉莫三嗪… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 251,
+        "media_key": "3_2042153096965713920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcvbAGa8AAVzXh.png",
+        "width": 378
+      },
+      {
+        "height": 519,
+        "media_key": "3_2042153179773841408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcvf0lasAAaWhX.jpg",
+        "width": 643
+      },
+      {
+        "height": 831,
+        "media_key": "3_2042153195766738944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcvgwKa8AAUWxI.jpg",
+        "width": 1203
+      },
+      {
+        "height": 167,
+        "media_key": "3_2042153206999085057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcvhaAa8AEr8hz.png",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042225913400905971",
+        "created_at": "2026-04-09T12:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042225913400905971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042225913400905971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042212452251947035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: HRT与精神科药物：哪些组合需要更谨慎？\n  这篇文章想做一件事：\n  帮助正在服用精神类药物的姐妹，注意可能遇到的药物相互作用带来的风险，在出现问题时和医生沟通、及时调整用药方案和剂量。\n  Part 1：雌激素+拉莫三嗪… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042153096965713920",
+            "3_2042153179773841408",
+            "3_2042153195766738944",
+            "3_2042153206999085057"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "2042212452251947035",
+        "created_at": "2026-04-09T12:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042212452251947035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6Nq3OpKMF",
+              "end": 136,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2042212452251947035/photo/1",
+              "media_key": "3_2042153096965713920",
+              "start": 113,
+              "url": "https://t.co/w6Nq3OpKMF"
+            },
+            {
+              "display_url": "pic.x.com/w6Nq3OpKMF",
+              "end": 136,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2042212452251947035/photo/1",
+              "media_key": "3_2042153179773841408",
+              "start": 113,
+              "url": "https://t.co/w6Nq3OpKMF"
+            },
+            {
+              "display_url": "pic.x.com/w6Nq3OpKMF",
+              "end": 136,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2042212452251947035/photo/1",
+              "media_key": "3_2042153195766738944",
+              "start": 113,
+              "url": "https://t.co/w6Nq3OpKMF"
+            },
+            {
+              "display_url": "pic.x.com/w6Nq3OpKMF",
+              "end": 136,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2042212452251947035/photo/1",
+              "media_key": "3_2042153206999085057",
+              "start": 113,
+              "url": "https://t.co/w6Nq3OpKMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042212452251947035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "HRT与精神科药物：哪些组合需要更谨慎？\n  这篇文章想做一件事：\n  帮助正在服用精神类药物的姐妹，注意可能遇到的药物相互作用带来的风险，在出现问题时和医生沟通、及时调整用药方案和剂量。\n  Part 1：雌激素+拉莫三嗪\n  雌激素药物在经肝脏代谢时，可能会加速拉莫三嗪在肝脏中的代谢过程，降低其血药浓度和效果。\n  其原理是：拉莫三嗪主要通过肝脏中的葡萄糖醛酸化过程（由UGT1A4酶来催化）进行代谢 。雌激素能够显著增加UGT1A4 酶的活性和表达，换言之，雌激素水平和酶活性成正相关。 \n  因此，拉莫三嗪的代谢速率被显著的增加了。 \n  这一点并不区分雌激素是否为外源摄入，研究表明，年轻女性（绝经前）的拉莫三嗪清除率最高，而随着年龄增长（进入绝经期）或性别差异，清除率会发生显著变化。 \n  研究显示，在补充雌激素（如口服避孕药或 HRT 激素替代疗法）后，拉莫三嗪的表观清除率平均增加约 2.1 倍 。\n  一项针对 79 名使用雌二醇（1-4 mg/天）进行 HRT 的女性患者的研究显示，其拉莫三嗪的血清浓度（CDR）显著低于对照组，下降幅度通常在25% - 30% 左右；而在高剂量雌激素情况下，血清浓度降幅可达 50% - 60%。 \n  跨性别女性的HRT用药过程中，如果合用拉莫三嗪必须格外注意，雌激素的浓度剧烈波动会影响拉莫三嗪的代谢，从而可能影响双相情感障碍的治疗效果。通常来说，雌激素浓度越高，拉莫三嗪代谢越快，血药浓度越低。\n  雌激素针剂的血药浓度波动相对更大，合用拉莫三嗪时更适合加强症状观察，请谨慎使用此方案。\n\n  Part 2：螺内酯+碳酸锂\n  螺内酯会显著提升碳酸锂的血药浓度。\n  螺内酯是一种醛固酮拮抗剂，它的结构和醛固酮非常类似，因此会在肾脏远曲小管和集合管的细胞里，抢占盐皮质激素受体，从而实现醛固酮拮抗的功能。 \n  由于醛固酮可以促使肾脏排出钾离子，但这一过程被拮抗了，因此钾离子被留在血液内，螺内酯被称为“保钾利尿剂”。 \n  同时，螺内酯能与雄激素受体竞争性结合，从而实现拮抗雄激素的功能。而且，螺内酯能抑制细胞色素 P450 酶系统（特别是17alpha-羟化酶），减少睾丸和肾上腺中雄激素的合成。 \n  碳酸锂中的锂离子由肾脏代谢，它在肾小球被自由滤过，但在近端小管会被部分重吸收。螺内酯会在远端小管阻止钾的排出，而排出钠。这会导致排钠过多，体内钠盐不足，肾脏会代偿性地加强近端小管的重吸收，由于锂离子和钠离子具有相似性，此时锂也会被大量重吸收到血液中。 因此，从净效应来看，锂清除下降，碳酸锂血药浓度升高。已有资料显示，合用利尿剂后血锂浓度的上升，部分资料可见约25%左右升幅（受个体差异影响）。\n一般来说，碳酸锂的治疗窗（合理的血药浓度）在0.6-1.2mmol/L，高于此范围即有锂中毒风险。 因此，当碳酸锂合用螺内酯时，应当格外小心锂中毒，锂中毒早期的典型症状在消化系统（恶心、呕吐、腹泻），神经系统（手抖、肌肉无力），精神状态（反应迟钝），如果有这些症状，请及时就医并调整用药方案。\n\n  Part 3：CPA+抗精神病药（利培酮、帕利哌酮、氨磺必利等）\n  醋酸环丙孕酮（CPA）能够提高泌乳素。CPA有强大的孕激素活性，能够激活孕激素受体，直接刺激脑垂体前叶的催乳素细胞，导致其增殖并增加泌乳素的分泌。 并且，当 CPA 与雌二醇联合使用时，由于雌激素本身也能促进催乳素分泌，两者会产生协同效应，使泌乳素水平升高得更加明显。\n  从一些文献的观点来看，跨性别女性HRT中的泌乳素升高，主要和CPA的使用有关（雌激素是次要的）。 \n  单独使用HRT药物导致高泌乳素血症的风险较小，然而，当CPA与一些抗精神病药合用，尤其是多巴胺 D2 受体拮抗剂时（利培酮、氨磺必利、帕利哌酮等），高泌乳素血症的风险就会提高。\n  多巴胺对泌乳素分泌有抑制作用，一旦垂体上的D2受体被拮抗，多巴胺就失去了效果，此时泌乳素的分泌就会增加。在本身就容易升高泌乳素的药物方案（CPA抗雄）中，高泌乳素血症的风险可能进一步叠加。 \n  在不同的抗精神病药中，应当格外注意3种常见用药：利培酮、帕利哌酮、氨磺必利。这三种药有强力的D2受体拮抗作用，因此提升泌乳素效果强 ，在合用CPA方案HRT时需要非常谨慎。\n\n  Part 4：螺内酯+抗抑郁药（SSRI/SNRI）\n  SSRI类抗抑郁药（舍曲林、西酞普兰、氟西汀、氟伏沙明、帕罗西汀等），SNRI类抗抑郁药（度洛西汀、文拉法辛等），在临床上对于治疗重性抑郁障碍（MDD）非常常用。\n  然而，此类药物有诱发SIADH（抗利尿激素分泌异常综合征）的风险，原理是：\n  SSRI是选择性血清素（5-HT）再摄取抑制剂，而SNRI是选择性血清素和去甲肾上腺素（NE）再摄取抑制剂，服用此种药物后，体内的血清素、（去甲肾上腺素）的水平会提高。而血清素和去甲肾上腺素对下丘脑的抗利尿激素（ADH）神经元有兴奋作用。抗利尿激素的功能是使肾脏收缩水通道，减少尿液排出。换言之，服用SSRI/SNRI相关低钠血症常被认为和SIADH/水潴留有关，临床上表现为稀释性低钠血症风险增加。  \n  由于水分无法排出，体内水分增加，血液中钠离子数量不变的情况下，钠离子被稀释，浓度降低。前文中提到过，螺内酯是保钾利尿剂，排出钠离子留下钾离子。在二者叠加作用下，应当注意低钠血症的风险。\n  如果有突然的头晕、恶心、肌肉抽搐、极度疲劳等不适症状，有可能是低钠血症的症状，请及时就医。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 217,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "HRT与精神科药物：哪些组合需要更谨慎？\n  这篇文章想做一件事：\n  帮助正在服用精神类药物的姐妹，注意可能遇到的药物相互作用带来的风险，在出现问题时和医生沟通、及时调整用药方案和剂量。\n  Part 1：雌激素+拉莫三嗪 https://t.co/w6Nq3OpKMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 594,
+          "like_count": 2140,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl /Liberté Égalité Fraternité/另一个号@PetiteRenarde21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Shirlene_girl"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "PetiteRenarde21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lycoris.online",
+                "end": 23,
+                "expanded_url": "https://lycoris.online",
+                "start": 0,
+                "url": "https://t.co/pE8yXcPFC7"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "pinned_tweet_id": "2021166737559818271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011472697138790400/zWZC7GQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3819,
+          "following_count": 2143,
+          "like_count": 28597,
+          "listed_count": 9,
+          "media_count": 153,
+          "tweet_count": 6936
+        },
+        "url": "https://t.co/pE8yXcPFC7",
+        "username": "EleanorAnatidae",
+        "verified": true
+      }
+    ]
+  }
+}

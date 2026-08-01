@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2042991801087463428",
+    "created_at": "2026-04-12T07:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043230192513253456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1436382702538670083",
+          "start": 0,
+          "username": "di4VtAMalFUds12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043230192513253456",
+    "in_reply_to_user_id": "1436382702538670083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043225035259916707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@di4VtAMalFUds12 对，这我知道的，谢谢你🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2042991801087463428",
+        "created_at": "2026-04-12T07:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043230192513253456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1436382702538670083",
+              "start": 0,
+              "username": "di4VtAMalFUds12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043230192513253456",
+        "in_reply_to_user_id": "1436382702538670083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043225035259916707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@di4VtAMalFUds12 对，这我知道的，谢谢你🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436382702538670083",
+        "conversation_id": "2042991801087463428",
+        "created_at": "2026-04-12T07:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043225035259916707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705499676953497600",
+              "start": 0,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043225035259916707",
+        "in_reply_to_user_id": "1705499676953497600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042991801087463428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liwanmiaohy 有一个界限，比如哪些行为是绝对不允许的，对象要有“特权”，和别人有不一样的地方，再就是具体也看对象介意不介意了，有的人是很介意处子之身的，不过感觉大部分人更介意变性人这块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2042685888862523845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 600,
+          "like_count": 2360,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T17:35:21.000Z",
+        "description": "01年出厂，喜欢对我好的人，重度抑郁加精神分裂12年，大学哈工大语言文学院汉语言专业退学，喜欢读书，主写作与音乐制作，在家啃老，找同城的伴侣",
+        "id": "1436382702538670083",
+        "name": "liliana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451766403560656898/RsQlxLmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 182,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 87
+        },
+        "username": "di4VtAMalFUds12",
+        "verified": false
+      }
+    ]
+  }
+}

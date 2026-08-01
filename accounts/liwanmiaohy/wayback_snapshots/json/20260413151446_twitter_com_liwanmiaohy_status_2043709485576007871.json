@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1705499676953497600",
+    "conversation_id": "2043709485576007871",
+    "created_at": "2026-04-13T15:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043709485576007871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_AkitaYura/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/_AkitaYura/status/2043527478388633907",
+          "start": 36,
+          "url": "https://t.co/O8XBt2SpDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043709485576007871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043527478388633907",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常有诗意和非常有意思的一个测试，推荐大家可以尝试一下，结果挺符合我的 https://t.co/O8XBt2SpDO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705499676953497600",
+        "conversation_id": "2043709485576007871",
+        "created_at": "2026-04-13T15:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043709485576007871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_AkitaYura/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/_AkitaYura/status/2043527478388633907",
+              "start": 36,
+              "url": "https://t.co/O8XBt2SpDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043709485576007871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043527478388633907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常有诗意和非常有意思的一个测试，推荐大家可以尝试一下，结果挺符合我的 https://t.co/O8XBt2SpDO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764856941151596549",
+        "conversation_id": "2043527478388633907",
+        "created_at": "2026-04-13T03:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043527478388633907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "历史隐藏了她们, 但你的灵魂里,有一块碎片, 正 以她的频率震动。 × 长按图片保存到相册 save to share · herti.us 完整的她,留给你下一次遇见 or share with someone who is her HERTI 由你们一起塑造 — momo · 叶清燎 · 禾川 · 蝶琪 · n. · 赭沿 · Rel · 乔吉 · lemon and ananas · 闲快活 · 山岚 · 茉莉慕斯冻 · 黎染鹤 · 奶油蘑菇汤 · 枝枝枝枝快乐生长中 · 服了你了小红薯 · BirdSeeker · pjs唯一官方指定女友 · 超级无敌幸运是我 · 在背单词 · 望梅止可口可乐 · 32680dibfi · Oruiio · 夏天夏天 · Aaron · 申夏·如风摇荷 · 不接月色不种桃花 · 一个自愿单身者的生活 · 立志成为恶俗之王 · Monarch Q · 猫猫の挪威 …… 以及维护群里 449",
+              "display_url": "herti-92p.pages.dev",
+              "end": 36,
+              "expanded_url": "https://herti-92p.pages.dev/",
+              "start": 13,
+              "status": 200,
+              "title": "HERTI · 她的人格地图",
+              "unwound_url": "https://herti-92p.pages.dev/",
+              "url": "https://t.co/aqJQqxSkbg"
+            },
+            {
+              "display_url": "x.com/tingherhea/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tingherhea/status/2043516016614060410",
+              "start": 37,
+              "url": "https://t.co/jgH3Wuc8t1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043527478388633907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043516016614060410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "herti测试的网址更新了https://t.co/aqJQqxSkbg https://t.co/jgH3Wuc8t1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜纯爱Sub🥲｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2043243197737165283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 619,
+          "like_count": 2512,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|颜控💅|#銀桂 #ginzura\n▫️BFF🐑@Ariesicecream",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 16,
+                "tag": "銀桂"
+              },
+              {
+                "end": 28,
+                "start": 20,
+                "tag": "ginzura"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Ariesicecream"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "2042884334349357420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043224120549355520/b7I-tf9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 610,
+          "like_count": 73500,
+          "listed_count": 9,
+          "media_count": 2313,
+          "tweet_count": 19299
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}
