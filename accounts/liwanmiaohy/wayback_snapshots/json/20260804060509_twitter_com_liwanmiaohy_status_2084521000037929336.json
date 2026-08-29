@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084520966605205504"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2084521000037929336",
+    "created_at": "2026-08-04T06:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084521000037929336"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "MtF"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "羽莉"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LUNlqOiTQM",
+          "end": 47,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2084521000037929336/video/1",
+          "media_key": "13_2084520966605205504",
+          "start": 24,
+          "url": "https://t.co/LUNlqOiTQM"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "01a20da949498784"
+    },
+    "id": "2084521000037929336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界太吵，我们悄悄的幸福就好\n#MtF #羽莉 https://t.co/LUNlqOiTQM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [01a20da949498784].",
+      "parameter": "geo.place_id",
+      "resource_id": "01a20da949498784",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "01a20da949498784"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11818,
+        "height": 1280,
+        "media_key": "13_2084520966605205504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084520966605205504/img/dcP_p4qAChlNCQo-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084520966605205504/vid/avc1/320x630/_f2f6y_EIK8dl6UW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084520966605205504/vid/avc1/480x944/naejQi9j1QGksEPv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084520966605205504/vid/avc1/650x1280/x-QXjOD7j4gsQ0Km.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084520966605205504/pl/QL11uchtHg3R6_vL.m3u8"
+          }
+        ],
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084520966605205504"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2084521000037929336",
+        "created_at": "2026-08-04T06:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084521000037929336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "MtF"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "羽莉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUNlqOiTQM",
+              "end": 47,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2084521000037929336/video/1",
+              "media_key": "13_2084520966605205504",
+              "start": 24,
+              "url": "https://t.co/LUNlqOiTQM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01a20da949498784"
+        },
+        "id": "2084521000037929336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界太吵，我们悄悄的幸福就好\n#MtF #羽莉 https://t.co/LUNlqOiTQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "羽と莉の花园",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 647,
+          "like_count": 3847,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}
