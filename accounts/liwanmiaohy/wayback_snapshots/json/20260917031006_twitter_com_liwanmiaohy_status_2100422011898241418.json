@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100421984350011392",
+        "3_2100421991228710912",
+        "3_2100421998132469760",
+        "3_2100422005048987648"
+      ]
+    },
+    "author_id": "1705499676953497600",
+    "conversation_id": "2100422011898241418",
+    "created_at": "2026-09-17T03:10:06.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100422011898241418"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 144,
+          "start": 140,
+          "tag": "MtF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EV9wSv3Mvb",
+          "end": 168,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+          "media_key": "3_2100421984350011392",
+          "start": 145,
+          "url": "https://t.co/EV9wSv3Mvb"
+        },
+        {
+          "display_url": "pic.x.com/EV9wSv3Mvb",
+          "end": 168,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+          "media_key": "3_2100421991228710912",
+          "start": 145,
+          "url": "https://t.co/EV9wSv3Mvb"
+        },
+        {
+          "display_url": "pic.x.com/EV9wSv3Mvb",
+          "end": 168,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+          "media_key": "3_2100421998132469760",
+          "start": 145,
+          "url": "https://t.co/EV9wSv3Mvb"
+        },
+        {
+          "display_url": "pic.x.com/EV9wSv3Mvb",
+          "end": 168,
+          "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+          "media_key": "3_2100422005048987648",
+          "start": 145,
+          "url": "https://t.co/EV9wSv3Mvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100422011898241418",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100421984350011392"
+      },
+      {
+        "media_key": "3_2100421991228710912"
+      },
+      {
+        "media_key": "3_2100421998132469760"
+      },
+      {
+        "media_key": "3_2100422005048987648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在跨性别者的亲密关系中，存在⼀种容易被忽视但极具破具破坏⼒的内在冲突。当个体⾝处⼀段深度关系，且伴侣在现阶段承担了较多的经济⽀出或⽣活托底时，部分跨性别者可能陷⼊⼀种强烈的、近乎⾃毁的愧疚感\n\n旧性别脚本留下的供养者焦虑，把接受爱变成了一场道德审判\n\n这篇文章指在解决这种矛盾🫂\n#MtF https://t.co/EV9wSv3Mvb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2100421984350011392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYyqo-agAAtKdi.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2100421991228710912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYyrCmbIAA7TUE.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2100421998132469760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYyrcUaIAA5KxE.jpg",
+        "width": 1588
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2100422005048987648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYyr2Fb0AA8vHc.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100421984350011392",
+            "3_2100421991228710912",
+            "3_2100421998132469760",
+            "3_2100422005048987648"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2100422011898241418",
+        "created_at": "2026-09-17T03:10:06.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100422011898241418"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EV9wSv3Mvb",
+              "end": 168,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+              "media_key": "3_2100421984350011392",
+              "start": 145,
+              "url": "https://t.co/EV9wSv3Mvb"
+            },
+            {
+              "display_url": "pic.x.com/EV9wSv3Mvb",
+              "end": 168,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+              "media_key": "3_2100421991228710912",
+              "start": 145,
+              "url": "https://t.co/EV9wSv3Mvb"
+            },
+            {
+              "display_url": "pic.x.com/EV9wSv3Mvb",
+              "end": 168,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+              "media_key": "3_2100421998132469760",
+              "start": 145,
+              "url": "https://t.co/EV9wSv3Mvb"
+            },
+            {
+              "display_url": "pic.x.com/EV9wSv3Mvb",
+              "end": 168,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2100422011898241418/photo/1",
+              "media_key": "3_2100422005048987648",
+              "start": 145,
+              "url": "https://t.co/EV9wSv3Mvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100422011898241418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100421984350011392"
+          },
+          {
+            "media_key": "3_2100421991228710912"
+          },
+          {
+            "media_key": "3_2100421998132469760"
+          },
+          {
+            "media_key": "3_2100422005048987648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在跨性别者的亲密关系中，存在⼀种容易被忽视但极具破具破坏⼒的内在冲突。当个体⾝处⼀段深度关系，且伴侣在现阶段承担了较多的经济⽀出或⽣活托底时，部分跨性别者可能陷⼊⼀种强烈的、近乎⾃毁的愧疚感\n\n旧性别脚本留下的供养者焦虑，把接受爱变成了一场道德审判\n\n这篇文章指在解决这种矛盾🫂\n#MtF https://t.co/EV9wSv3Mvb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜爱人: @Xianyufanfan215｜纯爱🥰温柔｜INFJ (Fe-Ti双核，Fi-Si整合)｜🍰2006.3.16 ｜🍥HRT 2026.3.7｜废墟之上磐涅的花园，而我是这座花园的女主人｜仅提供资料与解惑，但请带上你的礼貌与边界｜抖音同名喵🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "Xianyufanfan215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "is_identity_verified": false,
+        "location": "羽と莉の花园",
+        "most_recent_tweet_id": "2100422011898241418",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2054226680642928752",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705499676953497600/1777014402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 629,
+          "like_count": 3886,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 2301
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
